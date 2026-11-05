@@ -9,6 +9,7 @@ Používateľ píše po slovensky – odpovedaj po slovensky.
 |---|---|
 | `analysis/3dmarlon-ps2-virality-breakdown.md` | Detailný rozbor 5 virálnych „PS2 style“ videí od 3dMarlon: záber po zábere, hook, štruktúra, psychologické mechanizmy, vizuál, zvuk, biznis stratégia, checklist. |
 | `analysis/viral-script-prompt-kit.md` | Použiteľné prompty: master prompt na scenár, generátor premís, kritika/prepis, prompty na obrázky a video (PS2 štýl), špecifikácia strihu, ukážkový scenár. |
+| `analysis/heroine-mona-character-sheet.md` | Character sheet trvalej hrdinky značky „Mona“ (ženské publikum): vzhľad, povaha, podpisové gestá, vedľajšie postavy, sezóny, prompty. Vianočné slogany na test: *You met me at a very Christmas time of the year*, *Santa works for me*, *Oh my reindeer!* |
 | `videos/3dmarlon/` | 5 zdrojových videí od 3dMarlon (+ README s prehľadom). |
 | `videos/luca-maxim/` | 5 videí od Luca Maxim (rovnaký PS2 trend; merch „childrenofkhan.com“). Zatiaľ bez samostatného rozboru – stručné porovnanie je v sekcii 8 rozboru 3dMarlon. |
 
