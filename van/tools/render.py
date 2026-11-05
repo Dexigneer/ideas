@@ -57,6 +57,8 @@ CHARS = {
     "KID": ("NEW HIRE", "nervous young man ~22, curly black hair, oversized brand-new suit jacket, new blue "
             "lanyard \"EMPLOYEE\", clutching an onboarding folder",
             "nervous young voice"),
+    "VOICE": ("PHONE VOICE", "", "voice heard through a phone speaker"),
+    "DAD": ("VAN'S DAD", "", "warm, gruff older man's voice on the phone"),
     "PA": ("PA SPEAKER", "", "distorted office loudspeaker announcement, speaker not visible"),
 }
 

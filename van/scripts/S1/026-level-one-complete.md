@@ -2,7 +2,7 @@
 
 `S1 · LEVEL 1 – SYSTEM OVERRIDE` · `Typ A – cutscéna` · `~15 s` · `8 záberov`
 
-[← #025](../S1/025-the-rooftop.md) · [📋 zoznam](../README.md)
+[← #025](../S1/025-the-rooftop.md) · [📋 zoznam](../README.md) · [#027 →](../S2/027-everyone-is-not-a-niche.md)
 
 > **Premisa:** Ráno po streche. June príde do kancelárie a prvýkrát nepozrie na hodiny. Povie Vanovi: „Teach me.“  
 > **Emócia diváka:** rozhodnutie, husia koža – finále sezóny  

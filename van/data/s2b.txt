@@ -1,0 +1,168 @@
+#037 VALIDATE BEFORE YOU BUILD
+type: B
+emo: úľava – nemusím riskovať mesiace práce
+edu: Validácia za 48 h: 1) opýtaj sa 10 ľudí z niky, 2) ukáž im ukážku, 3) ponúkni predobjednávku. Peniaze sú jediný „áno“.
+premise: June chce stavať 3 mesiace. Van jej povie, nech to najprv otestuje za 48 hodín.
+clue: na HUD beží odpočet 48:00:00
+loop: odpočet sa reštartuje pre ďalší nápad
+caption: don't build for 3 months. validate in 48 hours. here's how ⏱️
+cta: yes
+> CU | L06 | JUNE | JUNE: I'll build it PERFECTLY. Three months. | JUNE opens a huge project plan | HUD: LEVEL 2 – VALIDATION
+> MCU | L06 | VAN | VAN: What if nobody wants it? | VAN on video call | DROP
+> CU | L06 | JUNE | JUNE: …Then I wasted THREE months?! | JUNE freezes | HUD: TIMER 48:00:00
+> MCU | L06 | VAN | VAN: Ask ten nurses first. | VAN holds up both hands | HUD: STEP 1/3 – ASK 10 PEOPLE
+> MCU | L06 | VAN | VAN: Show them one page. | VAN holds up a single sheet | HUD: STEP 2/3 – SHOW A SAMPLE
+> MCU | L06 | VAN | VAN: Then ask for money. | VAN | HUD: STEP 3/3 – PRE-SELL
+> CU | L06 | JUNE | JUNE: Money?! Before it EXISTS? | JUNE's glasses slide down | OUT
+> MCU | L06 | VAN | VAN: Likes lie. Payments don't. | VAN |
+> CAM | L06 | VAN | VAN: Forty-eight hours. | VAN looks into the lens | LOOP
+
+#038 THE FIRST YES
+type: A
+emo: radosť, dojatie, prvé potvrdenie
+premise: Mae ukáže ukážku plánovača kolegyniam v nemocnici. Jedna nová sestra pošle June hlasovú správu.
+clue: na tabuli v nemocnici niekto napísal „WHO MADE THIS??“
+loop: príde ďalšia hlasová správa
+caption: a stranger said "I'd pay for this" and I cried in a supply closet. 🥹
+> CU | L02 | JUNE | — | JUNE stares at her phone in the break room, nervous, one unread voice message from an unknown number |
+> W | L09 | MAE | — | MAE shows a printed page to two tired nurses at the station; the whiteboard says "WHO MADE THIS??" | DROP
+> CU | L02 | JUNE | JUNE: Van. A STRANGER sent me a voice message. | JUNE whispers |
+> MCU | L02 | VAN | VAN: Play it. | VAN leans on the counter |
+> INS | L02 | — | VOICE(VO): Hi, I'm Priya. First year on nights. | the phone's voice-message waveform |
+> INS | L02 | — | VOICE(VO): Can I buy this? Like… tonight? | the waveform continues | OUT
+> CU | L02 | JUNE | JUNE: She wants to BUY it. | JUNE's hand covers her mouth, tears forming |
+> CAM | L02 | VAN | VAN: That's your first yes. | VAN looks into the lens, softly smiling | LOOP
+
+#039 THE EMPTY CHAIR
+type: A
+emo: smútok, pochopenie Vanovej motivácie
+premise: June prvýkrát navštívi Vanov loft a všimne si rodinnú fotku s prázdnou stoličkou.
+clue: na fotke je torta s číslom 60
+loop: Van otočí fotku späť
+caption: he missed one birthday for a quarterly report. that's why he left. 🪑
+> W | L10 | VAN JUNE | JUNE: Your place is so… CALM. | JUNE walks into VAN's sunny loft, looking around amazed |
+> INS | L10 | — | — | a framed family photo on a shelf: a family around a cake with the number 60, one empty chair | DROP
+> CU | L10 | JUNE | JUNE: Who's missing? | JUNE picks up the photo |
+> MCU | L10 | VAN | VAN: Me. | VAN quietly, pouring coffee |
+> CU | L10 | JUNE | JUNE: Where WERE you? | JUNE turns to him |
+> MCU | L10 | VAN | VAN: Quarterly report. | VAN looks at the photo, not at her | OUT
+> CU | L10 | JUNE | JUNE: Your dad's SIXTIETH? | JUNE whispers |
+> CU | L10 | VAN | VAN: He saved my chair. | VAN's eyes glisten |
+> CAM | L10 | VAN | VAN: Never again. | VAN looks into the lens | LOOP
+
+#040 I HAD A WATCH TOO
+type: C
+emo: empatia – aj Van bol June
+premise: Van na streche hovorí, že kedysi bol presne ako ona.
+loop: odraz Vana v mokrom zábradlí – v starom obleku
+caption: he wasn't born calm. he was you. 🌧️
+cta: yes
+> W | L05 | VAN | — | VAN alone on the rooftop at night, rain, mug in hand | DROP
+> MCU | L05 | VAN | VAN: I had a watch too. | VAN looks at his bare wrist |
+> INS | L05 | VAN | — | VAN's reflection in a puddle shows him in an old suit with a lanyard "EMPLOYEE" and a watch |
+> CU | L05 | VAN | VAN: Checked it every minute. | VAN quietly |
+> CAM | L05 | VAN | VAN: Then I built. | VAN looks into the lens | OUT, LOOP
+
+#041 STOP ADDING PAGES
+type: B
+emo: úľava od perfekcionizmu
+edu: Feature creep zabíja launch. Minimálna verzia, ktorá rieši 1 bolesť, je lepšia než 200 strán, ktoré nikdy nevyjdú.
+premise: June má 200 strán a stále pridáva. Van ju zastaví.
+clue: počítadlo strán na HUD rastie 47 → 112 → 214
+loop: June pridá stranu 215
+caption: your product doesn't need 200 pages. it needs to ship. ✂️
+cta: yes
+> CU | L06 | JUNE | JUNE: Just a FEW more pages. | JUNE types frantically, PIVOT watching | HUD: PAGES: 47
+> MCU | L06 | VAN | VAN: How many now? | VAN on video call | DROP
+> CU | L06 | JUNE | JUNE: Two hundred and FOURTEEN. | JUNE proudly | HUD: PAGES: 214
+> MCU | L06 | VAN | VAN: What hurts most? | VAN |
+> CU | L06 | JUNE | JUNE: Sleep, meals, swaps. | JUNE counts on fingers | HUD: CORE PAINS: 3
+> MCU | L06 | VAN | VAN: Then three sections. Ship it. | VAN |
+> CU | L06 | JUNE | JUNE: But the BONUS recipes! The COLOR themes! | JUNE clutches her laptop | OUT
+> MCU | L06 | VAN | VAN: Version two. | VAN | HUD: CUT 211 PAGES
+> CAM | L06 | VAN | VAN: Done beats perfect. | VAN looks into the lens | LOOP
+
+#042 PTO DENIED
+type: A
+emo: frustrácia, smiech z absurdity
+premise: June žiada o jeden voľný deň, aby dokončila produkt. Šéf ho zamietne kvôli „kritickému obdobiu“, ktoré trvá celý rok.
+clue: v kalendári je celý rok označený ako „CRITICAL PERIOD“
+loop: ďalšia žiadosť – DENIED
+caption: "it's a critical period" — the critical period: 📅 jan–dec
+> CU | L03 | JUNE | JUNE: Can I take ONE day off? Friday? | JUNE holds a PTO request form |
+> CU | L03 | MGMT | MGMT: DENIED. Critical period. | MANAGEMENT stamps the form red | DROP
+> CU | L03 | JUNE | JUNE: Next Friday? | JUNE |
+> CU | L03 | MGMT | MGMT: CRITICAL period. | the stamp again |
+> CU | L03 | JUNE | JUNE: When does it END?! | JUNE |
+> INS | L03 | — | — | a wall calendar where every month from January to December is highlighted "CRITICAL PERIOD" | OUT
+> MCU | L01 | VAN JUNE | JUNE: It's the whole YEAR, Van. | JUNE slumps at her desk |
+> CAM | L01 | VAN | VAN: Build on weekends. | VAN looks into the lens | LOOP
+
+#043 OVERQUALIFIED
+type: A
+emo: bolesť, súcit s Olliem
+premise: Ollie sedí v parku v utorok ráno. Tretie odmietnutie: „overqualified“. Van si k nemu prisadne.
+clue: Ollie má v ruke ručne vyrobenú vtáčiu búdku
+loop: ďalší e-mail „overqualified“
+caption: 24 years of experience. "overqualified". three times. 🥀
+> W | L12 | OLLIE | — | OLLIE sits alone on a park bench on a sunny Tuesday, still wearing his vest, phone in hand |
+> INS | L12 | — | — | OLLIE's phone: three emails "Unfortunately… overqualified" | DROP
+> CU | L12 | OLLIE | OLLIE: Overqualified. THREE times this week. | OLLIE speaks to himself, voice shaking |
+> 2S | L12 | VAN OLLIE | VAN: Mind if I sit? | VAN sits beside him with two coffees |
+> CU | L12 | OLLIE | OLLIE: Twenty-four years and nobody WANTS me. | OLLIE takes the coffee, eyes wet | OUT
+> INS | L12 | — | — | a beautiful handmade wooden birdhouse on the bench next to OLLIE |
+> MCU | L12 | VAN | VAN: You made that? | VAN nods at the birdhouse |
+> CU | L12 | OLLIE | OLLIE: Just a hobby. | OLLIE shrugs |
+> CAM | L12 | VAN | VAN: For now. | VAN looks into the lens | LOOP
+
+#044 NAME IT LIKE A RESULT
+type: B
+emo: hravosť, „aha“
+edu: Pomenuj produkt podľa výsledku, nie podľa formátu: „Planner Vol. 1“ → „Night Shift OS: sleep, eat, swap“.
+premise: June vymýšľa názov. Van ju vedie od nudného k výsledku.
+clue: na HUD sa názov „vylepšuje“ ako zbraň v hre
+loop: June napíše podnadpis
+caption: nobody buys "Planner Vol. 1". name it after the result. ✍️
+cta: yes
+> CU | L06 | JUNE | JUNE: I'll call it… Planner Volume One. | JUNE types it proudly | HUD: NAME LVL 1 – PLANNER VOL. 1
+> MCU | L06 | VAN | VAN: What does it do? | VAN on video call | DROP
+> CU | L06 | JUNE | JUNE: It helps nurses on nights? | JUNE | HUD: NAME LVL 2 – NIGHT NURSE PLANNER
+> MCU | L06 | VAN | VAN: What do they get? | VAN |
+> CU | L06 | JUNE | JUNE: Sleep. Food. Their LIFE back. | JUNE sits up | HUD: NAME LVL 3 – RESULT FOUND
+> INS | L06 | — | — | the screen: "NIGHT SHIFT OS – sleep, eat and swap shifts without the chaos" | OUT
+> CU | L06 | JUNE | JUNE: Oh. It sounds REAL now. | JUNE smiles wide |
+> CAM | L06 | VAN | VAN: Name the result. | VAN looks into the lens | LOOP
+
+#045 SAVE GAME
+type: A
+emo: panika → smiech
+premise: Pivot sa prejde po klávesnici a June si myslí, že stratila 3 týždne práce.
+clue: v rohu obrazovky je ikonka cloudu so zelenou fajkou
+loop: Pivot sa znova vyškriabe na stôl
+caption: my cat walked on my keyboard and I aged 10 years 🐈
+> W | L06 | JUNE PIVOT | — | PIVOT strolls slowly across JUNE's laptop keyboard while she is getting tea |
+> INS | L06 | — | — | the laptop screen goes blank: "Untitled – 0 pages" | DROP
+> CU | L06 | JUNE | JUNE: PIVOT! THREE WEEKS of work! | JUNE screams, dropping her tea |
+> CU | L06 | PIVOT | — | PIVOT stares back, unbothered, bent ear twitching |
+> MCU | L06 | VAN | VAN: Check the corner. | VAN on video call, sipping |
+> INS | L06 | — | — | a small cloud icon with a green check mark: "Saved 1 min ago" | OUT
+> CU | L06 | JUNE | JUNE: …Auto-save? | JUNE collapses with relief |
+> CAM | L06 | VAN | VAN: Always save. | VAN looks into the lens | LOOP
+
+#046 THE CATALYST PROMPTS
+type: B
+emo: sila – „toto mi ušetrí týždne“
+edu: Tri AI prompty na urýchlenie: 1) „vypíš 20 bolestí mojej niky“, 2) „urob osnovu riešenia“, 3) „napíš predajnú stránku z pohľadu zákazníka“.
+premise: June píše texty celý víkend. Van jej ukáže tri prompty, ktoré to urobia za hodinu.
+clue: HUD ukazuje čas: 48 h → 1 h
+loop: June napíše štvrtý prompt
+caption: 3 prompts that did my whole weekend of work in 1 hour 🤖 (save this)
+cta: yes
+> CU | L06 | JUNE | JUNE: I've been writing for the WHOLE weekend. | JUNE surrounded by crumpled paper | HUD: LEVEL 2 – THE CATALYST
+> MCU | L06 | VAN | VAN: Use three prompts. | VAN on video call | DROP, HUD: TIME LEFT 48H
+> INS | L06 | — | VAN(VO): List twenty pains of my niche. | a prompt typed into an AI chat window, a list appears | HUD: PROMPT 1/3 – PAINS
+> INS | L06 | — | VAN(VO): Outline a fix for the top three. | an outline appears | HUD: PROMPT 2/3 – OUTLINE
+> INS | L06 | — | VAN(VO): Write the page as the customer. | a sales page appears | HUD: PROMPT 3/3 – SALES PAGE
+> CU | L06 | JUNE | JUNE: That took ONE hour?! | JUNE stares at the clock | OUT, HUD: TIME LEFT 47H
+> MCU | L06 | VAN | VAN: You still edit everything. | VAN raises a finger |
+> CAM | L06 | VAN | VAN: AI drafts. You decide. | VAN looks into the lens | LOOP

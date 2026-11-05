@@ -1,0 +1,94 @@
+#047 THE GROUP CHAT
+type: A
+emo: zranenie, hanba → vzdor
+premise: June omylom uvidí skupinový chat kolegov, kde sa smejú z jej „malého biznisu“.
+clue: chat sa volá „Work Fam 🍕“
+loop: príde ďalšia posmešná správa
+caption: when your "work fam" group chat laughs at your dream 🙂 keep going.
+> INS | L01 | — | — | a monitor left open: group chat "Work Fam 🍕" with messages "June's LITTLE business lol" |
+> CU | L01 | JUNE | — | JUNE reads over a clone's shoulder, her face falling | DROP
+> W | L01 | NPC | NPC: A PLANNER? For NURSES? Ha ha ha. | three identical clones laugh in perfect sync |
+> CU | L01 | JUNE | JUNE: I thought they were my FRIENDS. | JUNE whispers to VAN in the stairwell doorway |
+> MCU | L01 | VAN | VAN: They laughed at me too. | VAN calm | OUT
+> CU | L01 | JUNE | JUNE: What did you DO? | JUNE wipes her eyes |
+> MCU | L01 | VAN | VAN: Kept building. Quietly. | VAN |
+> CAM | L01 | VAN | VAN: Results are louder. | VAN looks into the lens | LOOP
+
+#048 WHOSE BIRTHDAY?
+type: A
+emo: smiech z prázdnych firemných rituálov
+premise: Kancelária oslavuje narodeniny niekoho, koho nikto nepozná. June počíta, koľko hodín to stojí.
+clue: na torte je napísané „HAPPY BIRTHDAY ______“
+loop: ďalšia torta, ďalšie prázdne meno
+caption: singing happy birthday to someone nobody has ever met 🎂 corporate traditions
+> W | L02 | NPC JUNE | NPC: Happy birthday to YOU! | clones sing around a cake, JUNE claps awkwardly |
+> INS | L02 | — | — | the cake reads "HAPPY BIRTHDAY ______" with a blank space | DROP
+> CU | L02 | JUNE | JUNE: Whose birthday IS it? | JUNE whispers to a clone |
+> CU | L02 | NPC | NPC: Nobody knows. We do it every Thursday. | the clone smiles blankly |
+> CU | L02 | JUNE | JUNE: Forty people, thirty minutes… TWENTY hours a week?! | JUNE calculates on her fingers | OUT
+> MCU | L02 | VAN | VAN: Twenty hours. | VAN eats a slice calmly |
+> CU | L02 | JUNE | JUNE: I could build a product in twenty hours. | JUNE realises |
+> CAM | L02 | VAN | VAN: Exactly. | VAN looks into the lens, cake on his fork | LOOP
+
+#049 DONE BEATS PERFECT
+type: C
+emo: motivácia na dokončenie
+premise: Van na streche, tri vety o dokončení.
+loop: mestské svetlá sa rozsvietia jedno po druhom
+caption: perfect never ships. 🚀
+cta: yes
+> W | L05 | VAN | — | VAN on the rooftop at dusk, the city lights turning on one by one | DROP
+> MCU | L05 | VAN | VAN: Perfect never ships. | VAN |
+> CU | L05 | VAN | VAN: Finished teaches you. | VAN sips |
+> CAM | L05 | VAN | VAN: Ship it ugly. | VAN looks into the lens | OUT, LOOP
+
+#050 SEVEN HOURS
+type: A
+emo: dojatie – produkt naozaj pomáha
+premise: Mae týždeň testuje June plánovač. Zavolá jej ráno po zmene: prvýkrát za rok spala 7 hodín.
+clue: na Mae skrinke je prilepený plánovač s odškrtnutými políčkami
+loop: Mae zaspí uprostred hovoru
+caption: my sister slept 7 hours for the first time in a year. because of a planner I made. 🥹
+> W | L09 | MAE | — | MAE leaves the hospital at sunrise, the planner sticking out of her bag |
+> CU | L06 | JUNE | JUNE: Mae? Is something WRONG? | JUNE answers the phone at 7 AM, panicked | DROP
+> CU | L09 | MAE | MAE: Junie… I slept SEVEN hours yesterday. | MAE laughs, stunned |
+> CU | L06 | JUNE | JUNE: Seven?! Since WHEN? | JUNE sits up |
+> CU | L09 | MAE | MAE: First time in a year. Your plan worked. | MAE's eyes fill with tears | OUT
+> INS | L09 | — | — | the planner taped inside MAE's locker with every box ticked |
+> CU | L06 | JUNE | JUNE: It WORKED? | JUNE cries and laughs |
+> CAM | L09 | MAE | MAE: Sell it. Please. | MAE looks into the lens | LOOP
+
+#051 WHAT'S IT WORTH?
+type: B
+emo: odvaha pýtať si peniaze
+edu: Cena podľa hodnoty, nie podľa hodín práce. Porovnaj s cenou bolesti (káva, únava, chyby). Nízka cena = nízka dôvera.
+premise: June chce produkt predávať za $3, lebo „je to len PDF“. Van jej ukáže, koľko stojí bolesť.
+clue: HUD ukazuje cenu ako „loot“: common → rare
+loop: June zdvihne cenu ešte o dolár
+caption: you're not selling a PDF for $3. you're selling 7 hours of sleep. price it. 💵
+cta: yes
+> CU | L06 | JUNE | JUNE: Three dollars. It's just a PDF. | JUNE types $3 | HUD: LEVEL 2 – PRICING
+> MCU | L06 | VAN | VAN: What does it fix? | VAN on video call | DROP
+> CU | L06 | JUNE | JUNE: Sleep. Food. Stress. | JUNE counts | HUD: VALUE: SLEEP + FOOD + STRESS
+> MCU | L06 | VAN | VAN: What's that worth monthly? | VAN |
+> CU | L06 | JUNE | JUNE: Mae spends forty on ENERGY drinks. | JUNE realises | HUD: COST OF PAIN: $40+/MONTH
+> MCU | L06 | VAN | VAN: Three dollars says cheap. | VAN |
+> CU | L06 | JUNE | JUNE: Nineteen? | JUNE nervously types $19 | OUT, HUD: PRICE: $19 – RARE
+> CAM | L06 | VAN | VAN: Price the outcome. | VAN looks into the lens | LOOP
+
+#052 THE PUBLISH BUTTON
+type: A
+emo: napätie, strach, cliffhanger
+premise: Polnoc. Produkt je hotový. June má prst nad tlačidlom PUBLISH. Zazvoní telefón – šéf.
+clue: na telefóne svieti „MANAGEMENT“ o 23:58
+loop: obrazovka „LEVEL 3 UNLOCKED“
+caption: finger on the button. then my boss called at 11:58 PM. 😳 (part 2 tomorrow)
+> W | L06 | JUNE PIVOT | — | JUNE at midnight, the laptop screen shows a big green button "PUBLISH", PIVOT watching |
+> CU | L06 | JUNE | JUNE: What if NOBODY buys it? | JUNE whispers, finger hovering | DROP
+> MCU | L06 | VAN | VAN: Then you learn. | VAN on video call, small window on screen |
+> CU | L06 | JUNE | JUNE: What if they LAUGH? | JUNE |
+> MCU | L06 | VAN | VAN: Then they laugh. | VAN |
+> INS | L06 | — | — | JUNE's finger an inch above the trackpad, cursor on "PUBLISH" |
+> INS | L06 | — | — | her phone lights up: "MANAGEMENT calling… 11:58 PM" | OUT, SFX: phone vibrating
+> CU | L06 | JUNE | JUNE: Why is he calling NOW?! | JUNE freezes |
+> CAM | L06 | VAN | VAN: Your choice. | VAN looks into the lens | HUD: LEVEL 2 COMPLETE – LEVEL 3 UNLOCKED, LOOP

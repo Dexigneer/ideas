@@ -1,0 +1,168 @@
+#027 EVERYONE IS NOT A NICHE
+type: B
+emo: „aha“, úľava – nemusím predávať všetkým
+edu: Mikro-niche v 3 krokoch: zúž publikum (všetci → sestry → nočné sestry → nové nočné sestry).
+premise: June chce robiť plánovač „pre všetkých“. Van ju trikrát zúži.
+clue: na tabuli sa kruh zmenšuje, až je z neho bodka s menom Mae
+loop: June zúži ešte raz
+caption: "my product is for everyone" = it's for no one. zoom in 3 times 🎯
+cta: yes
+> CU | L06 | JUNE | JUNE: A planner for EVERYONE. Big market! | JUNE excitedly draws a huge circle on a sticky note | HUD: LEVEL 2 – ASSET FORGING
+> MCU | L06 | VAN | VAN: Everyone buys nothing. | VAN on a video call on her laptop | DROP
+> CU | L06 | JUNE | JUNE: Okay… for NURSES? | JUNE draws a smaller circle | HUD: ZOOM 1/3 – NURSES
+> MCU | L06 | VAN | VAN: Closer. | VAN nods |
+> CU | L06 | JUNE | JUNE: NIGHT shift nurses? | JUNE draws an even smaller circle | HUD: ZOOM 2/3 – NIGHT SHIFT
+> MCU | L06 | VAN | VAN: Closer. | VAN smiles slightly |
+> CU | L06 | JUNE | JUNE: NEW night nurses. In their first year. Like Mae was. | JUNE draws a tiny dot and writes MAE next to it | HUD: ZOOM 3/3 – FIRST-YEAR NIGHT NURSES
+> INS | L06 | — | — | the sticky note: a giant circle shrinking to one tiny dot labelled "MAE" | OUT
+> CU | L06 | JUNE | JUNE: Isn't that too SMALL?! | JUNE panics |
+> CAM | L06 | VAN | VAN: Small is findable. | VAN looks into the lens | HUD: NICHE LOCKED, LOOP
+
+#028 I HAVE NO SKILLS
+type: A
+emo: impostor syndróm, súcit
+premise: June v noci prepadne panike, že nič nevie. Van jej ukáže, ako ju vidia ostatní.
+clue: v kancelárii visí na nástenke list „ASK JUNE“ s 12 menami
+loop: ďalší kolega pripíše meno na zoznam
+caption: you think you have no skills. your coworkers have a list called "ask June". 🥹
+> CU | L06 | JUNE | JUNE: What was I THINKING? I can't do this. | JUNE at 1 AM, head on the laptop, PIVOT on the keyboard |
+> CU | L06 | JUNE | JUNE: I have ZERO skills. | JUNE muffled | DROP
+> MCU | L06 | VAN | VAN: Check your work inbox. | VAN on her laptop screen |
+> INS | L06 | — | — | an inbox full of subjects: "June can you fix…", "June how do I…", "June HELP" |
+> CU | L06 | JUNE | JUNE: That's just… people being LAZY. | JUNE scrolls |
+> INS | L01 | — | — | the office pinboard: a paper "ASK JUNE" with twelve names signed under it | OUT
+> CU | L06 | JUNE | JUNE: There's a LIST?! | JUNE's glasses slide down |
+> CAM | L06 | VAN | VAN: That's called demand. | VAN looks into the lens | LOOP
+
+#029 PAIN-KILLER, NOT VITAMIN
+type: B
+emo: jasnosť – čo ľudia skutočne kúpia
+edu: Ľudia platia za pain-killer (bolesť, ktorú cítia dnes), nie za vitamín (pekné mať).
+premise: June chce robiť „motivačný denník“. Van jej ukáže rozdiel cez Mae.
+clue: Mae má na ruke napísané pero „EAT?“
+loop: ďalšia bolesť na zozname
+caption: nobody buys vitamins. everyone buys pain-killers. which is your product? 💊
+cta: yes
+> CU | L06 | JUNE | JUNE: A cute MOTIVATION journal for nurses! | JUNE shows a pastel cover design | HUD: LEVEL 2 – PAIN-KILLERS
+> MCU | L06 | VAN | VAN: Is that a vitamin? | VAN on her laptop | DROP
+> MCU | L06 | VAN | VAN: Ask what hurts. | VAN | HUD: VITAMIN = NICE TO HAVE
+> CU | L09 | MAE | MAE(VO): Sleeping at noon. Eating at three AM. Shift swaps. | MAE on the phone at the nurses' station, a pen note "EAT?" on her hand | HUD: PAIN-KILLER = HURTS TODAY
+> CU | L06 | JUNE | JUNE: Nobody asked for MOTIVATION. | JUNE crosses out the journal |
+> CU | L06 | JUNE | JUNE: Sleep. Meals. Swaps. ONE system. | JUNE writes three words on a sticky note | HUD: 3 PAINS – 1 SOLUTION
+> CU | L09 | MAE | MAE(VO): I'd pay for that TONIGHT. | MAE on the phone | OUT
+> CAM | L06 | VAN | VAN: Now it's medicine. | VAN looks into the lens | LOOP
+
+#030 NOBODY ASKS
+type: A
+emo: dojatie – byť videný
+premise: June zavolá Mae a po prvýkrát sa jej opýta, čo je na nočných najhoršie. Mae sa rozplače, lebo sa to nikto nepýta.
+clue: Mae drží v ruke fotku June z detstva prilepenú na skrinke
+loop: Mae povie „ask me again tomorrow“
+caption: sometimes the business idea is just asking someone you love "what's the hardest part?" 🤍
+> CU | L06 | JUNE | JUNE: Mae, what's the WORST part of nights? | JUNE on the phone, notebook ready |
+> CU | L09 | MAE | MAE: You want the real answer? | MAE leans against her locker, surprised | DROP
+> CU | L09 | MAE | MAE: I miss everything. Birthdays. Daylight. You. | MAE quietly |
+> CU | L06 | JUNE | JUNE: Why didn't you TELL me? | JUNE stops writing |
+> CU | L09 | MAE | MAE: Nobody asks, Junie. Nobody. | tears run down MAE's tired face | OUT
+> INS | L09 | — | — | inside MAE's locker: a childhood photo of the two sisters taped to the door |
+> CU | L06 | JUNE | JUNE: I'm asking now. | JUNE wipes her eyes, pen ready again |
+> CAM | L09 | MAE | MAE: Then write fast. | MAE laughs through tears, looking into the lens | LOOP
+
+#031 COMPETITION: HIGH
+type: B
+emo: strach z konkurencie → stratégia
+edu: Keď je konkurencia vysoká, nevzdávaj sa – zmeň uhol. Vantage Suite navrhne menej konkurenčný produkt.
+premise: June zistí, že plánovačov pre sestry je tisíc. Van jej ukáže terminál, ktorý navrhne lepší uhol.
+clue: terminál zobrazí slovo „NEW GRAD“ zeleným
+loop: terminál ukáže ďalší uhol
+caption: "there's already 1000 of these" — good. that means people buy them. now zoom in 👇
+cta: yes
+> CU | L06 | JUNE | JUNE: There are a THOUSAND nurse planners. It's over. | JUNE scrolls a marketplace full of planners | HUD: LEVEL 2 – COMPETITION
+> MCU | L06 | VAN | VAN: Ask the terminal. | VAN on video call | DROP
+> INS | L06 | — | — | a retro game-style terminal app on the laptop: "PRODUCT: NURSE PLANNER – COMPETITION: HIGH" in red | HUD: SCAN 1/3 – COMPETITION HIGH | @2.5
+> CU | L06 | JUNE | JUNE: See?! RED. | JUNE points |
+> INS | L06 | — | — | the terminal blinks: "SUGGESTED: NIGHT-SHIFT SURVIVAL OS FOR NEW GRAD NURSES – COMPETITION: LOW" in green | HUD: SCAN 2/3 – NEW ANGLE | @3
+> CU | L06 | JUNE | JUNE: Nobody's doing THAT. | JUNE leans closer | HUD: SCAN 3/3 – GAP FOUND
+> MCU | L06 | VAN | VAN: Same pain. Emptier room. | VAN | OUT
+> CAM | L06 | VAN | VAN: Walk in. | VAN looks into the lens | LOOP
+
+#032 3 AM BUILD
+type: C
+emo: tichá motivácia, „je to ťažké, ale moje“
+premise: June stavia produkt o 3:00 v noci. Pivot spí na klávesnici. Mae je na zmene v tej istej minúte.
+loop: oba hodiny ukážu 3:07
+caption: same 3 AM. different reasons. 🌙
+cta: yes
+> W | L06 | JUNE PIVOT | — | JUNE works on her laptop at 3 AM, fairy lights, PIVOT asleep beside the keyboard | DROP
+> W | L09 | MAE | — | MAE walks down the hospital corridor at the same moment, clock 3:07 |
+> CU | L06 | JUNE | JUNE: For you, Mae. | JUNE whispers, typing |
+> INS | L06 | — | — | the laptop screen: a page titled "NIGHT SHIFT OS – PAGE 1" |
+> CAM | L06 | JUNE | JUNE: Almost there. | JUNE looks up into the lens, tired but smiling | OUT, LOOP
+
+#033 WHO AM I TO SELL THIS?
+type: A
+emo: impostor syndróm → odvaha
+premise: June sa bojí, že nie je sestra, a teda nemá právo predávať plánovač pre sestry.
+clue: v správe od Mae je fotka plánu prilepeného na jej skrinke
+loop: June sa opýta znova a Mae pošle ďalšiu fotku
+caption: "who am I to sell this?" — someone who actually built it. 🫶
+> CU | L02 | JUNE | JUNE: I'm not a NURSE. Who am I to sell this? | JUNE in the break room, staring at her phone |
+> MCU | L02 | VAN | VAN: Who's helping them now? | VAN refills his mug | DROP
+> CU | L02 | JUNE | JUNE: …Nobody. | JUNE quietly |
+> MCU | L02 | VAN | VAN: Then you're qualified. | VAN |
+> INS | L02 | — | — | JUNE's phone pings: a photo from MAE of JUNE's printed plan taped inside her locker | OUT
+> CU | L02 | JUNE | JUNE: She TAPED it up? | JUNE's eyes go wide |
+> CU | L02 | JUNE | JUNE: Okay. OKAY. | JUNE straightens up |
+> CAM | L02 | VAN | VAN: Keep building. | VAN looks into the lens | LOOP
+
+#034 THE NO-BRAINER OFFER
+type: B
+emo: vzrušenie – „takto sa robí ponuka“
+edu: Grand Slam Offer: hlavný produkt + bonusy, ktoré riešia ďalšie bolesti + záruka. Ponuka tak dobrá, že je hlúpe odmietnuť.
+premise: June chce predávať len PDF. Van jej poskladá ponuku po vrstvách ako level-up.
+clue: každá vrstva pridá jeden predmet do „inventára“ na HUD
+loop: June pridá ešte jeden bonus
+caption: don't sell a PDF. sell a no-brainer. stack it like this ⬇️
+cta: yes
+> CU | L06 | JUNE | JUNE: So I sell… a PDF? | JUNE holds up a printed planner | HUD: LEVEL 2 – THE OFFER
+> MCU | L06 | VAN | VAN: Sell the outcome. | VAN on her laptop | DROP
+> INS | L06 | — | VAN(VO): The sleep and meal system. | the planner glows | HUD: ITEM 1 – CORE PLANNER
+> INS | L06 | — | VAN(VO): Plus the shift-swap scripts. | a small card appears next to it | HUD: ITEM 2 – SWAP SCRIPTS
+> INS | L06 | — | VAN(VO): Plus a 3 AM meal list. | a grocery list appears | HUD: ITEM 3 – MEAL LIST
+> INS | L06 | — | VAN(VO): And a guarantee. | a gold shield icon appears | HUD: ITEM 4 – GUARANTEE
+> CU | L06 | JUNE | JUNE: It's not a PDF anymore. It's a KIT. | JUNE grins | OUT
+> CAM | L06 | VAN | VAN: Now it's obvious. | VAN looks into the lens | LOOP
+
+#035 TEN STREAMS
+type: A
+emo: smiech, odhalenie podvodu
+premise: Rex predáva „10 streams of income“. Van ho poprosí, nech jeden vymenuje.
+clue: v Rexovom telefóne je otvorená appka banky s červeným zostatkom
+loop: Rex ponúkne „11 streams“
+caption: "10 streams of income" — name one. 🙂
+> W | L08 | REX | REX: TEN streams of income, baby! | REX in the parking garage, ring light on, filming himself |
+> MCU | L08 | REX JUNE VAN | REX: You two want IN? Ninety-nine down! | REX points the selfie stick at JUNE and VAN passing by | DROP
+> MCU | L08 | VAN | VAN: Name one. | VAN stops, mug in hand |
+> CU | L08 | REX | REX: Uh… selling the COURSE. | REX grins |
+> MCU | L08 | VAN | VAN: That's one. | VAN |
+> CU | L08 | REX | REX: And… the course about the COURSE! | REX sweats | OUT
+> INS | L08 | — | — | REX's phone screen shows a bank balance in red |
+> CU | L08 | JUNE | JUNE: That's the SAME stream. | JUNE whispers |
+> CAM | L08 | VAN | VAN: In a circle. | VAN looks into the lens | LOOP
+
+#036 PRODUCTIVITY TRACKER
+type: A
+emo: dusno zo sledovania → vzdor
+premise: Firma nainštaluje sledovanie produktivity. June pracuje na produkte iba cez obedovú pauzu. Šéf ju aj tak napomenie.
+clue: na obrazovke manažéra je graf „MOUSE MOVEMENT“
+loop: ďalší NPC dostane upozornenie
+caption: they track your mouse but not your burnout 🖱️
+> W | L01 | PA NPC | PA: New software tracks your PRODUCTIVITY. Smile! | a red recording dot appears above every monitor |
+> INS | L03 | — | — | the manager's monitor: a live chart titled "MOUSE MOVEMENT" with employee names | DROP
+> MCU | L01 | JUNE | — | JUNE eats a sandwich at her desk at 12:15 while sketching her planner on paper |
+> CU | L01 | MGMT | MGMT: Your mouse hasn't moved in FIFTEEN minutes. | MANAGEMENT looms over her, clipboard in hand |
+> CU | L01 | JUNE | JUNE: It's my LUNCH break. | JUNE holds up the sandwich |
+> CU | L01 | MGMT | MGMT: Lunch is a PRIVILEGE. | MANAGEMENT taps his steel watch | OUT
+> MCU | L01 | VAN | VAN: Lunch is hers. | VAN from the next desk, not looking up |
+> CU | L01 | JUNE | JUNE: He just… LEFT? | JUNE whispers as MANAGEMENT walks away without a word |
+> CAM | L01 | VAN | VAN: Build at lunch. | VAN looks into the lens | LOOP
