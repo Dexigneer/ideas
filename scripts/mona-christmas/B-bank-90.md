@@ -1,6 +1,6 @@
 # B – Zásobník 90 scenárov: „Santa works for me“
 
-`@MONA-B` · Karty B011 – B100. Na rozpísanie karty do plného scenára použi prompt z hlavičky [`A-bank-90.md`](./A-bank-90.md) (zmeň `{SLOGAN}` na `SANTA WORKS FOR ME` a tag na `@MONA-B`).
+`@MONA-B` · **Plné scenáre s promptmi pre každý záber sú v [`B-full/`](./B-full/).** · Karty B011 – B100. Na rozpísanie karty do plného scenára použi prompt z hlavičky [`A-bank-90.md`](./A-bank-90.md) (zmeň `{SLOGAN}` na `SANTA WORKS FOR ME` a tag na `@MONA-B`).
 
 **Pravidlo sloganu B:** Vianoce sú „mágia“, ale robí ich Mona. Slogan je zvrat aj pointa (4 slová). Ideálne ho povie, keď sa niekto spýta „Kto toto všetko urobil?“ alebo keď niekto ďakuje Santovi.
 **Opakujúce sa prvky:** kontakt „Santa 🎅“ v telefóne · Santa „Nick“ ako vyčerpaný zamestnanec · zelený šanón „XMAS – FINAL v7“ · podpis „M“ na všetkom.

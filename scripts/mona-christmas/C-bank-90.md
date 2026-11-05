@@ -1,6 +1,6 @@
 # C – Zásobník 90 scenárov: „Oh my reindeer!“
 
-`@MONA-C` · Karty C011 – C100. Na rozpísanie karty do plného scenára použi prompt z hlavičky [`A-bank-90.md`](./A-bank-90.md) (zmeň `{SLOGAN}` na `OH MY REINDEER!` a tag na `@MONA-C`).
+`@MONA-C` · **Plné scenáre s promptmi pre každý záber sú v [`C-full/`](./C-full/).** · Karty C011 – C100. Na rozpísanie karty do plného scenára použi prompt z hlavičky [`A-bank-90.md`](./A-bank-90.md) (zmeň `{SLOGAN}` na `OH MY REINDEER!` a tag na `@MONA-C`).
 
 **Pravidlo sloganu C:** Mona ho hovorí **úplne bez emócie** („Oh my… reindeer.“), keď sa deje niečo prehnane vianočné, roztomilé alebo absurdné. Iná postava ho môže vykríknuť nadšene – kontrast je vtip.
 **Výnimka:** v C098 ho Mona raz za sezónu vykríkne naozaj (vrchol seriálu).

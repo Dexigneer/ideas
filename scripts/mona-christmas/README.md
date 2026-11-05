@@ -8,9 +8,11 @@ Všetko na výrobu videí s hrdinkou **Monou** pre 3 testované slogany.
 | [`A-test-you-met-me.md`](./A-test-you-met-me.md) | 10 kompletných testovacích scenárov – *You met me at a very Christmas time of the year* |
 | [`B-test-santa-works-for-me.md`](./B-test-santa-works-for-me.md) | 10 kompletných testovacích scenárov – *Santa works for me* |
 | [`C-test-oh-my-reindeer.md`](./C-test-oh-my-reindeer.md) | 10 kompletných testovacích scenárov – *Oh my reindeer!* |
-| [`A-bank-90.md`](./A-bank-90.md) | 90 ďalších scenárov – slogan A |
-| [`B-bank-90.md`](./B-bank-90.md) | 90 ďalších scenárov – slogan B |
-| [`C-bank-90.md`](./C-bank-90.md) | 90 ďalších scenárov – slogan C |
+| [`A-full/`](./A-full/), [`B-full/`](./B-full/), [`C-full/`](./C-full/) | **270 plných scenárov** (90 na slogan, po 10 v súbore) – každý záber má vlastný prompt |
+| [`app/index.html`](./app/index.html) | **Mona Prompt Studio** – appka na prezeranie všetkých 300 videí, tlačidlo COPY pri každom zábere (zostavuje `app/build.py`) |
+| [`A-bank-90.md`](./A-bank-90.md) | 90 ďalších scenárov – slogan A (stručné karty, plné verzie v `A-full/`) |
+| [`B-bank-90.md`](./B-bank-90.md) | 90 ďalších scenárov – slogan B (stručné karty, plné verzie v `B-full/`) |
+| [`C-bank-90.md`](./C-bank-90.md) | 90 ďalších scenárov – slogan C (stručné karty, plné verzie v `C-full/`) |
 | [`../../analysis/mona-marketing-tiktok-strategy.md`](../../analysis/mona-marketing-tiktok-strategy.md) | Marketingová + TikTok stratégia, merch, plán testu |
 
 ---
@@ -86,3 +88,11 @@ Používajú sa vo formátoch `F2`, `F6`. Urob si ich raz ako šablóny:
 - Niekto ju osloví menom. „The Sip“ + pohľad do kamery na konci.
 - Férový zvrat: indícia je v obraze skôr (pri každom scenári je uvedená ako *Easter egg*).
 - Žiadna žena nie je terčom ponižujúceho vtipu. Žiadne chránené postavy, piesne ani logá.
+
+## 5. Appka Mona Prompt Studio
+
+- Otvor `app/index.html` v prehliadači (alebo publikovanú verziu).
+- Vľavo filter sloganu (A/B/C), téma, formát, vyhľadávanie; vpravo zábery s tlačidlom **COPY**.
+- „Kopírovať všetky prompty“ skopíruje celé video naraz; „Označiť ako hotové“ si appka pamätá v tvojom prehliadači.
+- Záložka **Reference images** obsahuje prompty na postavy a lokácie.
+- Po úprave markdownov spusti `python3 scripts/mona-christmas/app/build.py` a appka sa pregeneruje.

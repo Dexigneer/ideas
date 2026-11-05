@@ -1,6 +1,6 @@
 # A – Zásobník 90 scenárov: „You met me at a very Christmas time of the year“
 
-`@MONA-A` · Karty A011 – A100. Každá karta = hotová premisa s hookom, kostrou dialógov, zvratom a pointou.
+`@MONA-A` · **Plné scenáre s promptmi pre každý záber sú v [`A-full/`](./A-full/).** · Karty A011 – A100. Každá karta = hotová premisa s hookom, kostrou dialógov, zvratom a pointou.
 Lokácie a postavy podľa [`00-sheets-characters-locations.md`](./00-sheets-characters-locations.md), formáty `F1–F9` podľa [`README.md`](./README.md).
 
 **Pravidlo sloganu A:** slogan povie Mona človeku, ktorý ju *práve spoznal* (alebo ju „nespoznáva“). Po ňom 0,8 s detail na mikinu.
