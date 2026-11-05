@@ -1,0 +1,179 @@
+#001 VISITOR
+type: A
+emo: zadosťučinenie – systém nemá nad Vanom moc
+premise: Šéf chce Vana vyhodiť za odchody o obede. Nejde to, Van tu už nepracuje.
+clue: kartička VISITOR je viditeľná od záberu 2
+loop: posledný ping → späť na „You left at NOON“
+caption: he's been "working" here for 8 months and nobody noticed 💀 (wait for the badge)
+> OTS | L01 | MGMT VAN JUNE | MGMT: You left at NOON. THREE days in a row. | MANAGEMENT taps a pen on his clipboard over VAN's desk, JUNE peeks over the cubicle wall |
+> MCU | L01 | VAN | VAN: Four. | VAN slowly sips from his white mug, VISITOR badge clearly visible on his chest |
+> CU | L01 | MGMT | MGMT: One more and you're FIRED. | close on the brown tie and clipboard, pen pointing down at the desk | DROP, PING
+> CU | L01 | JUNE | JUNE: Van… your phone keeps PINGING?! | JUNE whispers, wide-eyed, glancing at VAN's face-down phone vibrating |
+> MCU | L01 | VAN | VAN: Sales. | VAN does not even look at the phone, calm half-smile | PING
+> OTS | L01 | MGMT VAN | MGMT: On COMPANY time?! | MANAGEMENT slams his palm on the desk, the mug jumps |
+> CU | L01 | VAN | VAN: My time. | VAN slow blink, unbothered |
+> CU | L01 | MGMT | MGMT: Badge. On the desk. NOW. | MANAGEMENT holds out his open palm, steel watch catching light |
+> INS | L01 | VAN | VAN: Read it. | VAN calmly places his white badge on the desk; the badge reads VISITOR | OUT
+> CU | L01 | JUNE | JUNE: You don't even WORK here?! | JUNE's glasses slide down her nose in shock |
+> CAM | L01 | VAN | VAN: Since March. | VAN looks straight into the lens, slow blink, tiny smirk | PING, LOOP
+
+#002 PIZZA PARTY
+type: A
+emo: frustrácia → horký smiech (každý to zažil)
+premise: June po roku žiada o zvýšenie platu. Dostane pizza party pre celé oddelenie.
+clue: na krabici je jedna pizza, oddelenie má 40 ľudí
+loop: NPC znova kričí „PIZZA PARTY!“
+caption: asked for a raise. got 1/8 of a pizza. what did YOUR company give you instead of a raise? 👇
+> W | L03 | MGMT JUNE | MGMT: You wanted a RAISE? Good news. | MANAGEMENT spreads his arms wide behind his desk, JUNE sits hopeful with a printed spreadsheet |
+> CU | L03 | JUNE | JUNE: Really? After THREE years? | JUNE clutches her spreadsheet, eyes shining with hope |
+> CU | L03 | MGMT | MGMT: PIZZA PARTY. Friday. For the WHOLE team. | MANAGEMENT slaps a single pizza coupon on the desk | DROP
+> W | L02 | NPC JUNE VAN | NPC: PIZZA PARTY! | identical clone coworkers cheer around one small pizza box, JUNE stands frozen, VAN leans on the fridge |
+> MCU | L02 | JUNE VAN | JUNE: Van, there's ONE pizza. There's forty of us. | JUNE holds up a single slice-sized piece, VAN sips coffee |
+> MCU | L02 | VAN | VAN: Do the math. | VAN gestures lazily with his mug |
+> CU | L02 | JUNE | JUNE: One slice is… worth less than my BUS fare?! | JUNE counts on her fingers, horrified |
+> MCU | L02 | VAN | VAN: Cheaper than a raise. | VAN shrugs, calm | OUT
+> CU | L02 | NPC | NPC: Best company EVER! | a clone coworker with pizza sauce on his face gives a thumbs up |
+> CAM | L02 | VAN | VAN: Every year. | VAN looks into the lens, deadpan | LOOP
+
+#003 SINGLE POINT OF FAILURE
+type: B
+emo: uvedomenie – „toto som ja“, mierny strach
+edu: Prečo je job „single point of failure“: 1 šéf, 1 výplata, 1 rozhodnutie od nuly.
+premise: June hovorí, že job je „bezpečný“. Van jej ukáže tri slabé miesta.
+clue: na tabuli Van nakreslí jednu čiaru, ktorú jedným ťahom prečiarkne
+loop: June pozrie na hodinky – 4:59 ako vždy
+caption: your job isn't "safe". it's a single point of failure. here's why (3 things)
+cta: yes
+> MCU | L02 | JUNE VAN | JUNE: At least my job is SAFE. | JUNE stirs her paper cup defensively, VAN by the vending machine | HUD: LEVEL 1 – SYSTEM OVERRIDE
+> MCU | L02 | VAN | VAN: Count your bosses. | VAN raises one finger | DROP
+> CU | L02 | JUNE | JUNE: One? | JUNE hesitates | HUD: WEAK POINT 1/3 – ONE BOSS
+> MCU | L02 | VAN | VAN: Count your paychecks. | VAN raises one finger again |
+> CU | L02 | JUNE | JUNE: …One. | JUNE's smile fades | HUD: WEAK POINT 2/3 – ONE PAYCHECK
+> MCU | L02 | VAN | VAN: And who decides you stay? | VAN looks toward the frosted glass office |
+> W | L03 | MGMT | — | silhouette of MANAGEMENT behind frosted glass, holding a red pen over a list | HUD: WEAK POINT 3/3 – ONE DECISION
+> CU | L02 | JUNE | JUNE: So one email… and I'm at ZERO?! | JUNE grips the counter, panic rising | OUT
+> MCU | L02 | VAN | VAN: That's not safe. That's fragile. | VAN calm, kind eyes |
+> CU | L02 | JUNE | JUNE: Then what's safe?! | JUNE whispers |
+> CAM | L02 | VAN | VAN: Many doors. | VAN looks into the lens, tiny smile | HUD: OBJECTIVE – BUILD A SECOND DOOR, LOOP
+
+#004 4:59
+type: A
+emo: absurdita uväznenia v čase, pocit „každý deň je rovnaký“
+premise: June čaká na 17:00, ale hodiny sa zasekli na 4:59. Všetci NPC opakujú tie isté vety.
+clue: na hodinách sa sekundová ručička posúva dozadu
+loop: hodiny skočia späť na 4:59 a June znova pozerá na hodinky
+caption: me every day at 4:59 pm. why does this minute last 3 hours?? 😭
+> CU | L01 | JUNE | JUNE: Come ON. It's been 4:59 for an HOUR. | JUNE stares at the wall clock, tapping her digital watch |
+> W | L01 | NPC | NPC: Happy almost Friday! | three identical clone coworkers say the same line in perfect sync | DROP
+> CU | L01 | JUNE | JUNE: It's TUESDAY?! | JUNE turns to them, horrified |
+> W | L01 | NPC | NPC: Happy almost Friday! | the clones repeat the exact same motion and line |
+> MCU | L01 | VAN JUNE | JUNE: Van, why won't the clock MOVE?! | JUNE grabs VAN's sleeve; VAN sits feet up, mug in hand |
+> MCU | L01 | VAN | VAN: Look closer. | VAN nods toward the wall clock |
+> INS | L01 | — | — | the second hand of the 4:59 wall clock ticks BACKWARDS | OUT
+> CU | L01 | JUNE | JUNE: It's going BACKWARDS?! | JUNE's glasses slide down |
+> MCU | L01 | VAN | VAN: Always was. | VAN slow blink |
+> CU | L01 | JUNE | JUNE: Then how do I get OUT? | JUNE's voice cracks |
+> CAM | L01 | VAN | VAN: Stop watching it. | VAN looks into the lens; behind him the green EXIT sign glows | LOOP
+
+#005 THE MISSED CALL
+type: A
+emo: vina, smútok – „práca mi berie ľudí“
+premise: June nemôže zdvihnúť telefón sestre Mae, lebo je na porade. Mae jej nechá plačúci odkaz.
+clue: na displeji „MAE (3 missed calls)“ už v zábere 1
+loop: telefón znova zabzučí – ďalší zmeškaný hovor
+caption: the meeting could've been an email. my sister's call couldn't. 💔
+> W | L11 | MGMT NPC JUNE | MGMT: Phones DOWN. This meeting is IMPORTANT. | MANAGEMENT points at a pie chart; JUNE's phone vibrates face up showing MAE calling |
+> CU | L11 | JUNE | JUNE: It's my sister. She NEVER calls. | JUNE whispers, thumb hovering over the screen |
+> CU | L11 | MGMT | MGMT: Then she can WAIT. | the clipboard slams down on the phone | DROP
+> INS | L11 | — | — | the phone screen under the clipboard: "MAE – 3 missed calls" |
+> W | L09 | MAE | MAE(VO): Hey Junie. Sorry. Bad night. | MAE sits on the floor of a hospital corridor at 3 AM, phone to her ear, scrubs stained |
+> CU | L09 | MAE | MAE(VO): I just… needed someone. It's fine. | MAE wipes her eyes with her sleeve, forcing a smile | OUT
+> MCU | L04 | JUNE | — | JUNE listens to the voicemail by the elevator, eyes filling with tears |
+> MCU | L04 | VAN JUNE | JUNE: I couldn't even pick UP. | VAN appears beside her, quiet |
+> CU | L04 | VAN | VAN: Call her back. Now. | VAN gently pushes the stairwell door open for her |
+> CU | L04 | JUNE | JUNE: But the MEETING— | JUNE looks back toward the conference room |
+> CAM | L04 | VAN | VAN: It'll repeat Tuesday. | VAN looks into the lens; the EXIT sign glows above the door | LOOP
+
+#006 HOURS DON'T SCALE
+type: C
+emo: tiché uvedomenie, motivácia
+premise: Van sám na streche v noci. Tri vety o tom, prečo hodiny nestačia.
+loop: neón nad mestom bliká ako hodiny
+caption: they pay you for hours. hours run out.
+cta: yes
+> W | L05 | VAN | — | VAN stands at the rooftop railing in light rain, city neon behind him, mug steaming |
+> MCU | L05 | VAN | VAN: They pay you for hours. | VAN watches the city, calm | DROP
+> CU | L05 | VAN | VAN: Hours run out. | rain drips off the railing, a distant billboard flickers |
+> INS | L05 | — | — | VAN's bare left wrist resting on the wet railing, no watch |
+> CAM | L05 | VAN | VAN: Products don't. | VAN turns his head and looks into the lens, slow blink | OUT, LOOP
+
+#007 PER MY LAST EMAIL
+type: A
+emo: smiech z korporátnej pasívnej agresie
+premise: Klonovaní kolegovia sa hádajú len cez frázu „per my last email“. Van to ukončí.
+clue: všetci NPC majú na monitore ten istý e-mail
+loop: ďalší NPC povie „per my last email“
+caption: corporate passive aggression is a whole language 💀 translate "per my last email" below
+> W | L01 | NPC | NPC: Per my LAST email. | two identical clones face each other across a cubicle wall, smiling tightly |
+> W | L01 | NPC | NPC: As PREVIOUSLY discussed. | the other clone answers with the same frozen smile | DROP
+> CU | L01 | JUNE | JUNE: They've been doing this since NINE. | JUNE whispers to VAN, popcorn-style snacking from a bag of chips |
+> W | L01 | NPC | NPC: Kindly REVERT. | a third identical clone joins, cracking his knuckles |
+> MCU | L01 | VAN JUNE | JUNE: What are they even FIGHTING about?! | JUNE looks at VAN |
+> MCU | L01 | VAN | VAN: A stapler. | VAN points his mug at a red stapler on the cubicle wall |
+> INS | L01 | — | — | a red stapler with a sticky note "PER MY LAST EMAIL" on it | OUT
+> CU | L01 | JUNE | JUNE: Six HOURS for a stapler?! | JUNE's glasses slide down |
+> CAM | L01 | VAN | VAN: Paid hourly. | VAN looks into the lens, deadpan | LOOP
+
+#008 THE NIGHT BUS
+type: A
+emo: melanchólia, súcit, „kde je môj život?“
+premise: 23:00, June v nočnom autobuse. Van sa jej opýta, kde bola dnes, včera a predvčerom.
+clue: odraz June v okne vyzerá staršie
+loop: autobus zastaví na tej istej zastávke „OFFICE“
+caption: where were you today? where was your life? 🌧️
+> W | L07 | JUNE NPC | — | JUNE sits alone in the night bus, head against the rainy window, clone commuters asleep |
+> 2S | L07 | VAN JUNE | VAN: Where were you today? | VAN sits down next to her, holding his white mug | DROP
+> CU | L07 | JUNE | JUNE: Office. | JUNE doesn't look away from the window |
+> MCU | L07 | VAN | VAN: Yesterday? | VAN looks ahead |
+> CU | L07 | JUNE | JUNE: Office. | JUNE's voice is smaller |
+> MCU | L07 | VAN | VAN: Your sister's birthday? | VAN quietly |
+> CU | L07 | JUNE | JUNE: …Office. | JUNE's eyes fill with tears, streetlights sweep across her face | OUT
+> INS | L07 | JUNE | — | JUNE's reflection in the dark window looks tired and older |
+> CAM | L07 | VAN | VAN: Then where's your life? | VAN looks into the lens; the bus stop sign outside reads OFFICE | LOOP
+
+#009 THE THREE PRODUCTS
+type: B
+emo: zvedavosť → „toto by som zvládla“
+edu: 3 typy digitálnych produktov: utility (nástroj/šablóna), roadmap (návod krok po kroku), knowledge (znalosť, ktorú máš).
+premise: June tvrdí, že nemá čo predať. Van jej ukáže tri typy produktov, ktoré už má na stole.
+clue: všetky tri „produkty“ sú na June stole od začiatku
+loop: June zdvihne štvrtú vec – ďalší produkt
+caption: "I have nothing to sell" — you have at least 3. look at your desk. 👀
+cta: yes
+> CU | L01 | JUNE | JUNE: I have NOTHING to sell. | JUNE slumps at her cluttered desk | HUD: LEVEL 1 – PRODUCT TYPES
+> MCU | L01 | VAN | VAN: Look at your desk. | VAN leans on the cubicle wall | DROP
+> INS | L01 | JUNE | VAN(VO): That spreadsheet. | JUNE's color-coded spreadsheet on the monitor | HUD: 1/3 UTILITY – A TOOL PEOPLE USE
+> CU | L01 | JUNE | JUNE: My budget tracker? | JUNE blinks |
+> INS | L01 | — | VAN(VO): Those sticky notes. | a wall of sticky notes forming a step-by-step plan | HUD: 2/3 ROADMAP – STEPS PEOPLE FOLLOW
+> CU | L01 | JUNE | JUNE: My MOVING checklist? | JUNE tilts her head |
+> MCU | L01 | VAN | VAN: And what people ask you. | VAN points at JUNE | HUD: 3/3 KNOWLEDGE – WHAT YOU KNOW
+> W | L01 | NPC JUNE | NPC: June, how do you do the EXCEL thing? | three identical clones lean over her cubicle wall |
+> CU | L01 | JUNE | JUNE: Wait. People would PAY for this? | JUNE stares at her own desk, glasses slipping | OUT
+> CAM | L01 | VAN | VAN: They already ask. | VAN looks into the lens | HUD: OBJECTIVE UPDATED, LOOP
+
+#010 RENT +12%
+type: A
+emo: bezmocnosť, hnev → rozhodnutie
+premise: June dostane list o zvýšení nájmu o 12 %. Jej zvýšenie platu bolo 3 %.
+clue: list „FINAL NOTICE“ leží na stole od začiatku
+loop: ďalšia obálka padne cez dvere
+caption: rent: +12%. raise: +3%. pizza party: 1 slice. make it make sense 🙃
+> W | L06 | JUNE PIVOT | JUNE: Your rent is going up TWELVE percent?! | JUNE reads a letter out loud at her kitchen table, PIVOT the cat sits on the bills |
+> CU | L06 | JUNE | JUNE: My raise was THREE. | JUNE's hand shakes holding the letter | DROP
+> INS | L06 | — | — | the letter: "RENT ADJUSTMENT +12%", a pizza coupon pinned next to it |
+> MCU | L06 | JUNE | JUNE: Okay. Second job. Weekends. | JUNE opens a job site on her old laptop |
+> MCU | L06 | VAN JUNE | VAN: More hours? | VAN appears on a video call on her laptop screen, holding his mug |
+> CU | L06 | JUNE | JUNE: What ELSE can I sell?! | JUNE turns, exhausted and angry |
+> MCU | L06 | VAN | VAN: Something that isn't you. | VAN quietly | OUT
+> CU | L06 | JUNE | JUNE: …Like what? | JUNE's anger melts into curiosity |
+> CAM | L06 | VAN | VAN: Like a product. | VAN looks into the lens, slight smile | LOOP

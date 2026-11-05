@@ -1,0 +1,87 @@
+#022 FOUR MINUTES
+type: A
+emo: šok, žiaľ – najsilnejší moment sezóny
+premise: Piatok 16:55. Ollieho po 24 rokoch prepustia cez 4-minútový hovor. Van príde neskoro.
+clue: Ollieho zlaté hodinky ukazujú 4:59, keď hovor skončí
+loop: na hodinách znova 4:55, ďalší hovor
+caption: 24 years. 4 minutes. 💔 (this is why "loyal" isn't a plan)
+> W | L11 | OLLIE | — | OLLIE sits alone at the long conference table, the speakerphone in front of him blinking red |
+> INS | L11 | PA | PA: Hi Oliver. This will be quick. | the speakerphone glows, wall clock at 4:55 | DROP
+> CU | L11 | OLLIE | OLLIE: Quick? I've been here twenty-four years. | OLLIE smiles nervously, adjusting his glasses |
+> INS | L11 | PA | PA: Your role is ELIMINATED. Effective TODAY. | the speakerphone light blinks | OUT
+> CU | L11 | OLLIE | OLLIE: But… I baked bread on Monday. | OLLIE's voice breaks, his hands tremble on the table |
+> INS | L11 | PA | PA: Please return your BADGE. Thanks, Oliver. | a click, then the dial tone |
+> INS | L11 | OLLIE | — | OLLIE's gold watch on his trembling wrist shows 4:59 |
+> MS | L11 | VAN OLLIE | — | the door opens, VAN stands in the doorway, out of breath, too late |
+> CU | L11 | OLLIE | OLLIE: Four minutes, Van. | OLLIE looks up with wet eyes |
+> CAM | L11 | VAN | VAN: I was late. | VAN looks into the lens, his calm finally cracking | LOOP
+
+#023 THE BOX
+type: A
+emo: hlboký smútok, hnev na systém
+premise: Ollie odchádza cez lobby s krabicou. NPC mu prajú „Happy Friday!“, nikto nevie, čo sa stalo.
+clue: v krabici navrchu leží jeho zlatá hodinka
+loop: ďalší zamestnanec vyjde z výťahu s krabicou
+caption: they said "happy friday" as he carried 24 years out in one box.
+> W | L04 | OLLIE NPC | NPC: Happy Friday, Ollie! | OLLIE walks through the lobby carrying a cardboard box, clones wave cheerfully |
+> INS | L04 | — | — | inside the box: a framed photo, a mug, a banana bread tin, the gold watch on top | DROP
+> CU | L04 | OLLIE | OLLIE: Happy Friday. | OLLIE forces a polite smile |
+> MCU | L04 | JUNE | JUNE: Ollie?! Where are you GOING? | JUNE runs out of the elevator |
+> CU | L04 | OLLIE | OLLIE: Family doesn't need me anymore, sweetheart. | OLLIE stops at the turnstile; the badge reader blinks red | OUT
+> CU | L04 | JUNE | JUNE: That's NOT fair. | JUNE's eyes fill with tears |
+> MCU | L04 | VAN | VAN: It never was. | VAN takes the box from OLLIE's arms gently |
+> W | L04 | VAN OLLIE | — | VAN and OLLIE walk out through the revolving door into warm daylight |
+> CAM | L04 | JUNE | JUNE: Who's next? | JUNE looks into the lens, alone in the cold lobby | LOOP
+
+#024 WHAT DO PEOPLE ASK YOU?
+type: B
+emo: sebaobjavenie, nádej
+edu: Tri otázky, ktoré ti ukážu, čo môžeš predávať: o čo ťa ľudia žiadajú, čo robíš ľahko, čo si už vyriešil.
+premise: June sa bojí, že je „nikto“. Van jej položí tri otázky a ona si uvedomí, čo vie.
+clue: na stene June bytu je plán z lepiacich papierikov – je to hotový produkt
+loop: June dopíše štvrtú odpoveď
+caption: you're not "nobody". answer these 3 questions. 👇 (comment your answers)
+cta: yes
+> CU | L06 | JUNE | JUNE: I'm not special. I'm an OPERATIONS ASSISTANT. | JUNE on the floor in her apartment, laptop open | HUD: LEVEL 1 – FIND YOUR EDGE
+> MCU | L06 | VAN | VAN: Three questions. Honest answers. | VAN on a video call on her laptop | DROP
+> MCU | L06 | VAN | VAN: What do people ask you for? | VAN holds up one finger | HUD: 1/3 WHAT PEOPLE ASK
+> CU | L06 | JUNE | JUNE: Schedules. Everyone wants my SCHEDULES. | JUNE thinks |
+> MCU | L06 | VAN | VAN: What's easy for you, hard for them? | VAN holds up two fingers | HUD: 2/3 EASY FOR YOU
+> CU | L06 | JUNE | JUNE: Turning chaos into a PLAN. | JUNE looks at her sticky-note wall |
+> MCU | L06 | VAN | VAN: What did you already solve? | VAN holds up three fingers | HUD: 3/3 ALREADY SOLVED
+> CU | L06 | JUNE | JUNE: Mae's shifts. I built her a sleep plan. | JUNE slowly realises | OUT
+> INS | L06 | — | — | the sticky-note wall: "MAE – SLEEP 1PM, EAT 2AM, SWAP TUE" color-coded |
+> CAM | L06 | VAN | VAN: That's a product. | VAN looks into the lens | HUD: SKILL FOUND – ORGANIZING, LOOP
+
+#025 THE ROOFTOP
+type: A
+emo: zlom – plač, úprimnosť, nádej
+premise: June uteká na strechu a plače po Ollieho prepustení. Van tam už stojí.
+clue: na dverách na strechu je zelená ceduľa EXIT
+loop: June sa otočí k dverám s nápisom EXIT
+caption: "your job has one exit." 🥲
+> W | L05 | JUNE | — | JUNE bursts through the rooftop door into the rain, crying |
+> MCU | L05 | VAN JUNE | — | VAN already stands at the railing with his mug | DROP
+> CU | L05 | JUNE | JUNE: Twenty-four YEARS, Van. And four minutes. | JUNE shouts over the rain |
+> CU | L05 | JUNE | JUNE: That's ME in twenty years. | JUNE's voice breaks |
+> MCU | L05 | VAN | VAN: Only if you stay. | VAN turns to her gently | OUT
+> CU | L05 | JUNE | JUNE: I can't just QUIT. I have RENT. | JUNE wipes her face |
+> MCU | L05 | VAN | VAN: Don't quit. Build. | VAN offers her his mug |
+> CU | L05 | JUNE | JUNE: Build WHAT?! | JUNE takes the mug |
+> CAM | L05 | VAN | VAN: Your exit. | VAN looks into the lens; the green EXIT sign glows behind JUNE | LOOP
+
+#026 LEVEL ONE COMPLETE
+type: A
+emo: rozhodnutie, husia koža – finále sezóny
+premise: Ráno po streche. June príde do kancelárie a prvýkrát nepozrie na hodiny. Povie Vanovi: „Teach me.“
+clue: June si dala hodinky do vrecka
+loop: obrazovka „LEVEL 2 UNLOCKED“
+caption: level 1 complete. she said the two words. 🎮 (level 2 starts tomorrow)
+> W | L01 | JUNE NPC | NPC: Happy Monday! | clones greet in unison as JUNE walks in with wet hair and red eyes |
+> CU | L01 | JUNE | — | JUNE passes the 4:59 wall clock without looking at it | DROP
+> INS | L01 | JUNE | — | JUNE takes off her digital watch and drops it into her sweater pocket |
+> MCU | L01 | VAN | VAN: Rough night? | VAN sits at his old empty desk with his mug |
+> CU | L01 | JUNE | JUNE: Ollie gave them twenty-four years. | JUNE stands over him |
+> CU | L01 | JUNE | JUNE: I'm not giving them mine. | JUNE firm, steady voice | OUT
+> MCU | L01 | VAN | VAN: So? | VAN raises an eyebrow |
+> CAM | L01 | JUNE | JUNE: Teach me. | JUNE looks into the lens | HUD: LEVEL 1 COMPLETE – LEVEL 2 UNLOCKED, LOOP

@@ -1,0 +1,187 @@
+#011 REX HAS ARRIVED
+type: A
+emo: smiech, „poznám takého guru“
+premise: Do lobby vtrhne guru Rex a predáva kurz za $1 997. Van sa ho opýta jedinú otázku.
+clue: na kapote Rexovho auta na plagáte je nálepka RENTAL
+loop: Rex začne pitch odznova pred ďalšou skupinou
+caption: every finance guru when you ask about refunds 💀
+> W | L04 | REX NPC | REX: You're STILL working for a BOSS?! | REX bursts through the revolving door with a selfie stick, clone workers freeze at the turnstiles |
+> CU | L04 | REX | REX: My course. TEN streams of income. $1,997! | REX pulls his mirrored aviators down and winks | DROP
+> W | L04 | NPC | NPC: TEN streams?! | clone coworkers gasp in perfect sync, reaching for their wallets |
+> MCU | L04 | JUNE VAN | JUNE: Van… should I BUY it? | JUNE clutches her purse, VAN beside her with his mug |
+> MCU | L04 | VAN | VAN: Ask one question. | VAN steps forward calmly |
+> CU | L04 | REX | REX: Ask ANYTHING, champ! | REX flashes a too-white grin |
+> CU | L04 | VAN | VAN: How many refunds? | VAN slow blink | OUT
+> CU | L04 | REX | REX: …The car's a rental. | REX sweats, lowers the selfie stick |
+> CAM | L04 | VAN | VAN: So's the course. | VAN looks into the lens, tiny smirk | LOOP
+
+#012 THE BADGE
+type: A
+emo: zvedavosť, tajomstvo (lore)
+premise: June chce vedieť, ako Van dostal kartičku VISITOR. Recepčná ju ešte nikdy nevydala.
+clue: na zadnej strane Vanovej kartičky je ručne napísané „O.“
+loop: June sa pozrie na svoju kartičku EMPLOYEE
+caption: nobody in this building knows who gave him that badge 👀 theories?
+> MCU | L04 | JUNE VAN | JUNE: Where did you even GET that badge? | JUNE points at VAN's VISITOR badge as they walk through the lobby |
+> MCU | L04 | VAN | VAN: Someone gave it to me. | VAN keeps walking, mug in hand | DROP
+> W | L04 | NPC | NPC: We don't PRINT visitor badges. | a clone receptionist shakes his head robotically |
+> CU | L04 | JUNE | JUNE: Then who MADE it?! | JUNE spins back to VAN |
+> INS | L04 | VAN | — | VAN flips his badge; on the back, a handwritten letter "O." in faded ink | OUT
+> CU | L04 | JUNE | JUNE: O? Who's O?! | JUNE squints |
+> MCU | L04 | VAN | VAN: Someone who stayed. | VAN looks toward the elevators, a little sad |
+> CU | L04 | JUNE | JUNE: Stayed WHERE? | JUNE frowns |
+> CAM | L04 | VAN | VAN: Ask me later. | VAN looks into the lens and taps the badge | LOOP
+
+#013 AI IS NOT YOUR ENEMY
+type: B
+emo: strach z AI → úľava, pocit sily
+edu: AI ako infraštruktúra: nenahradí ťa, ak ju používaš ako tím (výskum, návrh, texty).
+premise: Firma ohlási „AI efektivitu“. June panikári, že ju nahradí AI. Van jej ukáže, že AI môže pracovať pre ňu.
+clue: na projektore je slajd „AI EFFICIENCY = HEADCOUNT“
+loop: projektor prepne na ďalší slajd „AI EFFICIENCY 2.0“
+caption: your company uses AI to replace you. use it to replace your company. (3 ways)
+cta: yes
+> W | L11 | MGMT NPC JUNE | MGMT: Thanks to AI we need FEWER of you. | MANAGEMENT points at a slide "AI EFFICIENCY", clones nod blankly | HUD: LEVEL 1 – AI AS INFRASTRUCTURE
+> CU | L11 | JUNE | JUNE: It's going to REPLACE me. | JUNE whispers to VAN, pale | DROP
+> MCU | L11 | VAN | VAN: Or work for you. | VAN sits relaxed in a rolling chair |
+> CU | L11 | JUNE | JUNE: For ME? How?! | JUNE leans in |
+> INS | L11 | VAN | VAN(VO): It researches your market. | a laptop screen showing a list of customer problems | HUD: 1/3 RESEARCH
+> INS | L11 | VAN | VAN(VO): It drafts your product. | a laptop screen with an outline being written | HUD: 2/3 DRAFT
+> INS | L11 | VAN | VAN(VO): It writes your sales page. | a laptop screen with a sales page appearing | HUD: 3/3 SELL
+> CU | L11 | JUNE | JUNE: So it's like… a TEAM? | JUNE's panic turns into wonder | OUT
+> MCU | L11 | VAN | VAN: A team that never sleeps. | VAN nods |
+> CAM | L11 | VAN | VAN: Hire it first. | VAN looks into the lens | HUD: TOOL UNLOCKED – AI, LOOP
+
+#014 SUNDAY SCARIES
+type: A
+emo: úzkosť z nedele večer – univerzálna, súcit
+premise: Nedeľa 21:00. June sa nevie tešiť z večera, lebo zajtra je pondelok. Pivot jej zhodí pohár.
+clue: v kalendári je každý deň napísané „OFFICE“
+loop: alarm na pondelok sa rozozvučí a začne odznova
+caption: it's not the monday. it's the sunday night knowing it's coming. 🫠
+> W | L06 | JUNE PIVOT | JUNE: It's only NINE. Why do I feel sick? | JUNE lies on the couch hugging a pillow, PIVOT sits on her chest |
+> INS | L06 | — | — | a wall calendar where every single day says "OFFICE" in red marker | DROP
+> CU | L06 | JUNE | JUNE: I had TWO days off and I'm already tired. | JUNE stares at the ceiling |
+> MCU | L06 | VAN JUNE | VAN: Sunday scaries? | VAN on a video call on her laptop, sipping from his mug in warm sunlight |
+> CU | L06 | JUNE | JUNE: How are YOU so calm?! | JUNE sits up |
+> MCU | L06 | VAN | VAN: Monday is just Tuesday. | VAN shrugs, sunlight behind him |
+> CU | L06 | JUNE | JUNE: Must be NICE. | JUNE sighs, half bitter, half jealous | OUT
+> INS | L06 | PIVOT | — | PIVOT slowly pushes JUNE's glass off the table | SFX: glass shatter
+> CAM | L06 | VAN | VAN: It could be. | VAN looks into the lens | LOOP
+
+#015 PERFORMANCE REVIEW
+type: A
+emo: nespravodlivosť, hnev, „robím za troch“
+premise: June robí prácu troch ľudí. V hodnotení dostane „meets expectations“.
+clue: na monitore má June otvorené tri tabuľky troch prepustených kolegov
+loop: ďalšie hodnotenie „meets expectations“
+caption: doing the job of 3 people for 1 salary and a "meets expectations" 🙂
+> W | L03 | MGMT JUNE | MGMT: Your annual review. MEETS expectations. | MANAGEMENT slides a sheet across the desk, JUNE sits with a stack of folders |
+> CU | L03 | JUNE | JUNE: I'm doing THREE people's jobs! | JUNE points at three nameplates on her folders | DROP
+> CU | L03 | MGMT | MGMT: And you're doing them ADEQUATELY. | MANAGEMENT taps the sheet |
+> CU | L03 | JUNE | JUNE: So… a raise? | JUNE hopeful |
+> CU | L03 | MGMT | MGMT: A CERTIFICATE. | MANAGEMENT hands her a cheap printed certificate "TEAM PLAYER" | OUT
+> MCU | L01 | VAN JUNE | JUNE: A CERTIFICATE, Van. | JUNE drops the certificate on VAN's empty desk |
+> MCU | L01 | VAN | VAN: Who sets your price? | VAN reads it, unimpressed |
+> CU | L01 | JUNE | JUNE: …They do. | JUNE quietly |
+> CAM | L01 | VAN | VAN: Change that. | VAN looks into the lens | LOOP
+
+#016 THE WATCH
+type: A
+emo: zvedavosť, tichá sila symbolu
+premise: June si všimne, že Van nikdy nenosí hodinky. Opýta sa ho na čas trikrát.
+clue: všetci v kancelárii majú hodinky, Van nie
+loop: June sa pozrie na svoje hodinky – 4:59
+caption: everyone in this office wears a watch except him. that's the whole point. ⌚
+> CU | L01 | JUNE | JUNE: Van, what time is it? | JUNE frantic, pulling on her coat |
+> MCU | L01 | VAN | VAN: Don't know. | VAN sips from his mug | DROP
+> CU | L01 | JUNE | JUNE: Okay, what DAY is it? | JUNE squints |
+> MCU | L01 | VAN | VAN: Probably Wednesday. | VAN shrugs |
+> CU | L01 | JUNE | JUNE: How do you not know?! | JUNE grabs his left wrist |
+> INS | L01 | VAN | — | VAN's bare left wrist, no watch; next to it JUNE's wrist with a cheap digital watch | OUT
+> W | L01 | NPC | — | a row of clones all checking their identical watches at the same moment |
+> CU | L01 | JUNE | JUNE: You don't even OWN one?! | JUNE's glasses slide down |
+> CAM | L01 | VAN | VAN: Sold it. | VAN looks into the lens | LOOP
+
+#017 BUILT ONCE, SOLD AGAIN
+type: B
+emo: „aha“ moment – pákový efekt
+edu: Job predáva hodinu raz. Produkt urobíš raz a predávaš donekonečna. Matematika pákového efektu.
+premise: Van nakreslí June na tabuľu dve čiary: plat a produkt.
+clue: Vanova čiara na tabuli pokračuje mimo tabuľu na stenu
+loop: June dokreslí svoju vlastnú čiaru
+caption: your salary is a flat line. here's the line that isn't. 📈
+cta: yes
+> MCU | L11 | VAN JUNE | VAN: Draw your income. | VAN hands JUNE a marker in front of the whiteboard | HUD: LEVEL 1 – LEVERAGE
+> INS | L11 | JUNE | JUNE: Hours worked… money earned. | JUNE draws a flat staircase line | DROP
+> CU | L11 | JUNE | JUNE: It stops when I stop. | JUNE taps the end of her line | HUD: TRADING HOURS = CAPPED
+> MCU | L11 | VAN | VAN: Now a product. | VAN takes the marker |
+> INS | L11 | VAN | VAN(VO): Build it once. | VAN draws one big step up | HUD: 1/3 BUILD ONCE
+> INS | L11 | VAN | VAN(VO): Sell it Monday. Sell it Sunday. | the line keeps rising in small steps | HUD: 2/3 SELL AGAIN
+> INS | L11 | VAN | VAN(VO): Sell it while you sleep. | the line runs off the whiteboard onto the wall | HUD: 3/3 LEVERAGE
+> CU | L11 | JUNE | JUNE: It doesn't STOP?! | JUNE follows the line onto the wall | OUT
+> CAM | L11 | VAN | VAN: That's leverage. | VAN looks into the lens, caps the marker | LOOP
+
+#018 MAE AT 3 AM
+type: A
+emo: súcit, láska medzi sestrami, zasiate semienko niky
+premise: Mae volá June o 3:00 z nemocnice. Zabudla jesť, spí cez obed, menia jej zmeny cez štyri chaty.
+clue: na tabuli v nemocnici je rozpis zmien chaoticky prečiarknutý
+loop: Mae dostane ďalšiu správu „can you swap Tuesday?“
+caption: my sister is a night shift nurse. this is her 3 AM. tag a nurse 🩺
+> W | L09 | MAE | MAE: Junie. It's three AM. I just remembered to EAT. | MAE sits at the nurses' station with a vending-machine sandwich, phone to her ear |
+> CU | L06 | JUNE | JUNE: Mae, you HAVE to sleep. | JUNE in bed, phone glowing on her face | DROP
+> CU | L09 | MAE | MAE: I sleep at noon. Wake at FIVE. Swap shifts in FOUR group chats. | MAE rubs her eyes |
+> INS | L09 | — | — | a whiteboard shift roster covered in crossed-out names and arrows |
+> CU | L09 | MAE | MAE: Nobody plans for nights. Nobody. | MAE's voice cracks | OUT
+> CU | L06 | JUNE | JUNE: …What if someone did? | JUNE sits up slowly, eyes on her sticky-note wall |
+> CU | L09 | MAE | MAE: Who? | MAE laughs tiredly |
+> CAM | L06 | JUNE | JUNE: Me. | JUNE looks into the lens, determined | LOOP
+
+#019 RETURN TO OFFICE
+type: A
+emo: absurdita, hnev na zbytočné dochádzanie
+premise: Firma nariadi návrat do kancelárie. June dochádza 2 hodiny, aby robila Zoom hovory zo stola.
+clue: všetci v kancelárii sú na Zoome s ľuďmi z tej istej miestnosti
+loop: PA oznámi „mandatory fun at 5“
+caption: commuted 2 hours to sit on zoom calls with people 3 desks away 🤡
+> W | L01 | PA NPC | PA: All staff MUST return to the office. For COLLABORATION. | clones sit at desks wearing headsets |
+> W | L01 | NPC JUNE | — | every clone is on a video call with the clone sitting right next to him | DROP
+> CU | L01 | JUNE | JUNE: I commuted TWO hours… for a ZOOM call. | JUNE puts on her headset, defeated |
+> MCU | L01 | VAN | VAN: With who? | VAN leaning on her cubicle |
+> CU | L01 | JUNE | JUNE: Dave. | JUNE points over the cubicle wall |
+> W | L01 | NPC | NPC: Can you HEAR me? | a clone waves at JUNE from one meter away, speaking into a headset | OUT
+> CU | L01 | JUNE | JUNE: He's RIGHT THERE. | JUNE's eye twitches |
+> CAM | L01 | VAN | VAN: Collaboration. | VAN looks into the lens, deadpan | LOOP
+
+#020 TWENTY-FOUR YEARS
+type: A
+emo: dojatie, a pod tým tichá predtucha
+premise: Ollie oslavuje 24 rokov vo firme. Prinesie banánový chlebík a dostane zlaté hodinky. Van je ticho.
+clue: na pozadí za sklom MANAGEMENT drží zoznam s menom „O. …“
+loop: Ollie znova ponúka chlebík
+caption: 24 years at one company. he baked for everyone. (keep watching this series…)
+> W | L02 | OLLIE NPC JUNE | OLLIE: Twenty-four years today. I baked for everyone. | OLLIE proudly unwraps banana bread, clones clap, JUNE smiles |
+> CU | L02 | OLLIE | OLLIE: They gave me a gold watch. Can you believe it? | OLLIE shows off a gold wristwatch with tears of pride | DROP
+> CU | L02 | JUNE | JUNE: Ollie, you're the HEART of this place. | JUNE hugs him |
+> CU | L02 | OLLIE | OLLIE: This company's my family. | OLLIE pats the wall lovingly |
+> MCU | L02 | VAN | — | VAN by the door, quiet, not smiling, looking at the gold watch | OUT
+> W | L03 | MGMT | — | through the glass, MANAGEMENT holds a list; one line reads "O. – Accounts" |
+> CU | L02 | JUNE | JUNE: Van, say something NICE. | JUNE nudges VAN |
+> CAM | L02 | VAN | VAN: Save the bread. | VAN looks into the lens, eyes sad | LOOP
+
+#021 THE RUMOR
+type: A
+emo: napätie, strach
+premise: V kancelárii sa šíri fáma o prepúšťaní. NPC si šepkajú. Ollie tomu neverí.
+clue: v kalendári MANAGEMENTU je piatok o 16:55 „4 MIN CALLS“
+loop: ďalší NPC šepká tú istú fámu
+caption: when the whole office suddenly gets a 15 min "quick sync" invite on friday… 😬
+> W | L02 | NPC | NPC: Did you hear? CUTS. Friday. | two identical clones whisper by the coffee machine |
+> MCU | L02 | NPC JUNE | NPC: Did you hear? CUTS. Friday. | the exact same whisper repeats to JUNE | DROP
+> CU | L02 | JUNE | JUNE: Ollie… are you WORRIED? | JUNE turns to OLLIE |
+> CU | L02 | OLLIE | OLLIE: Twenty-four years, sweetheart. They NEED me. | OLLIE smiles, tapping his gold watch |
+> MCU | L02 | VAN | VAN: Update your resume. | VAN quietly, not looking up |
+> CU | L02 | OLLIE | OLLIE: Oh, Van. You worry too much. | OLLIE chuckles warmly | OUT
+> INS | L03 | — | — | a desk calendar in the manager office: "FRIDAY 4:55 – 4 MIN CALLS" |
+> CAM | L02 | VAN | VAN: Friday. Four fifty-five. | VAN looks into the lens | LOOP
