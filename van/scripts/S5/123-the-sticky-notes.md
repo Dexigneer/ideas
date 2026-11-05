@@ -40,7 +40,7 @@ ACTION: JUNE peels color-coded sticky notes off her cubicle wall into a small bo
 DIALOGUE: none.
 BACKGROUND MOTION: rain streaks on windows, clone coworkers typing, copier spitting paper, second hand on the clock.
 CAMERA: static, very slow drift. DURATION: ~1.6 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 2 · 1,6–3,2 s · Insert detail shot · L01
@@ -54,7 +54,8 @@ ACTION: an old sticky note: "MAE – SLEEP 1PM, EAT 2AM" in faded ink.
 DIALOGUE: none.
 BACKGROUND MOTION: rain streaks on windows, clone coworkers typing, copier spitting paper, second hand on the clock.
 CAMERA: static. DURATION: ~1.6 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+PROP TEXT: render these words crisp and legible on the prop/screen: "MAE – SLEEP 1PM, EAT 2AM".
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 3 · 3,2–5,8 s · Close-up · L01
@@ -69,7 +70,7 @@ ACTION: JUNE smiles at the note.
 DIALOGUE: JUNE says "This is where it STARTED." (fast, expressive young woman's voice, stressing the CAPS words), accurate lip-sync.
 BACKGROUND MOTION: rain streaks on windows, clone coworkers typing, copier spitting paper, second hand on the clock.
 CAMERA: slow push-in. DURATION: ~2.6 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 4 · 5,8–8,7 s · Medium close-up · L01
@@ -84,7 +85,7 @@ ACTION: the NEW HIRE nervously watches from the next desk.
 DIALOGUE: NEW HIRE says "Can I ask you something? Later?" (nervous young voice), accurate lip-sync.
 BACKGROUND MOTION: rain streaks on windows, clone coworkers typing, copier spitting paper, second hand on the clock.
 CAMERA: static. DURATION: ~2.9 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 5 · 8,7–10,3 s · Insert detail shot · L01
@@ -98,7 +99,8 @@ ACTION: JUNE writes a new sticky note: "ASK ME ANYTHING – J." with a phone num
 DIALOGUE: none.
 BACKGROUND MOTION: rain streaks on windows, clone coworkers typing, copier spitting paper, second hand on the clock.
 CAMERA: static. DURATION: ~1.6 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+PROP TEXT: render these words crisp and legible on the prop/screen: "ASK ME ANYTHING – J.".
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 6 · 10,3–11,8 s · Close-up · L01
@@ -113,7 +115,7 @@ ACTION: JUNE sticks it on his monitor.
 DIALOGUE: JUNE says "Anytime. Really." (fast, expressive young woman's voice, stressing the CAPS words), accurate lip-sync.
 BACKGROUND MOTION: rain streaks on windows, clone coworkers typing, copier spitting paper, second hand on the clock.
 CAMERA: slow push-in. DURATION: ~1.5 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 7 · 11,8–13,4 s · Medium close-up · L01
@@ -128,7 +130,7 @@ ACTION: VAN watches from his old desk, quietly proud.
 DIALOGUE: none.
 BACKGROUND MOTION: rain streaks on windows, clone coworkers typing, copier spitting paper, second hand on the clock.
 CAMERA: static. DURATION: ~1.6 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 8 · 13,4–15,6 s · Extreme close-up · L01
@@ -143,7 +145,7 @@ ACTION: VAN looks into the lens.
 DIALOGUE: VAN says "Pass it on." (calm, low, slow, dry deadpan voice, tiny pause before the last word), accurate lip-sync.
 BACKGROUND MOTION: rain streaks on windows, clone coworkers typing, copier spitting paper, second hand on the clock.
 CAMERA: very slow push-in. DURATION: ~2.2 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ## Titulky (SRT – import do CapCut)

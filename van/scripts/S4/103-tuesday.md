@@ -40,7 +40,7 @@ ACTION: JUNE on the park bench on a sunny Tuesday at 10:30, the office tower far
 DIALOGUE: none.
 BACKGROUND MOTION: ducks swimming, leaves falling, people jogging past.
 CAMERA: static, very slow drift. DURATION: ~1.6 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 2 · 1,6–4,2 s · Close-up · L12
@@ -55,7 +55,7 @@ ACTION: JUNE looks around nervously.
 DIALOGUE: JUNE says "Why does this feel ILLEGAL?" (fast, expressive young woman's voice, stressing the CAPS words), accurate lip-sync.
 BACKGROUND MOTION: ducks swimming, leaves falling, people jogging past.
 CAMERA: slow push-in. DURATION: ~2.6 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 3 · 4,2–6,0 s · Two-shot · L12
@@ -70,7 +70,7 @@ ACTION: VAN sits down with two coffees.
 DIALOGUE: VAN says "First Tuesday?" (calm, low, slow, dry deadpan voice, tiny pause before the last word), accurate lip-sync.
 BACKGROUND MOTION: ducks swimming, leaves falling, people jogging past.
 CAMERA: static. DURATION: ~1.8 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 4 · 6,0–9,4 s · Close-up · L12
@@ -85,7 +85,7 @@ ACTION: JUNE.
 DIALOGUE: JUNE says "Everyone's at WORK. I keep checking my phone." (fast, expressive young woman's voice, stressing the CAPS words), accurate lip-sync.
 BACKGROUND MOTION: ducks swimming, leaves falling, people jogging past.
 CAMERA: slow push-in. DURATION: ~3.4 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 5 · 9,4–11,2 s · Medium close-up · L12
@@ -100,7 +100,7 @@ ACTION: VAN nods toward the pond.
 DIALOGUE: VAN says "Look up." (calm, low, slow, dry deadpan voice, tiny pause before the last word), accurate lip-sync.
 BACKGROUND MOTION: ducks swimming, leaves falling, people jogging past.
 CAMERA: static. DURATION: ~1.8 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 6 · 11,2–12,8 s · Wide establishing shot · L12
@@ -114,7 +114,7 @@ ACTION: ducks on the pond, a jogger, leaves falling, sunlight.
 DIALOGUE: none.
 BACKGROUND MOTION: ducks swimming, leaves falling, people jogging past.
 CAMERA: static, very slow drift. DURATION: ~1.6 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 7 · 12,8–14,7 s · Close-up · L12
@@ -129,7 +129,7 @@ ACTION: JUNE breathes out.
 DIALOGUE: JUNE says "It's… so QUIET." (fast, expressive young woman's voice, stressing the CAPS words), accurate lip-sync.
 BACKGROUND MOTION: ducks swimming, leaves falling, people jogging past.
 CAMERA: slow push-in. DURATION: ~1.9 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 8 · 14,7–16,5 s · Extreme close-up · L12
@@ -144,7 +144,7 @@ ACTION: VAN looks into the lens.
 DIALOGUE: VAN says "It's yours." (calm, low, slow, dry deadpan voice, tiny pause before the last word), accurate lip-sync.
 BACKGROUND MOTION: ducks swimming, leaves falling, people jogging past.
 CAMERA: very slow push-in. DURATION: ~1.8 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ## Titulky (SRT – import do CapCut)

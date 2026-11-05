@@ -42,7 +42,7 @@ ACTION: VAN hands JUNE a coffee in the break room.
 DIALOGUE: VAN says "Coffee?" (calm, low, slow, dry deadpan voice, tiny pause before the last word), accurate lip-sync.
 BACKGROUND MOTION: steam from the coffee machine, microwave turntable spinning, flickering tube light.
 CAMERA: static. DURATION: ~1.4 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 2 · 1,4–4,6 s · Medium close-up · L02
@@ -57,7 +57,7 @@ ACTION: VAN holds out a cookie.
 DIALOGUE: VAN says "Want a cookie with it?" (calm, low, slow, dry deadpan voice, tiny pause before the last word), accurate lip-sync.
 BACKGROUND MOTION: steam from the coffee machine, microwave turntable spinning, flickering tube light.
 CAMERA: static. DURATION: ~3.2 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 3 · 4,6–6,1 s · Close-up · L02
@@ -72,7 +72,7 @@ ACTION: JUNE takes it.
 DIALOGUE: JUNE says "…Yes. Obviously." (fast, expressive young woman's voice, stressing the CAPS words), accurate lip-sync.
 BACKGROUND MOTION: steam from the coffee machine, microwave turntable spinning, flickering tube light.
 CAMERA: slow push-in. DURATION: ~1.5 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 4 · 6,1–8,8 s · Medium close-up · L02
@@ -87,7 +87,7 @@ ACTION: VAN.
 DIALOGUE: VAN says "That's an order bump." (calm, low, slow, dry deadpan voice, tiny pause before the last word), accurate lip-sync.
 BACKGROUND MOTION: steam from the coffee machine, microwave turntable spinning, flickering tube light.
 CAMERA: static. DURATION: ~2.7 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 5 · 8,8–12,0 s · Insert detail shot · L06
@@ -101,7 +101,8 @@ ACTION: checkout page: "Night Shift OS $19" plus a checkbox "+ 3 AM Meal Prep Pa
 DIALOGUE: none.
 BACKGROUND MOTION: rain on the window, fairy lights gently blinking, steam from noodles.
 CAMERA: static. DURATION: ~3.2 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+PROP TEXT: render these words crisp and legible on the prop/screen: "Night Shift OS $19", "+ 3 AM Meal Prep Pack $7".
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 6 · 12,0–14,2 s · Close-up · L02
@@ -116,7 +117,7 @@ ACTION: JUNE.
 DIALOGUE: JUNE says "Small. Related. One CLICK." (fast, expressive young woman's voice, stressing the CAPS words), accurate lip-sync.
 BACKGROUND MOTION: steam from the coffee machine, microwave turntable spinning, flickering tube light.
 CAMERA: slow push-in. DURATION: ~2.2 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 7 · 14,2–16,4 s · Medium close-up · L02
@@ -131,7 +132,7 @@ ACTION: VAN.
 DIALOGUE: VAN says "Helpful, not pushy." (calm, low, slow, dry deadpan voice, tiny pause before the last word), accurate lip-sync.
 BACKGROUND MOTION: steam from the coffee machine, microwave turntable spinning, flickering tube light.
 CAMERA: static. DURATION: ~2.2 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 8 · 16,4–17,8 s · Extreme close-up · L02
@@ -146,7 +147,7 @@ ACTION: VAN looks into the lens, offering a cookie.
 DIALOGUE: VAN says "Cookie?" (calm, low, slow, dry deadpan voice, tiny pause before the last word), accurate lip-sync.
 BACKGROUND MOTION: steam from the coffee machine, microwave turntable spinning, flickering tube light.
 CAMERA: very slow push-in. DURATION: ~1.4 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ## Titulky (SRT – import do CapCut)

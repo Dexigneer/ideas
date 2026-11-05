@@ -40,7 +40,7 @@ ACTION: clones hand JUNE a big farewell card in the break room.
 DIALOGUE: NPC COWORKERS says "We'll MISS you, June!" (flat, cheerful, robotic NPC voice with identical intonation), accurate lip-sync.
 BACKGROUND MOTION: steam from the coffee machine, microwave turntable spinning, flickering tube light.
 CAMERA: static, very slow drift. DURATION: ~2.2 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 2 · 2,2–3,8 s · Insert detail shot · L02
@@ -54,7 +54,8 @@ ACTION: the card: forty identical signatures "Best, Dave".
 DIALOGUE: none.
 BACKGROUND MOTION: steam from the coffee machine, microwave turntable spinning, flickering tube light.
 CAMERA: static. DURATION: ~1.6 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+PROP TEXT: render these words crisp and legible on the prop/screen: "Best, Dave".
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 3 · 3,8–5,7 s · Close-up · L02
@@ -69,7 +70,7 @@ ACTION: JUNE laughs.
 DIALOGUE: JUNE says "You're ALL Dave?" (fast, expressive young woman's voice, stressing the CAPS words), accurate lip-sync.
 BACKGROUND MOTION: steam from the coffee machine, microwave turntable spinning, flickering tube light.
 CAMERA: slow push-in. DURATION: ~1.9 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 4 · 5,7–7,6 s · Wide establishing shot · L02
@@ -84,7 +85,7 @@ ACTION: the clones answer in unison.
 DIALOGUE: NPC COWORKERS says "We're ALL Dave." (flat, cheerful, robotic NPC voice with identical intonation), accurate lip-sync.
 BACKGROUND MOTION: steam from the coffee machine, microwave turntable spinning, flickering tube light.
 CAMERA: static, very slow drift. DURATION: ~1.9 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 5 · 7,6–9,2 s · Insert detail shot · L02
@@ -98,7 +99,8 @@ ACTION: at the bottom, one tiny handwritten line: "how do I start? – Dave".
 DIALOGUE: none.
 BACKGROUND MOTION: steam from the coffee machine, microwave turntable spinning, flickering tube light.
 CAMERA: static. DURATION: ~1.6 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+PROP TEXT: render these words crisp and legible on the prop/screen: "how do I start? – Dave".
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 6 · 9,2–10,8 s · Close-up · L02
@@ -113,7 +115,7 @@ ACTION: JUNE looks up; one clone quietly nods at her, hopeful.
 DIALOGUE: none.
 BACKGROUND MOTION: steam from the coffee machine, microwave turntable spinning, flickering tube light.
 CAMERA: slow push-in. DURATION: ~1.6 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 7 · 10,8–12,7 s · Close-up · L02
@@ -128,7 +130,7 @@ ACTION: JUNE whispers to him.
 DIALOGUE: JUNE says "Level one, Dave." (fast, expressive young woman's voice, stressing the CAPS words), accurate lip-sync.
 BACKGROUND MOTION: steam from the coffee machine, microwave turntable spinning, flickering tube light.
 CAMERA: slow push-in. DURATION: ~1.9 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 8 · 12,7–14,5 s · Extreme close-up · L02
@@ -143,7 +145,7 @@ ACTION: VAN looks into the lens, smiling.
 DIALOGUE: VAN says "Another one." (calm, low, slow, dry deadpan voice, tiny pause before the last word), accurate lip-sync.
 BACKGROUND MOTION: steam from the coffee machine, microwave turntable spinning, flickering tube light.
 CAMERA: very slow push-in. DURATION: ~1.8 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ## Titulky (SRT – import do CapCut)

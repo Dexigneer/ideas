@@ -43,7 +43,7 @@ ACTION: JUNE at the whiteboard.
 DIALOGUE: JUNE says "I want to make LOTS of money." (fast, expressive young woman's voice, stressing the CAPS words), accurate lip-sync.
 BACKGROUND MOTION: projector dust in the light beam, ceiling fan, slides changing.
 CAMERA: slow push-in. DURATION: ~3.3 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 2 · 3,3–6,0 s · Medium close-up · L11
@@ -58,7 +58,7 @@ ACTION: VAN.
 DIALOGUE: VAN says "How much is rent?" (calm, low, slow, dry deadpan voice, tiny pause before the last word), accurate lip-sync.
 BACKGROUND MOTION: projector dust in the light beam, ceiling fan, slides changing.
 CAMERA: static. DURATION: ~2.7 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 3 · 6,0–7,5 s · Close-up · L11
@@ -73,7 +73,7 @@ ACTION: JUNE writes 1200.
 DIALOGUE: JUNE says "Twelve hundred." (fast, expressive young woman's voice, stressing the CAPS words), accurate lip-sync.
 BACKGROUND MOTION: projector dust in the light beam, ceiling fan, slides changing.
 CAMERA: slow push-in. DURATION: ~1.5 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 4 · 7,5–10,2 s · Medium close-up · L11
@@ -88,7 +88,7 @@ ACTION: VAN.
 DIALOGUE: VAN says "Divide by your price." (calm, low, slow, dry deadpan voice, tiny pause before the last word), accurate lip-sync.
 BACKGROUND MOTION: projector dust in the light beam, ceiling fan, slides changing.
 CAMERA: static. DURATION: ~2.7 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 5 · 10,2–13,6 s · Insert detail shot · L11
@@ -103,7 +103,7 @@ ACTION: the whiteboard: 1200 / 19 = 63.
 AUDIO: JUNE is heard off-screen (fast, expressive young woman's voice, stressing the CAPS words): "Twelve hundred divided by nineteen… sixty-three sales."
 BACKGROUND MOTION: projector dust in the light beam, ceiling fan, slides changing.
 CAMERA: static. DURATION: ~3.4 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 6 · 13,6–15,4 s · Medium close-up · L11
@@ -118,7 +118,7 @@ ACTION: VAN.
 DIALOGUE: VAN says "Per day?" (calm, low, slow, dry deadpan voice, tiny pause before the last word), accurate lip-sync.
 BACKGROUND MOTION: projector dust in the light beam, ceiling fan, slides changing.
 CAMERA: static. DURATION: ~1.8 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 7 · 15,4–17,6 s · Close-up · L11
@@ -133,7 +133,7 @@ ACTION: JUNE's eyes widen.
 DIALOGUE: JUNE says "About… TWO a day?" (fast, expressive young woman's voice, stressing the CAPS words), accurate lip-sync.
 BACKGROUND MOTION: projector dust in the light beam, ceiling fan, slides changing.
 CAMERA: slow push-in. DURATION: ~2.2 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 8 · 17,6–20,9 s · Close-up · L11
@@ -148,7 +148,7 @@ ACTION: JUNE.
 DIALOGUE: JUNE says "That's not a dream. That's a PLAN." (fast, expressive young woman's voice, stressing the CAPS words), accurate lip-sync.
 BACKGROUND MOTION: projector dust in the light beam, ceiling fan, slides changing.
 CAMERA: slow push-in. DURATION: ~3.3 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 9 · 20,9–23,1 s · Extreme close-up · L11
@@ -163,7 +163,7 @@ ACTION: VAN looks into the lens.
 DIALOGUE: VAN says "Math beats hope." (calm, low, slow, dry deadpan voice, tiny pause before the last word), accurate lip-sync.
 BACKGROUND MOTION: projector dust in the light beam, ceiling fan, slides changing.
 CAMERA: very slow push-in. DURATION: ~2.2 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ## Titulky (SRT – import do CapCut)

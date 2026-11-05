@@ -42,7 +42,8 @@ ACTION: the phone: "Your account is temporarily suspended".
 DIALOGUE: none.
 BACKGROUND MOTION: rain on the window, fairy lights gently blinking, steam from noodles.
 CAMERA: static. DURATION: ~1.6 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+PROP TEXT: render these words crisp and legible on the prop/screen: "Your account is temporarily suspended".
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 2 · 1,6–3,8 s · Close-up · L06
@@ -57,7 +58,7 @@ ACTION: JUNE panics.
 DIALOGUE: JUNE says "My ACCOUNT. Everything's GONE." (fast, expressive young woman's voice, stressing the CAPS words), accurate lip-sync.
 BACKGROUND MOTION: rain on the window, fairy lights gently blinking, steam from noodles.
 CAMERA: slow push-in. DURATION: ~2.2 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 3 · 3,8–6,5 s · Medium close-up · L06
@@ -72,7 +73,7 @@ ACTION: VAN on video call.
 DIALOGUE: VAN says "What do you own?" (calm, low, slow, dry deadpan voice, tiny pause before the last word), accurate lip-sync.
 BACKGROUND MOTION: rain on the window, fairy lights gently blinking, steam from noodles.
 CAMERA: static. DURATION: ~2.7 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 4 · 6,5–7,9 s · Close-up · L06
@@ -87,7 +88,7 @@ ACTION: JUNE.
 DIALOGUE: JUNE says "…Own?" (fast, expressive young woman's voice, stressing the CAPS words), accurate lip-sync.
 BACKGROUND MOTION: rain on the window, fairy lights gently blinking, steam from noodles.
 CAMERA: slow push-in. DURATION: ~1.4 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 5 · 7,9–9,5 s · Insert detail shot · L06
@@ -101,7 +102,8 @@ ACTION: her email dashboard: "SUBSCRIBERS: 2,340".
 DIALOGUE: none.
 BACKGROUND MOTION: rain on the window, fairy lights gently blinking, steam from noodles.
 CAMERA: static. DURATION: ~1.6 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+PROP TEXT: render these words crisp and legible on the prop/screen: "SUBSCRIBERS: 2,340".
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 6 · 9,5–12,2 s · Medium close-up · L06
@@ -116,7 +118,7 @@ ACTION: VAN.
 DIALOGUE: VAN says "Apps are rented land." (calm, low, slow, dry deadpan voice, tiny pause before the last word), accurate lip-sync.
 BACKGROUND MOTION: rain on the window, fairy lights gently blinking, steam from noodles.
 CAMERA: static. DURATION: ~2.7 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 7 · 12,2–15,4 s · Medium close-up · L06
@@ -131,7 +133,7 @@ ACTION: VAN.
 DIALOGUE: VAN says "Your list is your house." (calm, low, slow, dry deadpan voice, tiny pause before the last word), accurate lip-sync.
 BACKGROUND MOTION: rain on the window, fairy lights gently blinking, steam from noodles.
 CAMERA: static. DURATION: ~3.2 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 8 · 15,4–18,3 s · Close-up · L06
@@ -146,7 +148,7 @@ ACTION: JUNE.
 DIALOGUE: JUNE says "So I can still SELL? Today?" (fast, expressive young woman's voice, stressing the CAPS words), accurate lip-sync.
 BACKGROUND MOTION: rain on the window, fairy lights gently blinking, steam from noodles.
 CAMERA: slow push-in. DURATION: ~2.9 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 9 · 18,3–20,1 s · Extreme close-up · L06
@@ -161,7 +163,7 @@ ACTION: VAN looks into the lens.
 DIALOGUE: VAN says "One email." (calm, low, slow, dry deadpan voice, tiny pause before the last word), accurate lip-sync.
 BACKGROUND MOTION: rain on the window, fairy lights gently blinking, steam from noodles.
 CAMERA: very slow push-in. DURATION: ~1.8 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ## Titulky (SRT – import do CapCut)

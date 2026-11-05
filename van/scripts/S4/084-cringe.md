@@ -40,7 +40,7 @@ ACTION: a clone mimics JUNE's video in a high voice, the others laugh.
 DIALOGUE: NPC COWORKERS says ""You ate dinner at three AM out of a VENDING machine!"" (flat, cheerful, robotic NPC voice with identical intonation), accurate lip-sync.
 BACKGROUND MOTION: steam from the coffee machine, microwave turntable spinning, flickering tube light.
 CAMERA: static, very slow drift. DURATION: ~3.4 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 2 · 3,4–5,0 s · Close-up · L02
@@ -55,7 +55,7 @@ ACTION: JUNE in the doorway, red-faced, wants to disappear.
 DIALOGUE: none.
 BACKGROUND MOTION: steam from the coffee machine, microwave turntable spinning, flickering tube light.
 CAMERA: slow push-in. DURATION: ~1.6 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 3 · 5,0–7,6 s · Close-up · L02
@@ -70,7 +70,7 @@ ACTION: JUNE whispers, hiding behind VAN.
 DIALOGUE: JUNE says "Van. They found my VIDEOS." (fast, expressive young woman's voice, stressing the CAPS words), accurate lip-sync.
 BACKGROUND MOTION: steam from the coffee machine, microwave turntable spinning, flickering tube light.
 CAMERA: slow push-in. DURATION: ~2.6 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 4 · 7,6–9,8 s · Medium close-up · L02
@@ -85,7 +85,7 @@ ACTION: VAN nods at the clone's phone.
 DIALOGUE: VAN says "Check the views." (calm, low, slow, dry deadpan voice, tiny pause before the last word), accurate lip-sync.
 BACKGROUND MOTION: steam from the coffee machine, microwave turntable spinning, flickering tube light.
 CAMERA: static. DURATION: ~2.2 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 5 · 9,8–11,4 s · Insert detail shot · L02
@@ -99,7 +99,8 @@ ACTION: the clone's phone: JUNE's video, "31.4K views".
 DIALOGUE: none.
 BACKGROUND MOTION: steam from the coffee machine, microwave turntable spinning, flickering tube light.
 CAMERA: static. DURATION: ~1.6 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+PROP TEXT: render these words crisp and legible on the prop/screen: "31.4K views".
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 6 · 11,4–13,3 s · Close-up · L02
@@ -114,7 +115,7 @@ ACTION: JUNE's glasses slide down.
 DIALOGUE: JUNE says "Thirty-one THOUSAND?" (fast, expressive young woman's voice, stressing the CAPS words), accurate lip-sync.
 BACKGROUND MOTION: steam from the coffee machine, microwave turntable spinning, flickering tube light.
 CAMERA: slow push-in. DURATION: ~1.9 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 7 · 13,3–16,5 s · Medium close-up · L02
@@ -129,7 +130,7 @@ ACTION: VAN.
 DIALOGUE: VAN says "They're laughing. Nurses are buying." (calm, low, slow, dry deadpan voice, tiny pause before the last word), accurate lip-sync.
 BACKGROUND MOTION: steam from the coffee machine, microwave turntable spinning, flickering tube light.
 CAMERA: static. DURATION: ~3.2 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 8 · 16,5–18,7 s · Extreme close-up · L02
@@ -144,7 +145,7 @@ ACTION: VAN looks into the lens.
 DIALOGUE: VAN says "Cringe pays rent." (calm, low, slow, dry deadpan voice, tiny pause before the last word), accurate lip-sync.
 BACKGROUND MOTION: steam from the coffee machine, microwave turntable spinning, flickering tube light.
 CAMERA: very slow push-in. DURATION: ~2.2 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ## Titulky (SRT – import do CapCut)

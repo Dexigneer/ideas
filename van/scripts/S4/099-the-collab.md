@@ -42,7 +42,7 @@ ACTION: JUNE stares at a nurse creator's profile.
 DIALOGUE: JUNE says "She has 400K followers. Why would she answer ME?" (fast, expressive young woman's voice, stressing the CAPS words), accurate lip-sync.
 BACKGROUND MOTION: rain on the window, fairy lights gently blinking, steam from noodles.
 CAMERA: slow push-in. DURATION: ~3.4 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 2 · 3,4–6,1 s · Medium close-up · L06
@@ -57,7 +57,7 @@ ACTION: VAN on video call.
 DIALOGUE: VAN says "Same audience, not competitor." (calm, low, slow, dry deadpan voice, tiny pause before the last word), accurate lip-sync.
 BACKGROUND MOTION: rain on the window, fairy lights gently blinking, steam from noodles.
 CAMERA: static. DURATION: ~2.7 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 3 · 6,1–7,9 s · Medium close-up · L06
@@ -72,7 +72,7 @@ ACTION: VAN.
 DIALOGUE: VAN says "Give first." (calm, low, slow, dry deadpan voice, tiny pause before the last word), accurate lip-sync.
 BACKGROUND MOTION: rain on the window, fairy lights gently blinking, steam from noodles.
 CAMERA: static. DURATION: ~1.8 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 4 · 7,9–11,2 s · Insert detail shot · L06
@@ -86,7 +86,7 @@ ACTION: JUNE types a short DM.
 AUDIO: JUNE is heard off-screen (fast, expressive young woman's voice, stressing the CAPS words): "Free planner for your followers. No strings."
 BACKGROUND MOTION: rain on the window, fairy lights gently blinking, steam from noodles.
 CAMERA: static. DURATION: ~3.3 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 5 · 11,2–13,4 s · Medium close-up · L06
@@ -101,7 +101,7 @@ ACTION: VAN.
 DIALOGUE: VAN says "Short. Specific. Send." (calm, low, slow, dry deadpan voice, tiny pause before the last word), accurate lip-sync.
 BACKGROUND MOTION: rain on the window, fairy lights gently blinking, steam from noodles.
 CAMERA: static. DURATION: ~2.2 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 6 · 13,4–15,0 s · Insert detail shot · L06
@@ -115,7 +115,8 @@ ACTION: the DM is sent; the clock reads 3:07; a reply pops up: "omg I'm a night 
 DIALOGUE: none.
 BACKGROUND MOTION: rain on the window, fairy lights gently blinking, steam from noodles.
 CAMERA: static. DURATION: ~1.6 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+PROP TEXT: render these words crisp and legible on the prop/screen: "omg I'm a night nurse too. YES.".
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 7 · 15,0–16,9 s · Close-up · L06
@@ -130,7 +131,7 @@ ACTION: JUNE squeals into a pillow.
 DIALOGUE: JUNE says "She said YES." (fast, expressive young woman's voice, stressing the CAPS words), accurate lip-sync.
 BACKGROUND MOTION: rain on the window, fairy lights gently blinking, steam from noodles.
 CAMERA: slow push-in. DURATION: ~1.9 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 8 · 16,9–18,7 s · Extreme close-up · L06
@@ -145,7 +146,7 @@ ACTION: VAN looks into the lens.
 DIALOGUE: VAN says "Ask more." (calm, low, slow, dry deadpan voice, tiny pause before the last word), accurate lip-sync.
 BACKGROUND MOTION: rain on the window, fairy lights gently blinking, steam from noodles.
 CAMERA: very slow push-in. DURATION: ~1.8 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ## Titulky (SRT – import do CapCut)

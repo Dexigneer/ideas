@@ -41,7 +41,7 @@ ACTION: JUNE frantic, pulling on her coat.
 DIALOGUE: JUNE says "Van, what time is it?" (fast, expressive young woman's voice, stressing the CAPS words), accurate lip-sync.
 BACKGROUND MOTION: rain streaks on windows, clone coworkers typing, copier spitting paper, second hand on the clock.
 CAMERA: slow push-in. DURATION: ~2.6 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 2 · 2,6–4,4 s · Medium close-up · L01
@@ -56,7 +56,7 @@ ACTION: VAN sips from his mug.
 DIALOGUE: VAN says "Don't know." (calm, low, slow, dry deadpan voice, tiny pause before the last word), accurate lip-sync.
 BACKGROUND MOTION: rain streaks on windows, clone coworkers typing, copier spitting paper, second hand on the clock.
 CAMERA: static. DURATION: ~1.8 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 3 · 4,4–7,0 s · Close-up · L01
@@ -71,7 +71,7 @@ ACTION: JUNE squints.
 DIALOGUE: JUNE says "Okay, what DAY is it?" (fast, expressive young woman's voice, stressing the CAPS words), accurate lip-sync.
 BACKGROUND MOTION: rain streaks on windows, clone coworkers typing, copier spitting paper, second hand on the clock.
 CAMERA: slow push-in. DURATION: ~2.6 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 4 · 7,0–8,8 s · Medium close-up · L01
@@ -86,7 +86,7 @@ ACTION: VAN shrugs.
 DIALOGUE: VAN says "Probably Wednesday." (calm, low, slow, dry deadpan voice, tiny pause before the last word), accurate lip-sync.
 BACKGROUND MOTION: rain streaks on windows, clone coworkers typing, copier spitting paper, second hand on the clock.
 CAMERA: static. DURATION: ~1.8 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 5 · 8,8–11,4 s · Close-up · L01
@@ -101,7 +101,7 @@ ACTION: JUNE grabs his left wrist.
 DIALOGUE: JUNE says "How do you not know?!" (fast, expressive young woman's voice, stressing the CAPS words), accurate lip-sync.
 BACKGROUND MOTION: rain streaks on windows, clone coworkers typing, copier spitting paper, second hand on the clock.
 CAMERA: slow push-in. DURATION: ~2.6 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 6 · 11,4–13,0 s · Insert detail shot · L01
@@ -116,7 +116,7 @@ ACTION: VAN's bare left wrist, no watch; next to it JUNE's wrist with a cheap di
 DIALOGUE: none.
 BACKGROUND MOTION: rain streaks on windows, clone coworkers typing, copier spitting paper, second hand on the clock.
 CAMERA: static. DURATION: ~1.6 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 7 · 13,0–14,6 s · Wide establishing shot · L01
@@ -131,7 +131,7 @@ ACTION: a row of clones all checking their identical watches at the same moment.
 DIALOGUE: none.
 BACKGROUND MOTION: rain streaks on windows, clone coworkers typing, copier spitting paper, second hand on the clock.
 CAMERA: static, very slow drift. DURATION: ~1.6 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 8 · 14,6–17,2 s · Close-up · L01
@@ -146,7 +146,7 @@ ACTION: JUNE's glasses slide down.
 DIALOGUE: JUNE says "You don't even OWN one?!" (fast, expressive young woman's voice, stressing the CAPS words), accurate lip-sync.
 BACKGROUND MOTION: rain streaks on windows, clone coworkers typing, copier spitting paper, second hand on the clock.
 CAMERA: slow push-in. DURATION: ~2.6 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 9 · 17,2–19,0 s · Extreme close-up · L01
@@ -161,7 +161,7 @@ ACTION: VAN looks into the lens.
 DIALOGUE: VAN says "Sold it." (calm, low, slow, dry deadpan voice, tiny pause before the last word), accurate lip-sync.
 BACKGROUND MOTION: rain streaks on windows, clone coworkers typing, copier spitting paper, second hand on the clock.
 CAMERA: very slow push-in. DURATION: ~1.8 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ## Titulky (SRT – import do CapCut)

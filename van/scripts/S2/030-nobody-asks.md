@@ -40,7 +40,7 @@ ACTION: JUNE on the phone, notebook ready.
 DIALOGUE: JUNE says "Mae, what's the WORST part of nights?" (fast, expressive young woman's voice, stressing the CAPS words), accurate lip-sync.
 BACKGROUND MOTION: rain on the window, fairy lights gently blinking, steam from noodles.
 CAMERA: slow push-in. DURATION: ~3.3 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 2 · 3,3–5,9 s · Close-up · L09
@@ -55,7 +55,7 @@ ACTION: MAE leans against her locker, surprised.
 DIALOGUE: MAE says "You want the real answer?" (soft, tired, raspy night-shift voice), accurate lip-sync.
 BACKGROUND MOTION: monitor lights blinking, a gurney rolling past, flickering corridor light.
 CAMERA: slow push-in. DURATION: ~2.6 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 3 · 5,9–8,8 s · Close-up · L09
@@ -70,7 +70,7 @@ ACTION: MAE quietly.
 DIALOGUE: MAE says "I miss everything. Birthdays. Daylight. You." (soft, tired, raspy night-shift voice), accurate lip-sync.
 BACKGROUND MOTION: monitor lights blinking, a gurney rolling past, flickering corridor light.
 CAMERA: slow push-in. DURATION: ~2.9 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 4 · 8,8–11,4 s · Close-up · L06
@@ -85,7 +85,7 @@ ACTION: JUNE stops writing.
 DIALOGUE: JUNE says "Why didn't you TELL me?" (fast, expressive young woman's voice, stressing the CAPS words), accurate lip-sync.
 BACKGROUND MOTION: rain on the window, fairy lights gently blinking, steam from noodles.
 CAMERA: slow push-in. DURATION: ~2.6 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 5 · 11,4–13,6 s · Close-up · L09
@@ -100,7 +100,7 @@ ACTION: tears run down MAE's tired face.
 DIALOGUE: MAE says "Nobody asks, Junie. Nobody." (soft, tired, raspy night-shift voice), accurate lip-sync.
 BACKGROUND MOTION: monitor lights blinking, a gurney rolling past, flickering corridor light.
 CAMERA: slow push-in. DURATION: ~2.2 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 6 · 13,6–15,2 s · Insert detail shot · L09
@@ -114,7 +114,7 @@ ACTION: inside MAE's locker: a childhood photo of the two sisters taped to the d
 DIALOGUE: none.
 BACKGROUND MOTION: monitor lights blinking, a gurney rolling past, flickering corridor light.
 CAMERA: static. DURATION: ~1.6 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 7 · 15,2–17,1 s · Close-up · L06
@@ -129,7 +129,7 @@ ACTION: JUNE wipes her eyes, pen ready again.
 DIALOGUE: JUNE says "I'm asking now." (fast, expressive young woman's voice, stressing the CAPS words), accurate lip-sync.
 BACKGROUND MOTION: rain on the window, fairy lights gently blinking, steam from noodles.
 CAMERA: slow push-in. DURATION: ~1.9 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 8 · 17,1–19,0 s · Extreme close-up · L09
@@ -144,7 +144,7 @@ ACTION: MAE laughs through tears, looking into the lens.
 DIALOGUE: MAE says "Then write fast." (soft, tired, raspy night-shift voice), accurate lip-sync.
 BACKGROUND MOTION: monitor lights blinking, a gurney rolling past, flickering corridor light.
 CAMERA: very slow push-in. DURATION: ~1.9 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ## Titulky (SRT – import do CapCut)

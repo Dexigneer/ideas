@@ -39,7 +39,8 @@ ACTION: JUNE's phone: a DM from "Dave": "hey… how do I start? don't tell anyon
 DIALOGUE: none.
 BACKGROUND MOTION: rain streaks on windows, clone coworkers typing, copier spitting paper, second hand on the clock.
 CAMERA: static. DURATION: ~1.6 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+PROP TEXT: render these words crisp and legible on the prop/screen: "Dave", "hey… how do I start? don't tell anyone".
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 2 · 1,6–4,2 s · Close-up · L01
@@ -54,7 +55,7 @@ ACTION: JUNE looks over the cubicle.
 DIALOGUE: JUNE says "Dave? The one who LAUGHED?" (fast, expressive young woman's voice, stressing the CAPS words), accurate lip-sync.
 BACKGROUND MOTION: rain streaks on windows, clone coworkers typing, copier spitting paper, second hand on the clock.
 CAMERA: slow push-in. DURATION: ~2.6 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 3 · 4,2–5,8 s · Wide establishing shot · L01
@@ -69,7 +70,7 @@ ACTION: a clone quickly looks away, whistling.
 DIALOGUE: none.
 BACKGROUND MOTION: rain streaks on windows, clone coworkers typing, copier spitting paper, second hand on the clock.
 CAMERA: static, very slow drift. DURATION: ~1.6 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 4 · 5,8–7,4 s · Insert detail shot · L01
@@ -83,7 +84,8 @@ ACTION: another identical DM: "hey… how do I start? dont tell anyone".
 DIALOGUE: none.
 BACKGROUND MOTION: rain streaks on windows, clone coworkers typing, copier spitting paper, second hand on the clock.
 CAMERA: static. DURATION: ~1.6 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+PROP TEXT: render these words crisp and legible on the prop/screen: "hey… how do I start? dont tell anyone".
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 5 · 7,4–9,0 s · Insert detail shot · L01
@@ -97,7 +99,7 @@ ACTION: a third identical DM, then a fourth, then a flood.
 DIALOGUE: none.
 BACKGROUND MOTION: rain streaks on windows, clone coworkers typing, copier spitting paper, second hand on the clock.
 CAMERA: static. DURATION: ~1.6 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 6 · 9,0–10,6 s · Wide establishing shot · L01
@@ -112,7 +114,7 @@ ACTION: every clone in the office is staring at JUNE over their monitors, silent
 DIALOGUE: none.
 BACKGROUND MOTION: rain streaks on windows, clone coworkers typing, copier spitting paper, second hand on the clock.
 CAMERA: static, very slow drift. DURATION: ~1.6 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 7 · 10,6–12,8 s · Close-up · L01
@@ -127,7 +129,7 @@ ACTION: JUNE whispers to VAN.
 DIALOGUE: JUNE says "They ALL want out?" (fast, expressive young woman's voice, stressing the CAPS words), accurate lip-sync.
 BACKGROUND MOTION: rain streaks on windows, clone coworkers typing, copier spitting paper, second hand on the clock.
 CAMERA: slow push-in. DURATION: ~2.2 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 8 · 12,8–14,6 s · Extreme close-up · L01
@@ -142,7 +144,7 @@ ACTION: VAN looks into the lens.
 DIALOGUE: VAN says "Everyone does." (calm, low, slow, dry deadpan voice, tiny pause before the last word), accurate lip-sync.
 BACKGROUND MOTION: rain streaks on windows, clone coworkers typing, copier spitting paper, second hand on the clock.
 CAMERA: very slow push-in. DURATION: ~1.8 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ## Titulky (SRT – import do CapCut)

@@ -40,7 +40,7 @@ ACTION: PIVOT strolls slowly across JUNE's laptop keyboard while she is getting 
 DIALOGUE: none.
 BACKGROUND MOTION: rain on the window, fairy lights gently blinking, steam from noodles.
 CAMERA: static, very slow drift. DURATION: ~1.6 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 2 · 1,6–3,2 s · Insert detail shot · L06
@@ -54,7 +54,8 @@ ACTION: the laptop screen goes blank: "Untitled – 0 pages".
 DIALOGUE: none.
 BACKGROUND MOTION: rain on the window, fairy lights gently blinking, steam from noodles.
 CAMERA: static. DURATION: ~1.6 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+PROP TEXT: render these words crisp and legible on the prop/screen: "Untitled – 0 pages".
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 3 · 3,2–5,8 s · Close-up · L06
@@ -69,7 +70,7 @@ ACTION: JUNE screams, dropping her tea.
 DIALOGUE: JUNE says "PIVOT! THREE WEEKS of work!" (fast, expressive young woman's voice, stressing the CAPS words), accurate lip-sync.
 BACKGROUND MOTION: rain on the window, fairy lights gently blinking, steam from noodles.
 CAMERA: slow push-in. DURATION: ~2.6 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 4 · 5,8–7,4 s · Close-up · L06
@@ -84,7 +85,7 @@ ACTION: PIVOT stares back, unbothered, bent ear twitching.
 DIALOGUE: none.
 BACKGROUND MOTION: rain on the window, fairy lights gently blinking, steam from noodles.
 CAMERA: slow push-in. DURATION: ~1.6 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 5 · 7,4–9,6 s · Medium close-up · L06
@@ -99,7 +100,7 @@ ACTION: VAN on video call, sipping.
 DIALOGUE: VAN says "Check the corner." (calm, low, slow, dry deadpan voice, tiny pause before the last word), accurate lip-sync.
 BACKGROUND MOTION: rain on the window, fairy lights gently blinking, steam from noodles.
 CAMERA: static. DURATION: ~2.2 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 6 · 9,6–11,2 s · Insert detail shot · L06
@@ -113,7 +114,8 @@ ACTION: a small cloud icon with a green check mark: "Saved 1 min ago".
 DIALOGUE: none.
 BACKGROUND MOTION: rain on the window, fairy lights gently blinking, steam from noodles.
 CAMERA: static. DURATION: ~1.6 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+PROP TEXT: render these words crisp and legible on the prop/screen: "Saved 1 min ago".
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 7 · 11,2–12,7 s · Close-up · L06
@@ -128,7 +130,7 @@ ACTION: JUNE collapses with relief.
 DIALOGUE: JUNE says "…Auto-save?" (fast, expressive young woman's voice, stressing the CAPS words), accurate lip-sync.
 BACKGROUND MOTION: rain on the window, fairy lights gently blinking, steam from noodles.
 CAMERA: slow push-in. DURATION: ~1.5 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 8 · 12,7–14,5 s · Extreme close-up · L06
@@ -143,7 +145,7 @@ ACTION: VAN looks into the lens.
 DIALOGUE: VAN says "Always save." (calm, low, slow, dry deadpan voice, tiny pause before the last word), accurate lip-sync.
 BACKGROUND MOTION: rain on the window, fairy lights gently blinking, steam from noodles.
 CAMERA: very slow push-in. DURATION: ~1.8 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ## Titulky (SRT – import do CapCut)

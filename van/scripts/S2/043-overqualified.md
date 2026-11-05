@@ -41,7 +41,7 @@ ACTION: OLLIE sits alone on a park bench on a sunny Tuesday, still wearing his v
 DIALOGUE: none.
 BACKGROUND MOTION: ducks swimming, leaves falling, people jogging past.
 CAMERA: static, very slow drift. DURATION: ~1.6 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 2 · 1,6–3,2 s · Insert detail shot · L12
@@ -55,7 +55,8 @@ ACTION: OLLIE's phone: three emails "Unfortunately… overqualified".
 DIALOGUE: none.
 BACKGROUND MOTION: ducks swimming, leaves falling, people jogging past.
 CAMERA: static. DURATION: ~1.6 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+PROP TEXT: render these words crisp and legible on the prop/screen: "Unfortunately… overqualified".
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 3 · 3,2–5,8 s · Close-up · L12
@@ -70,7 +71,7 @@ ACTION: OLLIE speaks to himself, voice shaking.
 DIALOGUE: OLLIE says "Overqualified. THREE times this week." (warm, gentle, slightly tired older man's voice), accurate lip-sync.
 BACKGROUND MOTION: ducks swimming, leaves falling, people jogging past.
 CAMERA: slow push-in. DURATION: ~2.6 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 4 · 5,8–8,5 s · Two-shot · L12
@@ -85,7 +86,7 @@ ACTION: VAN sits beside him with two coffees.
 DIALOGUE: VAN says "Mind if I sit?" (calm, low, slow, dry deadpan voice, tiny pause before the last word), accurate lip-sync.
 BACKGROUND MOTION: ducks swimming, leaves falling, people jogging past.
 CAMERA: static. DURATION: ~2.7 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 5 · 8,5–11,8 s · Close-up · L12
@@ -100,7 +101,7 @@ ACTION: OLLIE takes the coffee, eyes wet.
 DIALOGUE: OLLIE says "Twenty-four years and nobody WANTS me." (warm, gentle, slightly tired older man's voice), accurate lip-sync.
 BACKGROUND MOTION: ducks swimming, leaves falling, people jogging past.
 CAMERA: slow push-in. DURATION: ~3.3 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 6 · 11,8–13,4 s · Insert detail shot · L12
@@ -114,7 +115,7 @@ ACTION: a beautiful handmade wooden birdhouse on the bench next to OLLIE.
 DIALOGUE: none.
 BACKGROUND MOTION: ducks swimming, leaves falling, people jogging past.
 CAMERA: static. DURATION: ~1.6 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 7 · 13,4–15,6 s · Medium close-up · L12
@@ -129,7 +130,7 @@ ACTION: VAN nods at the birdhouse.
 DIALOGUE: VAN says "You made that?" (calm, low, slow, dry deadpan voice, tiny pause before the last word), accurate lip-sync.
 BACKGROUND MOTION: ducks swimming, leaves falling, people jogging past.
 CAMERA: static. DURATION: ~2.2 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 8 · 15,6–17,5 s · Close-up · L12
@@ -144,7 +145,7 @@ ACTION: OLLIE shrugs.
 DIALOGUE: OLLIE says "Just a hobby." (warm, gentle, slightly tired older man's voice), accurate lip-sync.
 BACKGROUND MOTION: ducks swimming, leaves falling, people jogging past.
 CAMERA: slow push-in. DURATION: ~1.9 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 9 · 17,5–19,3 s · Extreme close-up · L12
@@ -159,7 +160,7 @@ ACTION: VAN looks into the lens.
 DIALOGUE: VAN says "For now." (calm, low, slow, dry deadpan voice, tiny pause before the last word), accurate lip-sync.
 BACKGROUND MOTION: ducks swimming, leaves falling, people jogging past.
 CAMERA: very slow push-in. DURATION: ~1.8 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ## Titulky (SRT – import do CapCut)

@@ -42,7 +42,7 @@ ACTION: JUNE surrounded by crumpled paper.
 DIALOGUE: JUNE says "I've been writing for the WHOLE weekend." (fast, expressive young woman's voice, stressing the CAPS words), accurate lip-sync.
 BACKGROUND MOTION: rain on the window, fairy lights gently blinking, steam from noodles.
 CAMERA: slow push-in. DURATION: ~3.3 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 2 · 3,3–5,5 s · Medium close-up · L06
@@ -57,7 +57,7 @@ ACTION: VAN on video call.
 DIALOGUE: VAN says "Use three prompts." (calm, low, slow, dry deadpan voice, tiny pause before the last word), accurate lip-sync.
 BACKGROUND MOTION: rain on the window, fairy lights gently blinking, steam from noodles.
 CAMERA: static. DURATION: ~2.2 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 3 · 5,5–8,9 s · Insert detail shot · L06
@@ -71,7 +71,7 @@ ACTION: a prompt typed into an AI chat window, a list appears.
 AUDIO: VAN is heard off-screen (calm, low, slow, dry deadpan voice, tiny pause before the last word): "List twenty pains of my niche."
 BACKGROUND MOTION: rain on the window, fairy lights gently blinking, steam from noodles.
 CAMERA: static. DURATION: ~3.4 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 4 · 8,9–12,3 s · Insert detail shot · L06
@@ -85,7 +85,7 @@ ACTION: an outline appears.
 AUDIO: VAN is heard off-screen (calm, low, slow, dry deadpan voice, tiny pause before the last word): "Outline a fix for the top three."
 BACKGROUND MOTION: rain on the window, fairy lights gently blinking, steam from noodles.
 CAMERA: static. DURATION: ~3.4 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 5 · 12,3–15,7 s · Insert detail shot · L06
@@ -99,7 +99,7 @@ ACTION: a sales page appears.
 AUDIO: VAN is heard off-screen (calm, low, slow, dry deadpan voice, tiny pause before the last word): "Write the page as the customer."
 BACKGROUND MOTION: rain on the window, fairy lights gently blinking, steam from noodles.
 CAMERA: static. DURATION: ~3.4 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 6 · 15,7–17,9 s · Close-up · L06
@@ -114,7 +114,7 @@ ACTION: JUNE stares at the clock.
 DIALOGUE: JUNE says "That took ONE hour?!" (fast, expressive young woman's voice, stressing the CAPS words), accurate lip-sync.
 BACKGROUND MOTION: rain on the window, fairy lights gently blinking, steam from noodles.
 CAMERA: slow push-in. DURATION: ~2.2 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 7 · 17,9–20,6 s · Medium close-up · L06
@@ -129,7 +129,7 @@ ACTION: VAN raises a finger.
 DIALOGUE: VAN says "You still edit everything." (calm, low, slow, dry deadpan voice, tiny pause before the last word), accurate lip-sync.
 BACKGROUND MOTION: rain on the window, fairy lights gently blinking, steam from noodles.
 CAMERA: static. DURATION: ~2.7 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 8 · 20,6–23,3 s · Extreme close-up · L06
@@ -144,7 +144,7 @@ ACTION: VAN looks into the lens.
 DIALOGUE: VAN says "AI drafts. You decide." (calm, low, slow, dry deadpan voice, tiny pause before the last word), accurate lip-sync.
 BACKGROUND MOTION: rain on the window, fairy lights gently blinking, steam from noodles.
 CAMERA: very slow push-in. DURATION: ~2.7 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ## Titulky (SRT – import do CapCut)

@@ -40,7 +40,7 @@ ACTION: VAN in his sunny loft, phone to his ear, watering a plant.
 DIALOGUE: none.
 BACKGROUND MOTION: dust floating in sunbeams, curtains moving gently, plants swaying.
 CAMERA: static, very slow drift. DURATION: ~1.6 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 2 · 1,6–4,9 s · Close-up · L10
@@ -55,7 +55,7 @@ ACTION: VAN listens.
 AUDIO: VAN'S DAD is heard off-screen (warm, gruff older man's voice on the phone): "Saturday lunch? I know you're busy, son."
 BACKGROUND MOTION: dust floating in sunbeams, curtains moving gently, plants swaying.
 CAMERA: slow push-in. DURATION: ~3.3 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 3 · 4,9–6,7 s · Medium close-up · L10
@@ -70,7 +70,7 @@ ACTION: VAN smiles softly.
 DIALOGUE: VAN says "I'm free." (calm, low, slow, dry deadpan voice, tiny pause before the last word), accurate lip-sync.
 BACKGROUND MOTION: dust floating in sunbeams, curtains moving gently, plants swaying.
 CAMERA: static. DURATION: ~1.8 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 4 · 6,7–9,6 s · Close-up · L10
@@ -85,7 +85,7 @@ ACTION: VAN listens.
 AUDIO: VAN'S DAD is heard off-screen (warm, gruff older man's voice on the phone): "You said that last week too."
 BACKGROUND MOTION: dust floating in sunbeams, curtains moving gently, plants swaying.
 CAMERA: slow push-in. DURATION: ~2.9 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 5 · 9,6–12,3 s · Medium close-up · L10
@@ -100,7 +100,7 @@ ACTION: VAN quietly.
 DIALOGUE: VAN says "I'm always free now." (calm, low, slow, dry deadpan voice, tiny pause before the last word), accurate lip-sync.
 BACKGROUND MOTION: dust floating in sunbeams, curtains moving gently, plants swaying.
 CAMERA: static. DURATION: ~2.7 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 6 · 12,3–14,9 s · Close-up · L10
@@ -115,7 +115,7 @@ ACTION: VAN listens, his eyes glisten.
 AUDIO: VAN'S DAD is heard off-screen (warm, gruff older man's voice on the phone): "…Then I'll save your chair."
 BACKGROUND MOTION: dust floating in sunbeams, curtains moving gently, plants swaying.
 CAMERA: slow push-in. DURATION: ~2.6 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 7 · 14,9–16,5 s · Insert detail shot · L10
@@ -129,7 +129,7 @@ ACTION: a new framed photo next to the old one: the same family, the chair no lo
 DIALOGUE: none.
 BACKGROUND MOTION: dust floating in sunbeams, curtains moving gently, plants swaying.
 CAMERA: static. DURATION: ~1.6 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 8 · 16,5–17,9 s · Extreme close-up · L10
@@ -144,7 +144,7 @@ ACTION: VAN looks into the lens.
 DIALOGUE: VAN says "Saved." (calm, low, slow, dry deadpan voice, tiny pause before the last word), accurate lip-sync.
 BACKGROUND MOTION: dust floating in sunbeams, curtains moving gently, plants swaying.
 CAMERA: very slow push-in. DURATION: ~1.4 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ## Titulky (SRT – import do CapCut)

@@ -37,7 +37,7 @@ ACTION: VAN alone on the rooftop at night, rain, mug in hand.
 DIALOGUE: none.
 BACKGROUND MOTION: city lights twinkling, slow drifting clouds, steam from vents, light rain.
 CAMERA: static, very slow drift. DURATION: ~1.6 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 2 · 1,6–4,8 s · Medium close-up · L05
@@ -52,7 +52,7 @@ ACTION: VAN looks at his bare wrist.
 DIALOGUE: VAN says "I had a watch too." (calm, low, slow, dry deadpan voice, tiny pause before the last word), accurate lip-sync.
 BACKGROUND MOTION: city lights twinkling, slow drifting clouds, steam from vents, light rain.
 CAMERA: static. DURATION: ~3.2 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 3 · 4,8–6,4 s · Insert detail shot · L05
@@ -67,7 +67,8 @@ ACTION: VAN's reflection in a puddle shows him in an old suit with a lanyard "EM
 DIALOGUE: none.
 BACKGROUND MOTION: city lights twinkling, slow drifting clouds, steam from vents, light rain.
 CAMERA: static. DURATION: ~1.6 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+PROP TEXT: render these words crisp and legible on the prop/screen: "EMPLOYEE".
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 4 · 6,4–9,1 s · Close-up · L05
@@ -82,7 +83,7 @@ ACTION: VAN quietly.
 DIALOGUE: VAN says "Checked it every minute." (calm, low, slow, dry deadpan voice, tiny pause before the last word), accurate lip-sync.
 BACKGROUND MOTION: city lights twinkling, slow drifting clouds, steam from vents, light rain.
 CAMERA: slow push-in. DURATION: ~2.7 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 5 · 9,1–11,3 s · Extreme close-up · L05
@@ -97,7 +98,7 @@ ACTION: VAN looks into the lens.
 DIALOGUE: VAN says "Then I built." (calm, low, slow, dry deadpan voice, tiny pause before the last word), accurate lip-sync.
 BACKGROUND MOTION: city lights twinkling, slow drifting clouds, steam from vents, light rain.
 CAMERA: very slow push-in. DURATION: ~2.2 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ## Titulky (SRT – import do CapCut)

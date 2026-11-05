@@ -42,7 +42,7 @@ ACTION: JUNE on the rooftop.
 DIALOGUE: JUNE says "Tomorrow I'm free. Then what?" (fast, expressive young woman's voice, stressing the CAPS words), accurate lip-sync.
 BACKGROUND MOTION: city lights twinkling, slow drifting clouds, steam from vents, light rain.
 CAMERA: slow push-in. DURATION: ~2.6 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 2 · 2,6–5,3 s · Medium close-up · L05
@@ -57,7 +57,7 @@ ACTION: VAN.
 DIALOGUE: VAN says "Three checks. Every month." (calm, low, slow, dry deadpan voice, tiny pause before the last word), accurate lip-sync.
 BACKGROUND MOTION: city lights twinkling, slow drifting clouds, steam from vents, light rain.
 CAMERA: static. DURATION: ~2.7 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 3 · 5,3–7,1 s · Medium close-up · L05
@@ -72,7 +72,7 @@ ACTION: VAN.
 DIALOGUE: VAN says "Your numbers." (calm, low, slow, dry deadpan voice, tiny pause before the last word), accurate lip-sync.
 BACKGROUND MOTION: city lights twinkling, slow drifting clouds, steam from vents, light rain.
 CAMERA: static. DURATION: ~1.8 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 4 · 7,1–8,9 s · Medium close-up · L05
@@ -87,7 +87,7 @@ ACTION: VAN.
 DIALOGUE: VAN says "Your systems." (calm, low, slow, dry deadpan voice, tiny pause before the last word), accurate lip-sync.
 BACKGROUND MOTION: city lights twinkling, slow drifting clouds, steam from vents, light rain.
 CAMERA: static. DURATION: ~1.8 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 5 · 8,9–11,1 s · Medium close-up · L05
@@ -102,7 +102,7 @@ ACTION: VAN.
 DIALOGUE: VAN says "Your next rung." (calm, low, slow, dry deadpan voice, tiny pause before the last word), accurate lip-sync.
 BACKGROUND MOTION: city lights twinkling, slow drifting clouds, steam from vents, light rain.
 CAMERA: static. DURATION: ~2.2 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 6 · 11,1–12,6 s · Close-up · L05
@@ -117,7 +117,7 @@ ACTION: JUNE.
 DIALOGUE: JUNE says "That's it?" (fast, expressive young woman's voice, stressing the CAPS words), accurate lip-sync.
 BACKGROUND MOTION: city lights twinkling, slow drifting clouds, steam from vents, light rain.
 CAMERA: slow push-in. DURATION: ~1.5 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 7 · 12,6–14,8 s · Medium close-up · L05
@@ -132,7 +132,7 @@ ACTION: VAN.
 DIALOGUE: VAN says "And rest. Seriously." (calm, low, slow, dry deadpan voice, tiny pause before the last word), accurate lip-sync.
 BACKGROUND MOTION: city lights twinkling, slow drifting clouds, steam from vents, light rain.
 CAMERA: static. DURATION: ~2.2 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 8 · 14,8–17,0 s · Extreme close-up · L05
@@ -147,7 +147,7 @@ ACTION: VAN looks into the lens.
 DIALOGUE: VAN says "Freedom needs maintenance." (calm, low, slow, dry deadpan voice, tiny pause before the last word), accurate lip-sync.
 BACKGROUND MOTION: city lights twinkling, slow drifting clouds, steam from vents, light rain.
 CAMERA: very slow push-in. DURATION: ~2.2 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ## Titulky (SRT – import do CapCut)

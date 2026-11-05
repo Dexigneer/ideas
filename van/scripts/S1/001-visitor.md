@@ -44,7 +44,7 @@ DIALOGUE: MANAGEMENT says "You left at NOON. THREE days in a row." (loud, clippe
 RULE: MANAGEMENT's head must never be visible - crop at the neck.
 BACKGROUND MOTION: rain streaks on windows, clone coworkers typing, copier spitting paper, second hand on the clock.
 CAMERA: static. DURATION: ~3.4 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 2 · 3,4–4,8 s · Medium close-up · L01
@@ -59,7 +59,7 @@ ACTION: VAN slowly sips from his white mug, VISITOR badge clearly visible on his
 DIALOGUE: VAN says "Four." (calm, low, slow, dry deadpan voice, tiny pause before the last word), accurate lip-sync.
 BACKGROUND MOTION: rain streaks on windows, clone coworkers typing, copier spitting paper, second hand on the clock.
 CAMERA: static. DURATION: ~1.4 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 3 · 4,8–7,4 s · Close-up · L01
@@ -75,7 +75,7 @@ DIALOGUE: MANAGEMENT says "One more and you're FIRED." (loud, clipped corporate 
 RULE: MANAGEMENT's head must never be visible - crop at the neck.
 BACKGROUND MOTION: rain streaks on windows, clone coworkers typing, copier spitting paper, second hand on the clock.
 CAMERA: slow push-in. DURATION: ~2.6 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 4 · 7,4–10,0 s · Close-up · L01
@@ -90,7 +90,7 @@ ACTION: JUNE whispers, wide-eyed, glancing at VAN's face-down phone vibrating.
 DIALOGUE: JUNE says "Van… your phone keeps PINGING?!" (fast, expressive young woman's voice, stressing the CAPS words), accurate lip-sync.
 BACKGROUND MOTION: rain streaks on windows, clone coworkers typing, copier spitting paper, second hand on the clock.
 CAMERA: slow push-in. DURATION: ~2.6 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 5 · 10,0–11,4 s · Medium close-up · L01
@@ -105,7 +105,7 @@ ACTION: VAN does not even look at the phone, calm half-smile.
 DIALOGUE: VAN says "Sales." (calm, low, slow, dry deadpan voice, tiny pause before the last word), accurate lip-sync.
 BACKGROUND MOTION: rain streaks on windows, clone coworkers typing, copier spitting paper, second hand on the clock.
 CAMERA: static. DURATION: ~1.4 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 6 · 11,4–13,3 s · Over-the-shoulder shot · L01
@@ -121,7 +121,7 @@ DIALOGUE: MANAGEMENT says "On COMPANY time?!" (loud, clipped corporate voice, st
 RULE: MANAGEMENT's head must never be visible - crop at the neck.
 BACKGROUND MOTION: rain streaks on windows, clone coworkers typing, copier spitting paper, second hand on the clock.
 CAMERA: static. DURATION: ~1.9 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 7 · 13,3–15,1 s · Close-up · L01
@@ -136,7 +136,7 @@ ACTION: VAN slow blink, unbothered.
 DIALOGUE: VAN says "My time." (calm, low, slow, dry deadpan voice, tiny pause before the last word), accurate lip-sync.
 BACKGROUND MOTION: rain streaks on windows, clone coworkers typing, copier spitting paper, second hand on the clock.
 CAMERA: slow push-in. DURATION: ~1.8 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 8 · 15,1–17,7 s · Close-up · L01
@@ -152,7 +152,7 @@ DIALOGUE: MANAGEMENT says "Badge. On the desk. NOW." (loud, clipped corporate vo
 RULE: MANAGEMENT's head must never be visible - crop at the neck.
 BACKGROUND MOTION: rain streaks on windows, clone coworkers typing, copier spitting paper, second hand on the clock.
 CAMERA: slow push-in. DURATION: ~2.6 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 9 · 17,7–19,5 s · Insert detail shot · L01
@@ -167,7 +167,7 @@ ACTION: VAN calmly places his white badge on the desk; the badge reads VISITOR.
 DIALOGUE: VAN says "Read it." (calm, low, slow, dry deadpan voice, tiny pause before the last word), accurate lip-sync.
 BACKGROUND MOTION: rain streaks on windows, clone coworkers typing, copier spitting paper, second hand on the clock.
 CAMERA: static. DURATION: ~1.8 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 10 · 19,5–22,1 s · Close-up · L01
@@ -182,7 +182,7 @@ ACTION: JUNE's glasses slide down her nose in shock.
 DIALOGUE: JUNE says "You don't even WORK here?!" (fast, expressive young woman's voice, stressing the CAPS words), accurate lip-sync.
 BACKGROUND MOTION: rain streaks on windows, clone coworkers typing, copier spitting paper, second hand on the clock.
 CAMERA: slow push-in. DURATION: ~2.6 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 11 · 22,1–23,9 s · Extreme close-up · L01
@@ -197,7 +197,7 @@ ACTION: VAN looks straight into the lens, slow blink, tiny smirk.
 DIALOGUE: VAN says "Since March." (calm, low, slow, dry deadpan voice, tiny pause before the last word), accurate lip-sync.
 BACKGROUND MOTION: rain streaks on windows, clone coworkers typing, copier spitting paper, second hand on the clock.
 CAMERA: very slow push-in. DURATION: ~1.8 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ## Titulky (SRT – import do CapCut)

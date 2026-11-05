@@ -42,7 +42,7 @@ ACTION: JUNE shows a pastel cover design.
 DIALOGUE: JUNE says "A cute MOTIVATION journal for nurses!" (fast, expressive young woman's voice, stressing the CAPS words), accurate lip-sync.
 BACKGROUND MOTION: rain on the window, fairy lights gently blinking, steam from noodles.
 CAMERA: slow push-in. DURATION: ~2.9 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 2 · 2,9–5,6 s · Medium close-up · L06
@@ -57,7 +57,7 @@ ACTION: VAN on her laptop.
 DIALOGUE: VAN says "Is that a vitamin?" (calm, low, slow, dry deadpan voice, tiny pause before the last word), accurate lip-sync.
 BACKGROUND MOTION: rain on the window, fairy lights gently blinking, steam from noodles.
 CAMERA: static. DURATION: ~2.7 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 3 · 5,6–7,8 s · Medium close-up · L06
@@ -72,7 +72,7 @@ ACTION: VAN.
 DIALOGUE: VAN says "Ask what hurts." (calm, low, slow, dry deadpan voice, tiny pause before the last word), accurate lip-sync.
 BACKGROUND MOTION: rain on the window, fairy lights gently blinking, steam from noodles.
 CAMERA: static. DURATION: ~2.2 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 4 · 7,8–11,2 s · Close-up · L09
@@ -87,7 +87,8 @@ ACTION: MAE on the phone at the nurses' station, a pen note "EAT?" on her hand.
 AUDIO: MAE is heard off-screen (soft, tired, raspy night-shift voice): "Sleeping at noon. Eating at three AM. Shift swaps."
 BACKGROUND MOTION: monitor lights blinking, a gurney rolling past, flickering corridor light.
 CAMERA: slow push-in. DURATION: ~3.4 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+PROP TEXT: render these words crisp and legible on the prop/screen: "EAT?".
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 5 · 11,2–13,4 s · Close-up · L06
@@ -102,7 +103,7 @@ ACTION: JUNE crosses out the journal.
 DIALOGUE: JUNE says "Nobody asked for MOTIVATION." (fast, expressive young woman's voice, stressing the CAPS words), accurate lip-sync.
 BACKGROUND MOTION: rain on the window, fairy lights gently blinking, steam from noodles.
 CAMERA: slow push-in. DURATION: ~2.2 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 6 · 13,4–16,0 s · Close-up · L06
@@ -117,7 +118,7 @@ ACTION: JUNE writes three words on a sticky note.
 DIALOGUE: JUNE says "Sleep. Meals. Swaps. ONE system." (fast, expressive young woman's voice, stressing the CAPS words), accurate lip-sync.
 BACKGROUND MOTION: rain on the window, fairy lights gently blinking, steam from noodles.
 CAMERA: slow push-in. DURATION: ~2.6 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 7 · 16,0–18,6 s · Close-up · L09
@@ -132,7 +133,7 @@ ACTION: MAE on the phone.
 AUDIO: MAE is heard off-screen (soft, tired, raspy night-shift voice): "I'd pay for that TONIGHT."
 BACKGROUND MOTION: monitor lights blinking, a gurney rolling past, flickering corridor light.
 CAMERA: slow push-in. DURATION: ~2.6 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 8 · 18,6–20,8 s · Extreme close-up · L06
@@ -147,7 +148,7 @@ ACTION: VAN looks into the lens.
 DIALOGUE: VAN says "Now it's medicine." (calm, low, slow, dry deadpan voice, tiny pause before the last word), accurate lip-sync.
 BACKGROUND MOTION: rain on the window, fairy lights gently blinking, steam from noodles.
 CAMERA: very slow push-in. DURATION: ~2.2 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ## Titulky (SRT – import do CapCut)

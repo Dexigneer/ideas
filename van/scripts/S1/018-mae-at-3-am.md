@@ -40,7 +40,7 @@ ACTION: MAE sits at the nurses' station with a vending-machine sandwich, phone t
 DIALOGUE: MAE says "Junie. It's three AM. I just remembered to EAT." (soft, tired, raspy night-shift voice), accurate lip-sync.
 BACKGROUND MOTION: monitor lights blinking, a gurney rolling past, flickering corridor light.
 CAMERA: static, very slow drift. DURATION: ~3.4 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 2 · 3,4–6,0 s · Close-up · L06
@@ -55,7 +55,7 @@ ACTION: JUNE in bed, phone glowing on her face.
 DIALOGUE: JUNE says "Mae, you HAVE to sleep." (fast, expressive young woman's voice, stressing the CAPS words), accurate lip-sync.
 BACKGROUND MOTION: rain on the window, fairy lights gently blinking, steam from noodles.
 CAMERA: slow push-in. DURATION: ~2.6 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 3 · 6,0–9,4 s · Close-up · L09
@@ -70,7 +70,7 @@ ACTION: MAE rubs her eyes.
 DIALOGUE: MAE says "I sleep at noon. Wake at FIVE. Swap shifts in FOUR group chats." (soft, tired, raspy night-shift voice), accurate lip-sync.
 BACKGROUND MOTION: monitor lights blinking, a gurney rolling past, flickering corridor light.
 CAMERA: slow push-in. DURATION: ~3.4 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 4 · 9,4–11,0 s · Insert detail shot · L09
@@ -84,7 +84,7 @@ ACTION: a whiteboard shift roster covered in crossed-out names and arrows.
 DIALOGUE: none.
 BACKGROUND MOTION: monitor lights blinking, a gurney rolling past, flickering corridor light.
 CAMERA: static. DURATION: ~1.6 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 5 · 11,0–13,6 s · Close-up · L09
@@ -99,7 +99,7 @@ ACTION: MAE's voice cracks.
 DIALOGUE: MAE says "Nobody plans for nights. Nobody." (soft, tired, raspy night-shift voice), accurate lip-sync.
 BACKGROUND MOTION: monitor lights blinking, a gurney rolling past, flickering corridor light.
 CAMERA: slow push-in. DURATION: ~2.6 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 6 · 13,6–15,8 s · Close-up · L06
@@ -114,7 +114,7 @@ ACTION: JUNE sits up slowly, eyes on her sticky-note wall.
 DIALOGUE: JUNE says "…What if someone did?" (fast, expressive young woman's voice, stressing the CAPS words), accurate lip-sync.
 BACKGROUND MOTION: rain on the window, fairy lights gently blinking, steam from noodles.
 CAMERA: slow push-in. DURATION: ~2.2 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 7 · 15,8–17,2 s · Close-up · L09
@@ -129,7 +129,7 @@ ACTION: MAE laughs tiredly.
 DIALOGUE: MAE says "Who?" (soft, tired, raspy night-shift voice), accurate lip-sync.
 BACKGROUND MOTION: monitor lights blinking, a gurney rolling past, flickering corridor light.
 CAMERA: slow push-in. DURATION: ~1.4 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 8 · 17,2–18,6 s · Extreme close-up · L06
@@ -144,7 +144,7 @@ ACTION: JUNE looks into the lens, determined.
 DIALOGUE: JUNE says "Me." (fast, expressive young woman's voice, stressing the CAPS words), accurate lip-sync.
 BACKGROUND MOTION: rain on the window, fairy lights gently blinking, steam from noodles.
 CAMERA: very slow push-in. DURATION: ~1.4 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ## Titulky (SRT – import do CapCut)

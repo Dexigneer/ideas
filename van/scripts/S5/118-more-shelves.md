@@ -41,7 +41,7 @@ ACTION: JUNE.
 DIALOGUE: JUNE says "Should I build a NEW product?" (fast, expressive young woman's voice, stressing the CAPS words), accurate lip-sync.
 BACKGROUND MOTION: rain on the window, fairy lights gently blinking, steam from noodles.
 CAMERA: slow push-in. DURATION: ~2.9 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 2 · 2,9–6,1 s · Medium close-up · L06
@@ -56,7 +56,7 @@ ACTION: VAN on video call.
 DIALOGUE: VAN says "Is the old one everywhere?" (calm, low, slow, dry deadpan voice, tiny pause before the last word), accurate lip-sync.
 BACKGROUND MOTION: rain on the window, fairy lights gently blinking, steam from noodles.
 CAMERA: static. DURATION: ~3.2 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 3 · 6,1–8,3 s · Insert detail shot · L06
@@ -70,7 +70,7 @@ ACTION: a game shop shelf with the planner.
 AUDIO: VAN is heard off-screen (calm, low, slow, dry deadpan voice, tiny pause before the last word): "Your own store."
 BACKGROUND MOTION: rain on the window, fairy lights gently blinking, steam from noodles.
 CAMERA: static. DURATION: ~2.2 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 4 · 8,3–11,0 s · Insert detail shot · L06
@@ -84,7 +84,7 @@ ACTION: a second shelf in a big marketplace.
 AUDIO: VAN is heard off-screen (calm, low, slow, dry deadpan voice, tiny pause before the last word): "Where nurses already shop."
 BACKGROUND MOTION: rain on the window, fairy lights gently blinking, steam from noodles.
 CAMERA: static. DURATION: ~2.7 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 5 · 11,0–13,2 s · Insert detail shot · L06
@@ -98,7 +98,7 @@ ACTION: a third shelf: a bundle box with other nurse creators.
 AUDIO: VAN is heard off-screen (calm, low, slow, dry deadpan voice, tiny pause before the last word): "In partner bundles."
 BACKGROUND MOTION: rain on the window, fairy lights gently blinking, steam from noodles.
 CAMERA: static. DURATION: ~2.2 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 6 · 13,2–16,1 s · Close-up · L06
@@ -113,7 +113,7 @@ ACTION: JUNE.
 DIALOGUE: JUNE says "Same product… THREE times the eyes." (fast, expressive young woman's voice, stressing the CAPS words), accurate lip-sync.
 BACKGROUND MOTION: rain on the window, fairy lights gently blinking, steam from noodles.
 CAMERA: slow push-in. DURATION: ~2.9 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 7 · 16,1–18,8 s · Extreme close-up · L06
@@ -128,7 +128,7 @@ ACTION: VAN looks into the lens.
 DIALOGUE: VAN says "Build less. Place more." (calm, low, slow, dry deadpan voice, tiny pause before the last word), accurate lip-sync.
 BACKGROUND MOTION: rain on the window, fairy lights gently blinking, steam from noodles.
 CAMERA: very slow push-in. DURATION: ~2.7 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ## Titulky (SRT – import do CapCut)

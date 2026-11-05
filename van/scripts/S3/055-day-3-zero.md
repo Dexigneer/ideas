@@ -41,7 +41,7 @@ ACTION: JUNE in the night bus, staring at her phone, rain on the window.
 DIALOGUE: none.
 BACKGROUND MOTION: streetlights and neon sliding past the windows, the bus swaying gently.
 CAMERA: static, very slow drift. DURATION: ~1.6 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 2 · 1,6–3,2 s · Insert detail shot · L07
@@ -55,7 +55,8 @@ ACTION: phone: "DAY 3 – SALES: 0", her thumb on "DELETE STORE".
 DIALOGUE: none.
 BACKGROUND MOTION: streetlights and neon sliding past the windows, the bus swaying gently.
 CAMERA: static. DURATION: ~1.6 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+PROP TEXT: render these words crisp and legible on the prop/screen: "DAY 3 – SALES: 0", "DELETE STORE".
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 3 · 3,2–6,1 s · Close-up · L07
@@ -70,7 +71,7 @@ ACTION: JUNE whispers, eyes wet.
 DIALOGUE: JUNE says "Three days. ZERO. I'm deleting it." (fast, expressive young woman's voice, stressing the CAPS words), accurate lip-sync.
 BACKGROUND MOTION: streetlights and neon sliding past the windows, the bus swaying gently.
 CAMERA: slow push-in. DURATION: ~2.9 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 4 · 6,1–8,8 s · Two-shot · L07
@@ -85,7 +86,7 @@ ACTION: VAN sits down next to her.
 DIALOGUE: VAN says "Mine took forty-one." (calm, low, slow, dry deadpan voice, tiny pause before the last word), accurate lip-sync.
 BACKGROUND MOTION: streetlights and neon sliding past the windows, the bus swaying gently.
 CAMERA: static. DURATION: ~2.7 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 5 · 8,8–10,7 s · Close-up · L07
@@ -100,7 +101,7 @@ ACTION: JUNE turns to him.
 DIALOGUE: JUNE says "Forty-one DAYS?!" (fast, expressive young woman's voice, stressing the CAPS words), accurate lip-sync.
 BACKGROUND MOTION: streetlights and neon sliding past the windows, the bus swaying gently.
 CAMERA: slow push-in. DURATION: ~1.9 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 6 · 10,7–12,5 s · Medium close-up · L07
@@ -115,7 +116,7 @@ ACTION: VAN nods.
 DIALOGUE: VAN says "Of zero." (calm, low, slow, dry deadpan voice, tiny pause before the last word), accurate lip-sync.
 BACKGROUND MOTION: streetlights and neon sliding past the windows, the bus swaying gently.
 CAMERA: static. DURATION: ~1.8 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 7 · 12,5–14,7 s · Close-up · L07
@@ -130,7 +131,7 @@ ACTION: JUNE.
 DIALOGUE: JUNE says "Why didn't you QUIT?" (fast, expressive young woman's voice, stressing the CAPS words), accurate lip-sync.
 BACKGROUND MOTION: streetlights and neon sliding past the windows, the bus swaying gently.
 CAMERA: slow push-in. DURATION: ~2.2 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 8 · 14,7–16,9 s · Medium close-up · L07
@@ -145,7 +146,7 @@ ACTION: VAN shows a tiny smile.
 DIALOGUE: VAN says "Day forty-two." (calm, low, slow, dry deadpan voice, tiny pause before the last word), accurate lip-sync.
 BACKGROUND MOTION: streetlights and neon sliding past the windows, the bus swaying gently.
 CAMERA: static. DURATION: ~2.2 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 9 · 16,9–19,1 s · Extreme close-up · L07
@@ -160,7 +161,7 @@ ACTION: VAN looks into the lens; JUNE's thumb leaves the delete button.
 DIALOGUE: VAN says "Don't delete it." (calm, low, slow, dry deadpan voice, tiny pause before the last word), accurate lip-sync.
 BACKGROUND MOTION: streetlights and neon sliding past the windows, the bus swaying gently.
 CAMERA: very slow push-in. DURATION: ~2.2 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ## Titulky (SRT – import do CapCut)

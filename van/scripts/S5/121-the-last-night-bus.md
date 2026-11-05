@@ -40,7 +40,7 @@ ACTION: JUNE in the night bus, phone in her pocket, looking out at the neon city
 DIALOGUE: none.
 BACKGROUND MOTION: streetlights and neon sliding past the windows, the bus swaying gently.
 CAMERA: static, very slow drift. DURATION: ~1.6 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 2 · 1,6–3,4 s · Two-shot · L07
@@ -55,7 +55,7 @@ ACTION: VAN sits beside her.
 DIALOGUE: VAN says "Last ride?" (calm, low, slow, dry deadpan voice, tiny pause before the last word), accurate lip-sync.
 BACKGROUND MOTION: streetlights and neon sliding past the windows, the bus swaying gently.
 CAMERA: static. DURATION: ~1.8 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 3 · 3,4–6,8 s · Close-up · L07
@@ -70,7 +70,7 @@ ACTION: JUNE.
 DIALOGUE: JUNE says "Three years on this bus. I never LOOKED outside." (fast, expressive young woman's voice, stressing the CAPS words), accurate lip-sync.
 BACKGROUND MOTION: streetlights and neon sliding past the windows, the bus swaying gently.
 CAMERA: slow push-in. DURATION: ~3.4 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 4 · 6,8–8,4 s · Insert detail shot · L07
@@ -84,7 +84,7 @@ ACTION: through the window: the city lights, a bridge, the river reflecting neon
 DIALOGUE: none.
 BACKGROUND MOTION: streetlights and neon sliding past the windows, the bus swaying gently.
 CAMERA: static. DURATION: ~1.6 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 5 · 8,4–9,9 s · Close-up · L07
@@ -99,7 +99,7 @@ ACTION: JUNE whispers.
 DIALOGUE: JUNE says "It's beautiful." (fast, expressive young woman's voice, stressing the CAPS words), accurate lip-sync.
 BACKGROUND MOTION: streetlights and neon sliding past the windows, the bus swaying gently.
 CAMERA: slow push-in. DURATION: ~1.5 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 6 · 9,9–11,7 s · Medium close-up · L07
@@ -114,7 +114,7 @@ ACTION: VAN.
 DIALOGUE: VAN says "Always was." (calm, low, slow, dry deadpan voice, tiny pause before the last word), accurate lip-sync.
 BACKGROUND MOTION: streetlights and neon sliding past the windows, the bus swaying gently.
 CAMERA: static. DURATION: ~1.8 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 7 · 11,7–13,3 s · Insert detail shot · L07
@@ -128,7 +128,8 @@ ACTION: the stop sign "OFFICE" slides away behind the bus.
 DIALOGUE: none.
 BACKGROUND MOTION: streetlights and neon sliding past the windows, the bus swaying gently.
 CAMERA: static. DURATION: ~1.6 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+PROP TEXT: render these words crisp and legible on the prop/screen: "OFFICE".
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 8 · 13,3–14,8 s · Extreme close-up · L07
@@ -143,7 +144,7 @@ ACTION: JUNE looks into the lens.
 DIALOGUE: JUNE says "Bye, Office." (fast, expressive young woman's voice, stressing the CAPS words), accurate lip-sync.
 BACKGROUND MOTION: streetlights and neon sliding past the windows, the bus swaying gently.
 CAMERA: very slow push-in. DURATION: ~1.5 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ## Titulky (SRT – import do CapCut)

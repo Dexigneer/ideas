@@ -40,7 +40,7 @@ ACTION: the NEW HIRE stands at JUNE's desk clutching an onboarding folder.
 DIALOGUE: NEW HIRE says "Hi! I'm the new— I'm your REPLACEMENT." (nervous young voice), accurate lip-sync.
 BACKGROUND MOTION: rain streaks on windows, clone coworkers typing, copier spitting paper, second hand on the clock.
 CAMERA: static, very slow drift. DURATION: ~3.3 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 2 · 3,3–4,9 s · Close-up · L01
@@ -55,7 +55,7 @@ ACTION: JUNE looks at him; he wears the same cheap digital watch she used to wea
 DIALOGUE: none.
 BACKGROUND MOTION: rain streaks on windows, clone coworkers typing, copier spitting paper, second hand on the clock.
 CAMERA: slow push-in. DURATION: ~1.6 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 3 · 4,9–7,1 s · Close-up · L01
@@ -70,7 +70,7 @@ ACTION: KID whispers.
 DIALOGUE: NEW HIRE says "Is it… nice here?" (nervous young voice), accurate lip-sync.
 BACKGROUND MOTION: rain streaks on windows, clone coworkers typing, copier spitting paper, second hand on the clock.
 CAMERA: slow push-in. DURATION: ~2.2 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 4 · 7,1–9,7 s · Close-up · L01
@@ -85,7 +85,7 @@ ACTION: JUNE, kind but honest.
 DIALOGUE: JUNE says "There's a pizza party. Sometimes." (fast, expressive young woman's voice, stressing the CAPS words), accurate lip-sync.
 BACKGROUND MOTION: rain streaks on windows, clone coworkers typing, copier spitting paper, second hand on the clock.
 CAMERA: slow push-in. DURATION: ~2.6 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 5 · 9,7–13,1 s · Wide establishing shot · L01
@@ -101,7 +101,7 @@ DIALOGUE: MANAGEMENT says "New guy! You'll ALSO take June's accounts. And Oliver
 RULE: MANAGEMENT's head must never be visible - crop at the neck.
 BACKGROUND MOTION: rain streaks on windows, clone coworkers typing, copier spitting paper, second hand on the clock.
 CAMERA: static, very slow drift. DURATION: ~3.4 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 6 · 13,1–15,0 s · Close-up · L01
@@ -116,7 +116,7 @@ ACTION: KID looks at JUNE, scared.
 DIALOGUE: NEW HIRE says "Is that… normal?" (nervous young voice), accurate lip-sync.
 BACKGROUND MOTION: rain streaks on windows, clone coworkers typing, copier spitting paper, second hand on the clock.
 CAMERA: slow push-in. DURATION: ~1.9 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 7 · 15,0–16,6 s · Medium close-up · L01
@@ -131,7 +131,7 @@ ACTION: VAN watches from his empty desk, then looks at JUNE.
 DIALOGUE: none.
 BACKGROUND MOTION: rain streaks on windows, clone coworkers typing, copier spitting paper, second hand on the clock.
 CAMERA: static. DURATION: ~1.6 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 8 · 16,6–18,1 s · Extreme close-up · L01
@@ -146,7 +146,7 @@ ACTION: JUNE looks into the lens.
 DIALOGUE: JUNE says "It was." (fast, expressive young woman's voice, stressing the CAPS words), accurate lip-sync.
 BACKGROUND MOTION: rain streaks on windows, clone coworkers typing, copier spitting paper, second hand on the clock.
 CAMERA: very slow push-in. DURATION: ~1.5 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ## Titulky (SRT – import do CapCut)

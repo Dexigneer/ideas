@@ -41,7 +41,7 @@ ACTION: two identical clones face each other across a cubicle wall, smiling tigh
 DIALOGUE: NPC COWORKERS says "Per my LAST email." (flat, cheerful, robotic NPC voice with identical intonation), accurate lip-sync.
 BACKGROUND MOTION: rain streaks on windows, clone coworkers typing, copier spitting paper, second hand on the clock.
 CAMERA: static, very slow drift. DURATION: ~2.2 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 2 · 2,2–4,1 s · Wide establishing shot · L01
@@ -56,7 +56,7 @@ ACTION: the other clone answers with the same frozen smile.
 DIALOGUE: NPC COWORKERS says "As PREVIOUSLY discussed." (flat, cheerful, robotic NPC voice with identical intonation), accurate lip-sync.
 BACKGROUND MOTION: rain streaks on windows, clone coworkers typing, copier spitting paper, second hand on the clock.
 CAMERA: static, very slow drift. DURATION: ~1.9 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 3 · 4,1–7,0 s · Close-up · L01
@@ -71,7 +71,7 @@ ACTION: JUNE whispers to VAN, popcorn-style snacking from a bag of chips.
 DIALOGUE: JUNE says "They've been doing this since NINE." (fast, expressive young woman's voice, stressing the CAPS words), accurate lip-sync.
 BACKGROUND MOTION: rain streaks on windows, clone coworkers typing, copier spitting paper, second hand on the clock.
 CAMERA: slow push-in. DURATION: ~2.9 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 4 · 7,0–8,5 s · Wide establishing shot · L01
@@ -86,7 +86,7 @@ ACTION: a third identical clone joins, cracking his knuckles.
 DIALOGUE: NPC COWORKERS says "Kindly REVERT." (flat, cheerful, robotic NPC voice with identical intonation), accurate lip-sync.
 BACKGROUND MOTION: rain streaks on windows, clone coworkers typing, copier spitting paper, second hand on the clock.
 CAMERA: static, very slow drift. DURATION: ~1.5 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 5 · 8,5–11,4 s · Medium close-up · L01
@@ -101,7 +101,7 @@ ACTION: JUNE looks at VAN.
 DIALOGUE: JUNE says "What are they even FIGHTING about?!" (fast, expressive young woman's voice, stressing the CAPS words), accurate lip-sync.
 BACKGROUND MOTION: rain streaks on windows, clone coworkers typing, copier spitting paper, second hand on the clock.
 CAMERA: static. DURATION: ~2.9 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 6 · 11,4–13,2 s · Medium close-up · L01
@@ -116,7 +116,7 @@ ACTION: VAN points his mug at a red stapler on the cubicle wall.
 DIALOGUE: VAN says "A stapler." (calm, low, slow, dry deadpan voice, tiny pause before the last word), accurate lip-sync.
 BACKGROUND MOTION: rain streaks on windows, clone coworkers typing, copier spitting paper, second hand on the clock.
 CAMERA: static. DURATION: ~1.8 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 7 · 13,2–14,8 s · Insert detail shot · L01
@@ -130,7 +130,8 @@ ACTION: a red stapler with a sticky note "PER MY LAST EMAIL" on it.
 DIALOGUE: none.
 BACKGROUND MOTION: rain streaks on windows, clone coworkers typing, copier spitting paper, second hand on the clock.
 CAMERA: static. DURATION: ~1.6 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+PROP TEXT: render these words crisp and legible on the prop/screen: "PER MY LAST EMAIL".
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 8 · 14,8–17,4 s · Close-up · L01
@@ -145,7 +146,7 @@ ACTION: JUNE's glasses slide down.
 DIALOGUE: JUNE says "Six HOURS for a stapler?!" (fast, expressive young woman's voice, stressing the CAPS words), accurate lip-sync.
 BACKGROUND MOTION: rain streaks on windows, clone coworkers typing, copier spitting paper, second hand on the clock.
 CAMERA: slow push-in. DURATION: ~2.6 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 9 · 17,4–19,2 s · Extreme close-up · L01
@@ -160,7 +161,7 @@ ACTION: VAN looks into the lens, deadpan.
 DIALOGUE: VAN says "Paid hourly." (calm, low, slow, dry deadpan voice, tiny pause before the last word), accurate lip-sync.
 BACKGROUND MOTION: rain streaks on windows, clone coworkers typing, copier spitting paper, second hand on the clock.
 CAMERA: very slow push-in. DURATION: ~1.8 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ## Titulky (SRT – import do CapCut)

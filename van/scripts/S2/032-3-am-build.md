@@ -37,7 +37,7 @@ ACTION: JUNE works on her laptop at 3 AM, fairy lights, PIVOT asleep beside the 
 DIALOGUE: none.
 BACKGROUND MOTION: rain on the window, fairy lights gently blinking, steam from noodles.
 CAMERA: static, very slow drift. DURATION: ~1.6 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 2 · 1,6–3,2 s · Wide establishing shot · L09
@@ -52,7 +52,7 @@ ACTION: MAE walks down the hospital corridor at the same moment, clock 3:07.
 DIALOGUE: none.
 BACKGROUND MOTION: monitor lights blinking, a gurney rolling past, flickering corridor light.
 CAMERA: static, very slow drift. DURATION: ~1.6 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 3 · 3,2–5,1 s · Close-up · L06
@@ -67,7 +67,7 @@ ACTION: JUNE whispers, typing.
 DIALOGUE: JUNE says "For you, Mae." (fast, expressive young woman's voice, stressing the CAPS words), accurate lip-sync.
 BACKGROUND MOTION: rain on the window, fairy lights gently blinking, steam from noodles.
 CAMERA: slow push-in. DURATION: ~1.9 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 4 · 5,1–6,7 s · Insert detail shot · L06
@@ -81,7 +81,8 @@ ACTION: the laptop screen: a page titled "NIGHT SHIFT OS – PAGE 1".
 DIALOGUE: none.
 BACKGROUND MOTION: rain on the window, fairy lights gently blinking, steam from noodles.
 CAMERA: static. DURATION: ~1.6 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+PROP TEXT: render these words crisp and legible on the prop/screen: "NIGHT SHIFT OS – PAGE 1".
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 5 · 6,7–8,2 s · Extreme close-up · L06
@@ -96,7 +97,7 @@ ACTION: JUNE looks up into the lens, tired but smiling.
 DIALOGUE: JUNE says "Almost there." (fast, expressive young woman's voice, stressing the CAPS words), accurate lip-sync.
 BACKGROUND MOTION: rain on the window, fairy lights gently blinking, steam from noodles.
 CAMERA: very slow push-in. DURATION: ~1.5 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ## Titulky (SRT – import do CapCut)

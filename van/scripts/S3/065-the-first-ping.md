@@ -42,7 +42,7 @@ DIALOGUE: MANAGEMENT says "And THAT is why morale is up twelve percent." (loud, 
 RULE: MANAGEMENT's head must never be visible - crop at the neck.
 BACKGROUND MOTION: projector dust in the light beam, ceiling fan, slides changing.
 CAMERA: static, very slow drift. DURATION: ~3.4 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 2 · 3,4–5,0 s · Insert detail shot · L11
@@ -56,7 +56,8 @@ ACTION: JUNE's phone lights up: "NEW SALE – Night Shift OS – $19".
 DIALOGUE: none.
 BACKGROUND MOTION: projector dust in the light beam, ceiling fan, slides changing.
 CAMERA: static. DURATION: ~1.6 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+PROP TEXT: render these words crisp and legible on the prop/screen: "NEW SALE – Night Shift OS – $19".
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 3 · 5,0–6,6 s · Close-up · L11
@@ -71,7 +72,7 @@ ACTION: JUNE freezes, eyes wide, hand over her mouth.
 DIALOGUE: none.
 BACKGROUND MOTION: projector dust in the light beam, ceiling fan, slides changing.
 CAMERA: slow push-in. DURATION: ~1.6 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 4 · 6,6–8,5 s · Close-up · L11
@@ -87,7 +88,7 @@ DIALOGUE: MANAGEMENT says "Something FUNNY, June?" (loud, clipped corporate voic
 RULE: MANAGEMENT's head must never be visible - crop at the neck.
 BACKGROUND MOTION: projector dust in the light beam, ceiling fan, slides changing.
 CAMERA: slow push-in. DURATION: ~1.9 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 5 · 8,5–10,0 s · Close-up · L11
@@ -102,7 +103,7 @@ ACTION: JUNE bolts out.
 DIALOGUE: JUNE says "Bathroom. EMERGENCY." (fast, expressive young woman's voice, stressing the CAPS words), accurate lip-sync.
 BACKGROUND MOTION: projector dust in the light beam, ceiling fan, slides changing.
 CAMERA: slow push-in. DURATION: ~1.5 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 6 · 10,0–11,6 s · Wide establishing shot · L04
@@ -117,7 +118,7 @@ ACTION: JUNE bursts into the stairwell under the green EXIT sign and slides down
 DIALOGUE: none.
 BACKGROUND MOTION: revolving door turning, people tapping badges, elevator numbers changing.
 CAMERA: static, very slow drift. DURATION: ~1.6 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 7 · 11,6–14,2 s · Close-up · L04
@@ -132,7 +133,7 @@ ACTION: JUNE laughs and cries at the same time.
 DIALOGUE: JUNE says "Someone BOUGHT it. A stranger." (fast, expressive young woman's voice, stressing the CAPS words), accurate lip-sync.
 BACKGROUND MOTION: revolving door turning, people tapping badges, elevator numbers changing.
 CAMERA: slow push-in. DURATION: ~2.6 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 8 · 14,2–16,4 s · Medium close-up · L04
@@ -147,7 +148,7 @@ ACTION: VAN sits on the stairs above her.
 DIALOGUE: VAN says "Hear that sound?" (calm, low, slow, dry deadpan voice, tiny pause before the last word), accurate lip-sync.
 BACKGROUND MOTION: revolving door turning, people tapping badges, elevator numbers changing.
 CAMERA: static. DURATION: ~2.2 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 9 · 16,4–18,6 s · Extreme close-up · L04
@@ -162,7 +163,7 @@ ACTION: VAN looks into the lens.
 DIALOGUE: VAN says "Now it's yours." (calm, low, slow, dry deadpan voice, tiny pause before the last word), accurate lip-sync.
 BACKGROUND MOTION: revolving door turning, people tapping badges, elevator numbers changing.
 CAMERA: very slow push-in. DURATION: ~2.2 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ## Titulky (SRT – import do CapCut)

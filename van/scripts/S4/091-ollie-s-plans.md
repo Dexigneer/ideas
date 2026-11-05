@@ -40,7 +40,7 @@ ACTION: OLLIE and JUNE on the park bench, an old laptop between them, ducks near
 DIALOGUE: none.
 BACKGROUND MOTION: ducks swimming, leaves falling, people jogging past.
 CAMERA: static, very slow drift. DURATION: ~1.6 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 2 · 1,6–4,9 s · Close-up · L12
@@ -55,7 +55,7 @@ ACTION: OLLIE types slowly with one finger.
 DIALOGUE: OLLIE says "I'll call it "Birdhouse Plans, Volume One"." (warm, gentle, slightly tired older man's voice), accurate lip-sync.
 BACKGROUND MOTION: ducks swimming, leaves falling, people jogging past.
 CAMERA: slow push-in. DURATION: ~3.3 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 3 · 4,9–7,5 s · Close-up · L12
@@ -70,7 +70,7 @@ ACTION: JUNE smiles knowingly.
 DIALOGUE: JUNE says "What do people GET, Ollie?" (fast, expressive young woman's voice, stressing the CAPS words), accurate lip-sync.
 BACKGROUND MOTION: ducks swimming, leaves falling, people jogging past.
 CAMERA: slow push-in. DURATION: ~2.6 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 4 · 7,5–10,8 s · Close-up · L12
@@ -85,7 +85,7 @@ ACTION: OLLIE pauses, eyes softening.
 DIALOGUE: OLLIE says "…A birdhouse their grandkids build WITH them." (warm, gentle, slightly tired older man's voice), accurate lip-sync.
 BACKGROUND MOTION: ducks swimming, leaves falling, people jogging past.
 CAMERA: slow push-in. DURATION: ~3.3 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 5 · 10,8–12,7 s · Close-up · L12
@@ -100,7 +100,7 @@ ACTION: JUNE points.
 DIALOGUE: JUNE says "THAT'S the name." (fast, expressive young woman's voice, stressing the CAPS words), accurate lip-sync.
 BACKGROUND MOTION: ducks swimming, leaves falling, people jogging past.
 CAMERA: slow push-in. DURATION: ~1.9 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 6 · 12,7–14,3 s · Insert detail shot · L12
@@ -114,7 +114,8 @@ ACTION: the screen: "Build It With Grandpa – 12 easy birdhouse plans".
 DIALOGUE: none.
 BACKGROUND MOTION: ducks swimming, leaves falling, people jogging past.
 CAMERA: static. DURATION: ~1.6 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+PROP TEXT: render these words crisp and legible on the prop/screen: "Build It With Grandpa – 12 easy birdhouse plans".
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 7 · 14,3–16,5 s · Medium close-up · L12
@@ -129,7 +130,7 @@ ACTION: VAN on the next bench, feeding ducks.
 DIALOGUE: VAN says "He learns fast." (calm, low, slow, dry deadpan voice, tiny pause before the last word), accurate lip-sync.
 BACKGROUND MOTION: ducks swimming, leaves falling, people jogging past.
 CAMERA: static. DURATION: ~2.2 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 8 · 16,5–18,0 s · Extreme close-up · L12
@@ -144,7 +145,7 @@ ACTION: OLLIE looks into the lens, winks.
 DIALOGUE: OLLIE says "Good teacher." (warm, gentle, slightly tired older man's voice), accurate lip-sync.
 BACKGROUND MOTION: ducks swimming, leaves falling, people jogging past.
 CAMERA: very slow push-in. DURATION: ~1.5 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ## Titulky (SRT – import do CapCut)

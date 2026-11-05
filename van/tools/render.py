@@ -282,8 +282,12 @@ def scene_prompt(ep, sc, dur):
         out.append("RULE: MANAGEMENT's head must never be visible - crop at the neck.")
     out.append(f"BACKGROUND MOTION: {motion}.")
     out.append(f"CAMERA: {cam}. DURATION: ~{dur:.1f} s.")
-    out.append("Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen "
-               "text, no watermarks.")
+    props = re.findall(r'"([^"]+)"', sc["action"])
+    if props:
+        out.append("PROP TEXT: render these words crisp and legible on the prop/screen: " +
+                   ", ".join(f'"{x}"' for x in props) + ".")
+    out.append("Keep every character exactly on-model with the reference sheets. No subtitles, no captions, "
+               "no watermarks.")
     return "\n".join(out)
 
 

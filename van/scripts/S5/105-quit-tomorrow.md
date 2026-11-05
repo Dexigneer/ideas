@@ -40,7 +40,8 @@ ACTION: JUNE slams a napkin with "I QUIT" written on it onto the break room tabl
 DIALOGUE: JUNE says "I'm quitting. TOMORROW. Nine AM." (fast, expressive young woman's voice, stressing the CAPS words), accurate lip-sync.
 BACKGROUND MOTION: steam from the coffee machine, microwave turntable spinning, flickering tube light.
 CAMERA: static, very slow drift. DURATION: ~2.6 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+PROP TEXT: render these words crisp and legible on the prop/screen: "I QUIT".
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 2 · 2,6–4,8 s · Medium close-up · L02
@@ -55,7 +56,7 @@ ACTION: VAN sips.
 DIALOGUE: VAN says "One good month?" (calm, low, slow, dry deadpan voice, tiny pause before the last word), accurate lip-sync.
 BACKGROUND MOTION: steam from the coffee machine, microwave turntable spinning, flickering tube light.
 CAMERA: static. DURATION: ~2.2 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 3 · 4,8–7,0 s · Close-up · L02
@@ -70,7 +71,7 @@ ACTION: JUNE.
 DIALOGUE: JUNE says "It matched my SALARY." (fast, expressive young woman's voice, stressing the CAPS words), accurate lip-sync.
 BACKGROUND MOTION: steam from the coffee machine, microwave turntable spinning, flickering tube light.
 CAMERA: slow push-in. DURATION: ~2.2 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 4 · 7,0–9,7 s · Medium close-up · L02
@@ -85,7 +86,7 @@ ACTION: VAN holds up three fingers.
 DIALOGUE: VAN says "Do it three months." (calm, low, slow, dry deadpan voice, tiny pause before the last word), accurate lip-sync.
 BACKGROUND MOTION: steam from the coffee machine, microwave turntable spinning, flickering tube light.
 CAMERA: static. DURATION: ~2.7 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 5 · 9,7–13,1 s · Close-up · L02
@@ -100,7 +101,7 @@ ACTION: JUNE.
 DIALOGUE: JUNE says "THREE?! I can't stand this place three more DAYS." (fast, expressive young woman's voice, stressing the CAPS words), accurate lip-sync.
 BACKGROUND MOTION: steam from the coffee machine, microwave turntable spinning, flickering tube light.
 CAMERA: slow push-in. DURATION: ~3.4 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 6 · 13,1–16,3 s · Medium close-up · L02
@@ -115,7 +116,7 @@ ACTION: VAN calm.
 DIALOGUE: VAN says "Leave once. Never come back." (calm, low, slow, dry deadpan voice, tiny pause before the last word), accurate lip-sync.
 BACKGROUND MOTION: steam from the coffee machine, microwave turntable spinning, flickering tube light.
 CAMERA: static. DURATION: ~3.2 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 7 · 16,3–18,2 s · Close-up · L02
@@ -130,7 +131,7 @@ ACTION: JUNE squints.
 DIALOGUE: JUNE says "…You came back." (fast, expressive young woman's voice, stressing the CAPS words), accurate lip-sync.
 BACKGROUND MOTION: steam from the coffee machine, microwave turntable spinning, flickering tube light.
 CAMERA: slow push-in. DURATION: ~1.9 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 8 · 18,2–20,4 s · Extreme close-up · L02
@@ -145,7 +146,7 @@ ACTION: VAN looks into the lens, taps his badge.
 DIALOGUE: VAN says "As a visitor." (calm, low, slow, dry deadpan voice, tiny pause before the last word), accurate lip-sync.
 BACKGROUND MOTION: steam from the coffee machine, microwave turntable spinning, flickering tube light.
 CAMERA: very slow push-in. DURATION: ~2.2 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ## Titulky (SRT – import do CapCut)

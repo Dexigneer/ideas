@@ -40,7 +40,7 @@ ACTION: OLLIE at a small woodworking table set up in the sunny loft, sawdust, bi
 DIALOGUE: none.
 BACKGROUND MOTION: dust floating in sunbeams, curtains moving gently, plants swaying.
 CAMERA: static, very slow drift. DURATION: ~1.6 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 2 · 1,6–3,2 s · Insert detail shot · L10
@@ -54,7 +54,8 @@ ACTION: inside the drawer: his old "EMPLOYEE" badge with a younger photo of hims
 DIALOGUE: none.
 BACKGROUND MOTION: dust floating in sunbeams, curtains moving gently, plants swaying.
 CAMERA: static. DURATION: ~1.6 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+PROP TEXT: render these words crisp and legible on the prop/screen: "EMPLOYEE".
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 3 · 3,2–4,8 s · Close-up · L10
@@ -69,7 +70,7 @@ ACTION: OLLIE unclasps the gold watch from his wrist.
 DIALOGUE: none.
 BACKGROUND MOTION: dust floating in sunbeams, curtains moving gently, plants swaying.
 CAMERA: slow push-in. DURATION: ~1.6 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 4 · 4,8–7,0 s · Close-up · L10
@@ -84,7 +85,7 @@ ACTION: OLLIE looks at the watch.
 DIALOGUE: OLLIE says "Twenty years of loyalty." (warm, gentle, slightly tired older man's voice), accurate lip-sync.
 BACKGROUND MOTION: dust floating in sunbeams, curtains moving gently, plants swaying.
 CAMERA: slow push-in. DURATION: ~2.2 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 5 · 7,0–8,8 s · Two-shot · L10
@@ -99,7 +100,7 @@ ACTION: VAN leans in the doorway with his mug.
 DIALOGUE: VAN says "Keeping it?" (calm, low, slow, dry deadpan voice, tiny pause before the last word), accurate lip-sync.
 BACKGROUND MOTION: dust floating in sunbeams, curtains moving gently, plants swaying.
 CAMERA: static. DURATION: ~1.8 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 6 · 8,8–11,7 s · Close-up · L10
@@ -114,7 +115,7 @@ ACTION: OLLIE places the watch on top of the old badge.
 DIALOGUE: OLLIE says "I don't need the time anymore." (warm, gentle, slightly tired older man's voice), accurate lip-sync.
 BACKGROUND MOTION: dust floating in sunbeams, curtains moving gently, plants swaying.
 CAMERA: slow push-in. DURATION: ~2.9 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 7 · 11,7–13,3 s · Insert detail shot · L10
@@ -128,7 +129,7 @@ ACTION: the drawer slides shut.
 DIALOGUE: none.
 BACKGROUND MOTION: dust floating in sunbeams, curtains moving gently, plants swaying.
 CAMERA: static. DURATION: ~1.6 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 8 · 13,3–15,2 s · Extreme close-up · L10
@@ -143,7 +144,7 @@ ACTION: OLLIE looks into the lens, bare wrist, smiling.
 DIALOGUE: OLLIE says "I have it." (warm, gentle, slightly tired older man's voice), accurate lip-sync.
 BACKGROUND MOTION: dust floating in sunbeams, curtains moving gently, plants swaying.
 CAMERA: very slow push-in. DURATION: ~1.9 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ## Titulky (SRT – import do CapCut)

@@ -41,7 +41,7 @@ DIALOGUE: none.
 RULE: MANAGEMENT's head must never be visible - crop at the neck.
 BACKGROUND MOTION: blind shadows sliding slowly, papers stirred by a desk fan.
 CAMERA: static, very slow drift. DURATION: ~2.4 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 2 · 2,4–3,9 s · Close-up · L03
@@ -57,7 +57,7 @@ DIALOGUE: MANAGEMENT says "What's THIS?" (loud, clipped corporate voice, stressi
 RULE: MANAGEMENT's head must never be visible - crop at the neck.
 BACKGROUND MOTION: blind shadows sliding slowly, papers stirred by a desk fan.
 CAMERA: slow push-in. DURATION: ~1.5 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 3 · 3,9–5,8 s · Close-up · L03
@@ -72,7 +72,7 @@ ACTION: JUNE calm.
 DIALOGUE: JUNE says "Two weeks' notice." (fast, expressive young woman's voice, stressing the CAPS words), accurate lip-sync.
 BACKGROUND MOTION: blind shadows sliding slowly, papers stirred by a desk fan.
 CAMERA: slow push-in. DURATION: ~1.9 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 4 · 5,8–7,4 s · Wide establishing shot · L01
@@ -87,7 +87,7 @@ ACTION: outside the glass wall, every clone is pressed against the glass, filmin
 DIALOGUE: none.
 BACKGROUND MOTION: rain streaks on windows, clone coworkers typing, copier spitting paper, second hand on the clock.
 CAMERA: static, very slow drift. DURATION: ~1.6 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 5 · 7,4–10,0 s · Close-up · L03
@@ -103,7 +103,7 @@ DIALOGUE: MANAGEMENT says "What about a PIZZA PARTY?" (loud, clipped corporate v
 RULE: MANAGEMENT's head must never be visible - crop at the neck.
 BACKGROUND MOTION: blind shadows sliding slowly, papers stirred by a desk fan.
 CAMERA: slow push-in. DURATION: ~2.6 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 6 · 10,0–11,9 s · Close-up · L03
@@ -118,7 +118,7 @@ ACTION: JUNE smiles.
 DIALOGUE: JUNE says "Keep the slice." (fast, expressive young woman's voice, stressing the CAPS words), accurate lip-sync.
 BACKGROUND MOTION: blind shadows sliding slowly, papers stirred by a desk fan.
 CAMERA: slow push-in. DURATION: ~1.9 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 7 · 11,9–13,3 s · Wide establishing shot · L01
@@ -133,7 +133,7 @@ ACTION: the clones explode in unison behind the glass.
 DIALOGUE: NPC COWORKERS says "OHHHHH!" (flat, cheerful, robotic NPC voice with identical intonation), accurate lip-sync.
 BACKGROUND MOTION: rain streaks on windows, clone coworkers typing, copier spitting paper, second hand on the clock.
 CAMERA: static, very slow drift. DURATION: ~1.4 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 8 · 13,3–14,7 s · Extreme close-up · L03
@@ -148,7 +148,7 @@ ACTION: VAN, by the door, looks into the lens and raises his mug.
 DIALOGUE: VAN says "Nice." (calm, low, slow, dry deadpan voice, tiny pause before the last word), accurate lip-sync.
 BACKGROUND MOTION: blind shadows sliding slowly, papers stirred by a desk fan.
 CAMERA: very slow push-in. DURATION: ~1.4 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ## Titulky (SRT – import do CapCut)

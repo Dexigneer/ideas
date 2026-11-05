@@ -42,7 +42,7 @@ ACTION: JUNE buried in laptop windows.
 DIALOGUE: JUNE says "One HUNDRED emails a day. I can't scale ME." (fast, expressive young woman's voice, stressing the CAPS words), accurate lip-sync.
 BACKGROUND MOTION: rain on the window, fairy lights gently blinking, steam from noodles.
 CAMERA: static, very slow drift. DURATION: ~3.4 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 2 · 3,4–6,6 s · Medium close-up · L06
@@ -57,7 +57,7 @@ ACTION: VAN on video call.
 DIALOGUE: VAN says "Then don't. Build a party." (calm, low, slow, dry deadpan voice, tiny pause before the last word), accurate lip-sync.
 BACKGROUND MOTION: rain on the window, fairy lights gently blinking, steam from noodles.
 CAMERA: static. DURATION: ~3.2 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 3 · 6,6–9,3 s · Insert detail shot · L06
@@ -71,7 +71,8 @@ ACTION: an RPG-style party member card "SUPPORT" appears.
 AUDIO: VAN is heard off-screen (calm, low, slow, dry deadpan voice, tiny pause before the last word): "One answers customer questions."
 BACKGROUND MOTION: rain on the window, fairy lights gently blinking, steam from noodles.
 CAMERA: static. DURATION: ~2.7 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+PROP TEXT: render these words crisp and legible on the prop/screen: "SUPPORT".
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 4 · 9,3–12,7 s · Insert detail shot · L06
@@ -85,7 +86,8 @@ ACTION: card "CONTENT".
 AUDIO: VAN is heard off-screen (calm, low, slow, dry deadpan voice, tiny pause before the last word): "One drafts content in your voice."
 BACKGROUND MOTION: rain on the window, fairy lights gently blinking, steam from noodles.
 CAMERA: static. DURATION: ~3.4 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+PROP TEXT: render these words crisp and legible on the prop/screen: "CONTENT".
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 5 · 12,7–15,9 s · Insert detail shot · L06
@@ -99,7 +101,8 @@ ACTION: card "RESEARCH".
 AUDIO: VAN is heard off-screen (calm, low, slow, dry deadpan voice, tiny pause before the last word): "One researches the next product."
 BACKGROUND MOTION: rain on the window, fairy lights gently blinking, steam from noodles.
 CAMERA: static. DURATION: ~3.2 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+PROP TEXT: render these words crisp and legible on the prop/screen: "RESEARCH".
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 6 · 15,9–18,1 s · Close-up · L06
@@ -114,7 +117,7 @@ ACTION: JUNE.
 DIALOGUE: JUNE says "And I just… APPROVE?" (fast, expressive young woman's voice, stressing the CAPS words), accurate lip-sync.
 BACKGROUND MOTION: rain on the window, fairy lights gently blinking, steam from noodles.
 CAMERA: slow push-in. DURATION: ~2.2 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 7 · 18,1–20,8 s · Medium close-up · L06
@@ -129,7 +132,7 @@ ACTION: VAN.
 DIALOGUE: VAN says "You lead. They draft." (calm, low, slow, dry deadpan voice, tiny pause before the last word), accurate lip-sync.
 BACKGROUND MOTION: rain on the window, fairy lights gently blinking, steam from noodles.
 CAMERA: static. DURATION: ~2.7 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 8 · 20,8–22,6 s · Extreme close-up · L06
@@ -144,7 +147,7 @@ ACTION: VAN looks into the lens.
 DIALOGUE: VAN says "Party assembled." (calm, low, slow, dry deadpan voice, tiny pause before the last word), accurate lip-sync.
 BACKGROUND MOTION: rain on the window, fairy lights gently blinking, steam from noodles.
 CAMERA: very slow push-in. DURATION: ~1.8 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ## Titulky (SRT – import do CapCut)

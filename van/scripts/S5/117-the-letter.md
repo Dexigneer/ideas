@@ -39,7 +39,7 @@ ACTION: an angry letter typed in caps.
 AUDIO: JUNE is heard off-screen (fast, expressive young woman's voice, stressing the CAPS words): "Dear Management. You FOUR-MINUTE COWARDS…"
 BACKGROUND MOTION: rain on the window, fairy lights gently blinking, steam from noodles.
 CAMERA: static. DURATION: ~2.9 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 2 · 2,9–4,4 s · Close-up · L06
@@ -54,7 +54,7 @@ ACTION: JUNE deletes it.
 DIALOGUE: JUNE says "Too much." (fast, expressive young woman's voice, stressing the CAPS words), accurate lip-sync.
 BACKGROUND MOTION: rain on the window, fairy lights gently blinking, steam from noodles.
 CAMERA: slow push-in. DURATION: ~1.5 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 3 · 4,4–7,8 s · Insert detail shot · L06
@@ -68,7 +68,7 @@ ACTION: an apologetic letter.
 AUDIO: JUNE is heard off-screen (fast, expressive young woman's voice, stressing the CAPS words): "I'm SO sorry, I feel terrible, please forgive…"
 BACKGROUND MOTION: rain on the window, fairy lights gently blinking, steam from noodles.
 CAMERA: static. DURATION: ~3.4 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 4 · 7,8–9,3 s · Close-up · L06
@@ -83,7 +83,7 @@ ACTION: JUNE deletes it.
 DIALOGUE: JUNE says "Too little." (fast, expressive young woman's voice, stressing the CAPS words), accurate lip-sync.
 BACKGROUND MOTION: rain on the window, fairy lights gently blinking, steam from noodles.
 CAMERA: slow push-in. DURATION: ~1.5 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 5 · 9,3–12,0 s · Medium close-up · L06
@@ -98,7 +98,7 @@ ACTION: VAN on video call.
 DIALOGUE: VAN says "Just the truth. Short." (calm, low, slow, dry deadpan voice, tiny pause before the last word), accurate lip-sync.
 BACKGROUND MOTION: rain on the window, fairy lights gently blinking, steam from noodles.
 CAMERA: static. DURATION: ~2.7 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 6 · 12,0–14,9 s · Insert detail shot · L06
@@ -112,7 +112,7 @@ ACTION: a calm three-sentence letter.
 AUDIO: JUNE is heard off-screen (fast, expressive young woman's voice, stressing the CAPS words): "I'm resigning. Thank you. Two weeks."
 BACKGROUND MOTION: rain on the window, fairy lights gently blinking, steam from noodles.
 CAMERA: static. DURATION: ~2.9 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 7 · 14,9–16,4 s · Close-up · L06
@@ -127,7 +127,7 @@ ACTION: JUNE.
 DIALOGUE: JUNE says "Three sentences?" (fast, expressive young woman's voice, stressing the CAPS words), accurate lip-sync.
 BACKGROUND MOTION: rain on the window, fairy lights gently blinking, steam from noodles.
 CAMERA: slow push-in. DURATION: ~1.5 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 8 · 16,4–18,2 s · Extreme close-up · L06
@@ -142,7 +142,7 @@ ACTION: VAN looks into the lens; PIVOT sits on the printed letter.
 DIALOGUE: VAN says "That's enough." (calm, low, slow, dry deadpan voice, tiny pause before the last word), accurate lip-sync.
 BACKGROUND MOTION: rain on the window, fairy lights gently blinking, steam from noodles.
 CAMERA: very slow push-in. DURATION: ~1.8 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ## Titulky (SRT – import do CapCut)

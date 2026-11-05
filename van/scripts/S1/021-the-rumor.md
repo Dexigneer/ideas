@@ -40,7 +40,7 @@ ACTION: two identical clones whisper by the coffee machine.
 DIALOGUE: NPC COWORKERS says "Did you hear? CUTS. Friday." (flat, cheerful, robotic NPC voice with identical intonation), accurate lip-sync.
 BACKGROUND MOTION: steam from the coffee machine, microwave turntable spinning, flickering tube light.
 CAMERA: static, very slow drift. DURATION: ~2.6 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 2 · 2,6–5,2 s · Medium close-up · L02
@@ -55,7 +55,7 @@ ACTION: the exact same whisper repeats to JUNE.
 DIALOGUE: NPC COWORKERS says "Did you hear? CUTS. Friday." (flat, cheerful, robotic NPC voice with identical intonation), accurate lip-sync.
 BACKGROUND MOTION: steam from the coffee machine, microwave turntable spinning, flickering tube light.
 CAMERA: static. DURATION: ~2.6 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 3 · 5,2–7,4 s · Close-up · L02
@@ -70,7 +70,7 @@ ACTION: JUNE turns to OLLIE.
 DIALOGUE: JUNE says "Ollie… are you WORRIED?" (fast, expressive young woman's voice, stressing the CAPS words), accurate lip-sync.
 BACKGROUND MOTION: steam from the coffee machine, microwave turntable spinning, flickering tube light.
 CAMERA: slow push-in. DURATION: ~2.2 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 4 · 7,4–10,7 s · Close-up · L02
@@ -85,7 +85,7 @@ ACTION: OLLIE smiles, tapping his gold watch.
 DIALOGUE: OLLIE says "Twenty-four years, sweetheart. They NEED me." (warm, gentle, slightly tired older man's voice), accurate lip-sync.
 BACKGROUND MOTION: steam from the coffee machine, microwave turntable spinning, flickering tube light.
 CAMERA: slow push-in. DURATION: ~3.3 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 5 · 10,7–12,9 s · Medium close-up · L02
@@ -100,7 +100,7 @@ ACTION: VAN quietly, not looking up.
 DIALOGUE: VAN says "Update your resume." (calm, low, slow, dry deadpan voice, tiny pause before the last word), accurate lip-sync.
 BACKGROUND MOTION: steam from the coffee machine, microwave turntable spinning, flickering tube light.
 CAMERA: static. DURATION: ~2.2 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 6 · 12,9–15,8 s · Close-up · L02
@@ -115,7 +115,7 @@ ACTION: OLLIE chuckles warmly.
 DIALOGUE: OLLIE says "Oh, Van. You worry too much." (warm, gentle, slightly tired older man's voice), accurate lip-sync.
 BACKGROUND MOTION: steam from the coffee machine, microwave turntable spinning, flickering tube light.
 CAMERA: slow push-in. DURATION: ~2.9 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 7 · 15,8–17,4 s · Insert detail shot · L03
@@ -129,7 +129,8 @@ ACTION: a desk calendar in the manager office: "FRIDAY 4:55 – 4 MIN CALLS".
 DIALOGUE: none.
 BACKGROUND MOTION: blind shadows sliding slowly, papers stirred by a desk fan.
 CAMERA: static. DURATION: ~1.6 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+PROP TEXT: render these words crisp and legible on the prop/screen: "FRIDAY 4:55 – 4 MIN CALLS".
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 8 · 17,4–20,1 s · Extreme close-up · L02
@@ -144,7 +145,7 @@ ACTION: VAN looks into the lens.
 DIALOGUE: VAN says "Friday. Four fifty-five." (calm, low, slow, dry deadpan voice, tiny pause before the last word), accurate lip-sync.
 BACKGROUND MOTION: steam from the coffee machine, microwave turntable spinning, flickering tube light.
 CAMERA: very slow push-in. DURATION: ~2.7 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ## Titulky (SRT – import do CapCut)

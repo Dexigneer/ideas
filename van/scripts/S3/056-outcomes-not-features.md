@@ -42,7 +42,8 @@ ACTION: sales copy: "30 pages. 5 templates. PDF format.".
 DIALOGUE: none.
 BACKGROUND MOTION: rain on the window, fairy lights gently blinking, steam from noodles.
 CAMERA: static. DURATION: ~1.6 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+PROP TEXT: render these words crisp and legible on the prop/screen: "30 pages. 5 templates. PDF format.".
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 2 · 1,6–3,8 s · Medium close-up · L06
@@ -57,7 +58,7 @@ ACTION: VAN on video call.
 DIALOGUE: VAN says "Nobody wants pages." (calm, low, slow, dry deadpan voice, tiny pause before the last word), accurate lip-sync.
 BACKGROUND MOTION: rain on the window, fairy lights gently blinking, steam from noodles.
 CAMERA: static. DURATION: ~2.2 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 3 · 3,8–6,4 s · Close-up · L06
@@ -72,7 +73,7 @@ ACTION: JUNE.
 DIALOGUE: JUNE says "Then what DO they want?!" (fast, expressive young woman's voice, stressing the CAPS words), accurate lip-sync.
 BACKGROUND MOTION: rain on the window, fairy lights gently blinking, steam from noodles.
 CAMERA: slow push-in. DURATION: ~2.6 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 4 · 6,4–9,6 s · Medium close-up · L06
@@ -87,7 +88,7 @@ ACTION: VAN.
 DIALOGUE: VAN says "Add two words. So that." (calm, low, slow, dry deadpan voice, tiny pause before the last word), accurate lip-sync.
 BACKGROUND MOTION: rain on the window, fairy lights gently blinking, steam from noodles.
 CAMERA: static. DURATION: ~3.2 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 5 · 9,6–13,0 s · Insert detail shot · L06
@@ -101,7 +102,7 @@ ACTION: the copy rewrites itself.
 AUDIO: JUNE is heard off-screen (fast, expressive young woman's voice, stressing the CAPS words): "Sleep template… so that you sleep seven hours."
 BACKGROUND MOTION: rain on the window, fairy lights gently blinking, steam from noodles.
 CAMERA: static. DURATION: ~3.4 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 6 · 13,0–16,4 s · Insert detail shot · L06
@@ -115,7 +116,7 @@ ACTION: the copy rewrites itself.
 AUDIO: JUNE is heard off-screen (fast, expressive young woman's voice, stressing the CAPS words): "Meal list… so that you stop eating vending machine chips."
 BACKGROUND MOTION: rain on the window, fairy lights gently blinking, steam from noodles.
 CAMERA: static. DURATION: ~3.4 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 7 · 16,4–19,8 s · Insert detail shot · L06
@@ -129,7 +130,7 @@ ACTION: the copy rewrites itself.
 AUDIO: JUNE is heard off-screen (fast, expressive young woman's voice, stressing the CAPS words): "Swap scripts… so that you get your weekends back."
 BACKGROUND MOTION: rain on the window, fairy lights gently blinking, steam from noodles.
 CAMERA: static. DURATION: ~3.4 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 8 · 19,8–22,4 s · Close-up · L06
@@ -144,7 +145,7 @@ ACTION: JUNE.
 DIALOGUE: JUNE says "Oh. Now I'D buy it." (fast, expressive young woman's voice, stressing the CAPS words), accurate lip-sync.
 BACKGROUND MOTION: rain on the window, fairy lights gently blinking, steam from noodles.
 CAMERA: slow push-in. DURATION: ~2.6 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 9 · 22,4–24,6 s · Extreme close-up · L06
@@ -159,7 +160,7 @@ ACTION: VAN looks into the lens.
 DIALOGUE: VAN says "Sell the after." (calm, low, slow, dry deadpan voice, tiny pause before the last word), accurate lip-sync.
 BACKGROUND MOTION: rain on the window, fairy lights gently blinking, steam from noodles.
 CAMERA: very slow push-in. DURATION: ~2.2 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ## Titulky (SRT – import do CapCut)

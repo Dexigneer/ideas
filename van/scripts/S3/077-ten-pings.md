@@ -36,7 +36,7 @@ ACTION: VAN and JUNE on the rooftop at night, city neon, two mugs.
 DIALOGUE: none.
 BACKGROUND MOTION: city lights twinkling, slow drifting clouds, steam from vents, light rain.
 CAMERA: static, very slow drift. DURATION: ~2.6 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 2 · 2,6–4,2 s · Insert detail shot · L05
@@ -50,7 +50,7 @@ ACTION: JUNE's phone face down on the railing, lighting up again and again.
 DIALOGUE: none.
 BACKGROUND MOTION: city lights twinkling, slow drifting clouds, steam from vents, light rain.
 CAMERA: static. DURATION: ~1.6 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 3 · 4,2–6,1 s · Close-up · L05
@@ -65,7 +65,7 @@ ACTION: JUNE smiles, not looking at the phone.
 DIALOGUE: JUNE says "I stopped counting." (fast, expressive young woman's voice, stressing the CAPS words), accurate lip-sync.
 BACKGROUND MOTION: city lights twinkling, slow drifting clouds, steam from vents, light rain.
 CAMERA: slow push-in. DURATION: ~1.9 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 4 · 6,1–7,5 s · Extreme close-up · L05
@@ -80,7 +80,7 @@ ACTION: VAN looks into the lens.
 DIALOGUE: VAN says "Good." (calm, low, slow, dry deadpan voice, tiny pause before the last word), accurate lip-sync.
 BACKGROUND MOTION: city lights twinkling, slow drifting clouds, steam from vents, light rain.
 CAMERA: very slow push-in. DURATION: ~1.4 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ## Titulky (SRT – import do CapCut)

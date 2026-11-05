@@ -39,7 +39,8 @@ ACTION: comments: "get a real job", "lol a planner", "scam".
 DIALOGUE: none.
 BACKGROUND MOTION: rain on the window, fairy lights gently blinking, steam from noodles.
 CAMERA: static. DURATION: ~1.6 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+PROP TEXT: render these words crisp and legible on the prop/screen: "get a real job", "lol a planner", "scam".
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 2 · 1,6–3,5 s · Close-up · L06
@@ -54,7 +55,7 @@ ACTION: JUNE in bed in the dark, phone lighting her face.
 DIALOGUE: JUNE says "Maybe they're RIGHT." (fast, expressive young woman's voice, stressing the CAPS words), accurate lip-sync.
 BACKGROUND MOTION: rain on the window, fairy lights gently blinking, steam from noodles.
 CAMERA: slow push-in. DURATION: ~1.9 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 3 · 3,5–5,1 s · Wide establishing shot · L09
@@ -69,7 +70,7 @@ ACTION: MAE at the nurses' station at 3:07 AM, typing furiously on her phone.
 DIALOGUE: none.
 BACKGROUND MOTION: monitor lights blinking, a gurney rolling past, flickering corridor light.
 CAMERA: static, very slow drift. DURATION: ~1.6 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 4 · 5,1–8,5 s · Insert detail shot · L09
@@ -83,7 +84,7 @@ ACTION: MAE's comment appears in the thread.
 AUDIO: MAE is heard off-screen (soft, tired, raspy night-shift voice): "I HAVE a real job. Twelve-hour nights."
 BACKGROUND MOTION: monitor lights blinking, a gurney rolling past, flickering corridor light.
 CAMERA: static. DURATION: ~3.4 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 5 · 8,5–11,9 s · Insert detail shot · L09
@@ -97,7 +98,7 @@ ACTION: the comment continues.
 AUDIO: MAE is heard off-screen (soft, tired, raspy night-shift voice): "This planner is why I'm still doing it."
 BACKGROUND MOTION: monitor lights blinking, a gurney rolling past, flickering corridor light.
 CAMERA: static. DURATION: ~3.4 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 6 · 11,9–13,5 s · Insert detail shot · L06
@@ -111,7 +112,8 @@ ACTION: MAE's comment: 4,812 likes; replies "same", "nurse here, same".
 DIALOGUE: none.
 BACKGROUND MOTION: rain on the window, fairy lights gently blinking, steam from noodles.
 CAMERA: static. DURATION: ~1.6 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+PROP TEXT: render these words crisp and legible on the prop/screen: "same", "nurse here, same".
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 7 · 13,5–16,1 s · Close-up · L06
@@ -126,7 +128,7 @@ ACTION: JUNE crying, smiling.
 DIALOGUE: JUNE says "She's DEFENDING me. At work." (fast, expressive young woman's voice, stressing the CAPS words), accurate lip-sync.
 BACKGROUND MOTION: rain on the window, fairy lights gently blinking, steam from noodles.
 CAMERA: slow push-in. DURATION: ~2.6 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 8 · 16,1–18,3 s · Extreme close-up · L09
@@ -141,7 +143,7 @@ ACTION: MAE looks into the lens.
 DIALOGUE: MAE says "Nobody bullies my sister." (soft, tired, raspy night-shift voice), accurate lip-sync.
 BACKGROUND MOTION: monitor lights blinking, a gurney rolling past, flickering corridor light.
 CAMERA: very slow push-in. DURATION: ~2.2 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ## Titulky (SRT – import do CapCut)

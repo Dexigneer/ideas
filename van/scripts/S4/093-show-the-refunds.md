@@ -40,7 +40,7 @@ ACTION: REX points his selfie stick at VAN in the garage.
 DIALOGUE: REX says "Income-OFF! Live! Show your screen, bro!" (over-hyped guru voice, shouting, fake laugh), accurate lip-sync.
 BACKGROUND MOTION: ring light flicker, dripping water, a car passing in the background.
 CAMERA: static, very slow drift. DURATION: ~3.3 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 2 · 3,3–6,2 s · Close-up · L08
@@ -55,7 +55,7 @@ ACTION: REX flashes a screenshot.
 DIALOGUE: REX says "I made SIX figures this month!" (over-hyped guru voice, shouting, fake laugh), accurate lip-sync.
 BACKGROUND MOTION: ring light flicker, dripping water, a car passing in the background.
 CAMERA: slow push-in. DURATION: ~2.9 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 3 · 6,2–8,4 s · Medium close-up · L08
@@ -70,7 +70,7 @@ ACTION: VAN sips calmly.
 DIALOGUE: VAN says "Show the refunds." (calm, low, slow, dry deadpan voice, tiny pause before the last word), accurate lip-sync.
 BACKGROUND MOTION: ring light flicker, dripping water, a car passing in the background.
 CAMERA: static. DURATION: ~2.2 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 4 · 8,4–10,3 s · Close-up · L08
@@ -85,7 +85,7 @@ ACTION: REX sweats.
 DIALOGUE: REX says "Refunds are… PRIVATE." (over-hyped guru voice, shouting, fake laugh), accurate lip-sync.
 BACKGROUND MOTION: ring light flicker, dripping water, a car passing in the background.
 CAMERA: slow push-in. DURATION: ~1.9 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 5 · 10,3–11,9 s · Insert detail shot · L08
@@ -99,7 +99,8 @@ ACTION: REX's laptop behind him: "REFUND REQUESTS (412)".
 DIALOGUE: none.
 BACKGROUND MOTION: ring light flicker, dripping water, a car passing in the background.
 CAMERA: static. DURATION: ~1.6 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+PROP TEXT: render these words crisp and legible on the prop/screen: "REFUND REQUESTS (412)".
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 6 · 11,9–13,8 s · Wide establishing shot · L08
@@ -114,7 +115,7 @@ ACTION: clone viewers in the background gasp in sync.
 DIALOGUE: NPC COWORKERS says "Four hundred TWELVE?!" (flat, cheerful, robotic NPC voice with identical intonation), accurate lip-sync.
 BACKGROUND MOTION: ring light flicker, dripping water, a car passing in the background.
 CAMERA: static, very slow drift. DURATION: ~1.9 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 7 · 13,8–16,0 s · Close-up · L08
@@ -129,7 +130,7 @@ ACTION: REX ends the live.
 DIALOGUE: REX says "The stream is… LAGGING." (over-hyped guru voice, shouting, fake laugh), accurate lip-sync.
 BACKGROUND MOTION: ring light flicker, dripping water, a car passing in the background.
 CAMERA: slow push-in. DURATION: ~2.2 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 8 · 16,0–18,2 s · Extreme close-up · L08
@@ -144,7 +145,7 @@ ACTION: VAN looks into the lens.
 DIALOGUE: VAN says "Ask every guru." (calm, low, slow, dry deadpan voice, tiny pause before the last word), accurate lip-sync.
 BACKGROUND MOTION: ring light flicker, dripping water, a car passing in the background.
 CAMERA: very slow push-in. DURATION: ~2.2 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ## Titulky (SRT – import do CapCut)

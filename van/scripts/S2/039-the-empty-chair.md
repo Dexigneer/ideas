@@ -41,7 +41,7 @@ ACTION: JUNE walks into VAN's sunny loft, looking around amazed.
 DIALOGUE: JUNE says "Your place is so… CALM." (fast, expressive young woman's voice, stressing the CAPS words), accurate lip-sync.
 BACKGROUND MOTION: dust floating in sunbeams, curtains moving gently, plants swaying.
 CAMERA: static, very slow drift. DURATION: ~2.6 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 2 · 2,6–4,2 s · Insert detail shot · L10
@@ -55,7 +55,7 @@ ACTION: a framed family photo on a shelf: a family around a cake with the number
 DIALOGUE: none.
 BACKGROUND MOTION: dust floating in sunbeams, curtains moving gently, plants swaying.
 CAMERA: static. DURATION: ~1.6 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 3 · 4,2–5,7 s · Close-up · L10
@@ -70,7 +70,7 @@ ACTION: JUNE picks up the photo.
 DIALOGUE: JUNE says "Who's missing?" (fast, expressive young woman's voice, stressing the CAPS words), accurate lip-sync.
 BACKGROUND MOTION: dust floating in sunbeams, curtains moving gently, plants swaying.
 CAMERA: slow push-in. DURATION: ~1.5 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 4 · 5,7–7,1 s · Medium close-up · L10
@@ -85,7 +85,7 @@ ACTION: VAN quietly, pouring coffee.
 DIALOGUE: VAN says "Me." (calm, low, slow, dry deadpan voice, tiny pause before the last word), accurate lip-sync.
 BACKGROUND MOTION: dust floating in sunbeams, curtains moving gently, plants swaying.
 CAMERA: static. DURATION: ~1.4 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 5 · 7,1–9,0 s · Close-up · L10
@@ -100,7 +100,7 @@ ACTION: JUNE turns to him.
 DIALOGUE: JUNE says "Where WERE you?" (fast, expressive young woman's voice, stressing the CAPS words), accurate lip-sync.
 BACKGROUND MOTION: dust floating in sunbeams, curtains moving gently, plants swaying.
 CAMERA: slow push-in. DURATION: ~1.9 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 6 · 9,0–10,8 s · Medium close-up · L10
@@ -115,7 +115,7 @@ ACTION: VAN looks at the photo, not at her.
 DIALOGUE: VAN says "Quarterly report." (calm, low, slow, dry deadpan voice, tiny pause before the last word), accurate lip-sync.
 BACKGROUND MOTION: dust floating in sunbeams, curtains moving gently, plants swaying.
 CAMERA: static. DURATION: ~1.8 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 7 · 10,8–12,7 s · Close-up · L10
@@ -130,7 +130,7 @@ ACTION: JUNE whispers.
 DIALOGUE: JUNE says "Your dad's SIXTIETH?" (fast, expressive young woman's voice, stressing the CAPS words), accurate lip-sync.
 BACKGROUND MOTION: dust floating in sunbeams, curtains moving gently, plants swaying.
 CAMERA: slow push-in. DURATION: ~1.9 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 8 · 12,7–15,4 s · Close-up · L10
@@ -145,7 +145,7 @@ ACTION: VAN's eyes glisten.
 DIALOGUE: VAN says "He saved my chair." (calm, low, slow, dry deadpan voice, tiny pause before the last word), accurate lip-sync.
 BACKGROUND MOTION: dust floating in sunbeams, curtains moving gently, plants swaying.
 CAMERA: slow push-in. DURATION: ~2.7 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 9 · 15,4–17,2 s · Extreme close-up · L10
@@ -160,7 +160,7 @@ ACTION: VAN looks into the lens.
 DIALOGUE: VAN says "Never again." (calm, low, slow, dry deadpan voice, tiny pause before the last word), accurate lip-sync.
 BACKGROUND MOTION: dust floating in sunbeams, curtains moving gently, plants swaying.
 CAMERA: very slow push-in. DURATION: ~1.8 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ## Titulky (SRT – import do CapCut)

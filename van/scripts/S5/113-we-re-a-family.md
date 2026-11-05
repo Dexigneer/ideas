@@ -41,7 +41,7 @@ DIALOGUE: MANAGEMENT says "Twelve percent. FINAL offer." (loud, clipped corporat
 RULE: MANAGEMENT's head must never be visible - crop at the neck.
 BACKGROUND MOTION: blind shadows sliding slowly, papers stirred by a desk fan.
 CAMERA: slow push-in. DURATION: ~2.2 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 2 · 2,2–4,1 s · Close-up · L03
@@ -56,7 +56,7 @@ ACTION: JUNE calm, sitting straight.
 DIALOGUE: JUNE says "No, thank you." (fast, expressive young woman's voice, stressing the CAPS words), accurate lip-sync.
 BACKGROUND MOTION: blind shadows sliding slowly, papers stirred by a desk fan.
 CAMERA: slow push-in. DURATION: ~1.9 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 3 · 4,1–6,7 s · Close-up · L03
@@ -72,7 +72,7 @@ DIALOGUE: MANAGEMENT says "June. We're a FAMILY here." (loud, clipped corporate 
 RULE: MANAGEMENT's head must never be visible - crop at the neck.
 BACKGROUND MOTION: blind shadows sliding slowly, papers stirred by a desk fan.
 CAMERA: slow push-in. DURATION: ~2.6 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 4 · 6,7–8,3 s · Insert detail shot · L03
@@ -86,7 +86,8 @@ ACTION: the "TEAMWORK" poster on the wall still shows OLLIE smiling in the group
 DIALOGUE: none.
 BACKGROUND MOTION: blind shadows sliding slowly, papers stirred by a desk fan.
 CAMERA: static. DURATION: ~1.6 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+PROP TEXT: render these words crisp and legible on the prop/screen: "TEAMWORK".
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 5 · 8,3–10,2 s · Close-up · L03
@@ -101,7 +102,7 @@ ACTION: JUNE.
 DIALOGUE: JUNE says "Ollie was family." (fast, expressive young woman's voice, stressing the CAPS words), accurate lip-sync.
 BACKGROUND MOTION: blind shadows sliding slowly, papers stirred by a desk fan.
 CAMERA: slow push-in. DURATION: ~1.9 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 6 · 10,2–12,8 s · Close-up · L03
@@ -117,7 +118,7 @@ DIALOGUE: MANAGEMENT says "That was a BUSINESS decision." (loud, clipped corpora
 RULE: MANAGEMENT's head must never be visible - crop at the neck.
 BACKGROUND MOTION: blind shadows sliding slowly, papers stirred by a desk fan.
 CAMERA: slow push-in. DURATION: ~2.6 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 7 · 12,8–14,2 s · Close-up · L03
@@ -132,7 +133,7 @@ ACTION: JUNE stands up.
 DIALOGUE: JUNE says "Exactly." (fast, expressive young woman's voice, stressing the CAPS words), accurate lip-sync.
 BACKGROUND MOTION: blind shadows sliding slowly, papers stirred by a desk fan.
 CAMERA: slow push-in. DURATION: ~1.4 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 8 · 14,2–16,1 s · Extreme close-up · L03
@@ -147,7 +148,7 @@ ACTION: JUNE looks into the lens.
 DIALOGUE: JUNE says "So is this." (fast, expressive young woman's voice, stressing the CAPS words), accurate lip-sync.
 BACKGROUND MOTION: blind shadows sliding slowly, papers stirred by a desk fan.
 CAMERA: very slow push-in. DURATION: ~1.9 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ## Titulky (SRT – import do CapCut)

@@ -36,7 +36,7 @@ ACTION: VAN on the rooftop, neon billboards flickering like view counters.
 DIALOGUE: none.
 BACKGROUND MOTION: city lights twinkling, slow drifting clouds, steam from vents, light rain.
 CAMERA: static, very slow drift. DURATION: ~2.4 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 2 · 2,4–5,1 s · Medium close-up · L05
@@ -51,7 +51,7 @@ ACTION: VAN.
 DIALOGUE: VAN says "Twelve views. Post again." (calm, low, slow, dry deadpan voice, tiny pause before the last word), accurate lip-sync.
 BACKGROUND MOTION: city lights twinkling, slow drifting clouds, steam from vents, light rain.
 CAMERA: static. DURATION: ~2.7 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 3 · 5,1–7,8 s · Close-up · L05
@@ -66,7 +66,7 @@ ACTION: VAN sips.
 DIALOGUE: VAN says "Two hundred. Post again." (calm, low, slow, dry deadpan voice, tiny pause before the last word), accurate lip-sync.
 BACKGROUND MOTION: city lights twinkling, slow drifting clouds, steam from vents, light rain.
 CAMERA: slow push-in. DURATION: ~2.7 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 4 · 7,8–10,0 s · Extreme close-up · L05
@@ -81,7 +81,7 @@ ACTION: VAN looks into the lens.
 DIALOGUE: VAN says "Then it hits." (calm, low, slow, dry deadpan voice, tiny pause before the last word), accurate lip-sync.
 BACKGROUND MOTION: city lights twinkling, slow drifting clouds, steam from vents, light rain.
 CAMERA: very slow push-in. DURATION: ~2.2 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ## Titulky (SRT – import do CapCut)

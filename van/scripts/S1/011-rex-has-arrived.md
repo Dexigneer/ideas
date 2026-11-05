@@ -41,7 +41,7 @@ ACTION: REX bursts through the revolving door with a selfie stick, clone workers
 DIALOGUE: REX says "You're STILL working for a BOSS?!" (over-hyped guru voice, shouting, fake laugh), accurate lip-sync.
 BACKGROUND MOTION: revolving door turning, people tapping badges, elevator numbers changing.
 CAMERA: static, very slow drift. DURATION: ~2.9 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 2 · 2,9–6,3 s · Close-up · L04
@@ -56,7 +56,7 @@ ACTION: REX pulls his mirrored aviators down and winks.
 DIALOGUE: REX says "My course. TEN streams of income. $1,997!" (over-hyped guru voice, shouting, fake laugh), accurate lip-sync.
 BACKGROUND MOTION: revolving door turning, people tapping badges, elevator numbers changing.
 CAMERA: slow push-in. DURATION: ~3.4 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 3 · 6,3–7,8 s · Wide establishing shot · L04
@@ -71,7 +71,7 @@ ACTION: clone coworkers gasp in perfect sync, reaching for their wallets.
 DIALOGUE: NPC COWORKERS says "TEN streams?!" (flat, cheerful, robotic NPC voice with identical intonation), accurate lip-sync.
 BACKGROUND MOTION: revolving door turning, people tapping badges, elevator numbers changing.
 CAMERA: static, very slow drift. DURATION: ~1.5 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 4 · 7,8–10,4 s · Medium close-up · L04
@@ -86,7 +86,7 @@ ACTION: JUNE clutches her purse, VAN beside her with his mug.
 DIALOGUE: JUNE says "Van… should I BUY it?" (fast, expressive young woman's voice, stressing the CAPS words), accurate lip-sync.
 BACKGROUND MOTION: revolving door turning, people tapping badges, elevator numbers changing.
 CAMERA: static. DURATION: ~2.6 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 5 · 10,4–12,6 s · Medium close-up · L04
@@ -101,7 +101,7 @@ ACTION: VAN steps forward calmly.
 DIALOGUE: VAN says "Ask one question." (calm, low, slow, dry deadpan voice, tiny pause before the last word), accurate lip-sync.
 BACKGROUND MOTION: revolving door turning, people tapping badges, elevator numbers changing.
 CAMERA: static. DURATION: ~2.2 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 6 · 12,6–14,5 s · Close-up · L04
@@ -116,7 +116,7 @@ ACTION: REX flashes a too-white grin.
 DIALOGUE: REX says "Ask ANYTHING, champ!" (over-hyped guru voice, shouting, fake laugh), accurate lip-sync.
 BACKGROUND MOTION: revolving door turning, people tapping badges, elevator numbers changing.
 CAMERA: slow push-in. DURATION: ~1.9 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 7 · 14,5–16,7 s · Close-up · L04
@@ -131,7 +131,7 @@ ACTION: VAN slow blink.
 DIALOGUE: VAN says "How many refunds?" (calm, low, slow, dry deadpan voice, tiny pause before the last word), accurate lip-sync.
 BACKGROUND MOTION: revolving door turning, people tapping badges, elevator numbers changing.
 CAMERA: slow push-in. DURATION: ~2.2 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 8 · 16,7–18,9 s · Close-up · L04
@@ -146,7 +146,7 @@ ACTION: REX sweats, lowers the selfie stick.
 DIALOGUE: REX says "…The car's a rental." (over-hyped guru voice, shouting, fake laugh), accurate lip-sync.
 BACKGROUND MOTION: revolving door turning, people tapping badges, elevator numbers changing.
 CAMERA: slow push-in. DURATION: ~2.2 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 9 · 18,9–21,1 s · Extreme close-up · L04
@@ -161,7 +161,7 @@ ACTION: VAN looks into the lens, tiny smirk.
 DIALOGUE: VAN says "So's the course." (calm, low, slow, dry deadpan voice, tiny pause before the last word), accurate lip-sync.
 BACKGROUND MOTION: revolving door turning, people tapping badges, elevator numbers changing.
 CAMERA: very slow push-in. DURATION: ~2.2 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ## Titulky (SRT – import do CapCut)

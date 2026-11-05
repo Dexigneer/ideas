@@ -44,7 +44,7 @@ DIALOGUE: MANAGEMENT says "Phones DOWN. This meeting is IMPORTANT." (loud, clipp
 RULE: MANAGEMENT's head must never be visible - crop at the neck.
 BACKGROUND MOTION: projector dust in the light beam, ceiling fan, slides changing.
 CAMERA: static, very slow drift. DURATION: ~2.9 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 2 · 2,9–5,8 s · Close-up · L11
@@ -59,7 +59,7 @@ ACTION: JUNE whispers, thumb hovering over the screen.
 DIALOGUE: JUNE says "It's my sister. She NEVER calls." (fast, expressive young woman's voice, stressing the CAPS words), accurate lip-sync.
 BACKGROUND MOTION: projector dust in the light beam, ceiling fan, slides changing.
 CAMERA: slow push-in. DURATION: ~2.9 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 3 · 5,8–8,0 s · Close-up · L11
@@ -75,7 +75,7 @@ DIALOGUE: MANAGEMENT says "Then she can WAIT." (loud, clipped corporate voice, s
 RULE: MANAGEMENT's head must never be visible - crop at the neck.
 BACKGROUND MOTION: projector dust in the light beam, ceiling fan, slides changing.
 CAMERA: slow push-in. DURATION: ~2.2 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 4 · 8,0–9,6 s · Insert detail shot · L11
@@ -89,7 +89,8 @@ ACTION: the phone screen under the clipboard: "MAE – 3 missed calls".
 DIALOGUE: none.
 BACKGROUND MOTION: projector dust in the light beam, ceiling fan, slides changing.
 CAMERA: static. DURATION: ~1.6 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+PROP TEXT: render these words crisp and legible on the prop/screen: "MAE – 3 missed calls".
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 5 · 9,6–12,2 s · Wide establishing shot · L09
@@ -104,7 +105,7 @@ ACTION: MAE sits on the floor of a hospital corridor at 3 AM, phone to her ear, 
 AUDIO: MAE is heard off-screen (soft, tired, raspy night-shift voice): "Hey Junie. Sorry. Bad night."
 BACKGROUND MOTION: monitor lights blinking, a gurney rolling past, flickering corridor light.
 CAMERA: static, very slow drift. DURATION: ~2.6 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 6 · 12,2–15,1 s · Close-up · L09
@@ -119,7 +120,7 @@ ACTION: MAE wipes her eyes with her sleeve, forcing a smile.
 AUDIO: MAE is heard off-screen (soft, tired, raspy night-shift voice): "I just… needed someone. It's fine."
 BACKGROUND MOTION: monitor lights blinking, a gurney rolling past, flickering corridor light.
 CAMERA: slow push-in. DURATION: ~2.9 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 7 · 15,1–16,7 s · Medium close-up · L04
@@ -134,7 +135,7 @@ ACTION: JUNE listens to the voicemail by the elevator, eyes filling with tears.
 DIALOGUE: none.
 BACKGROUND MOTION: revolving door turning, people tapping badges, elevator numbers changing.
 CAMERA: static. DURATION: ~1.6 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 8 · 16,7–19,3 s · Medium close-up · L04
@@ -149,7 +150,7 @@ ACTION: VAN appears beside her, quiet.
 DIALOGUE: JUNE says "I couldn't even pick UP." (fast, expressive young woman's voice, stressing the CAPS words), accurate lip-sync.
 BACKGROUND MOTION: revolving door turning, people tapping badges, elevator numbers changing.
 CAMERA: static. DURATION: ~2.6 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 9 · 19,3–22,0 s · Close-up · L04
@@ -164,7 +165,7 @@ ACTION: VAN gently pushes the stairwell door open for her.
 DIALOGUE: VAN says "Call her back. Now." (calm, low, slow, dry deadpan voice, tiny pause before the last word), accurate lip-sync.
 BACKGROUND MOTION: revolving door turning, people tapping badges, elevator numbers changing.
 CAMERA: slow push-in. DURATION: ~2.7 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 10 · 22,0–23,9 s · Close-up · L04
@@ -179,7 +180,7 @@ ACTION: JUNE looks back toward the conference room.
 DIALOGUE: JUNE says "But the MEETING—" (fast, expressive young woman's voice, stressing the CAPS words), accurate lip-sync.
 BACKGROUND MOTION: revolving door turning, people tapping badges, elevator numbers changing.
 CAMERA: slow push-in. DURATION: ~1.9 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 11 · 23,9–26,1 s · Extreme close-up · L04
@@ -194,7 +195,7 @@ ACTION: VAN looks into the lens; the EXIT sign glows above the door.
 DIALOGUE: VAN says "It'll repeat Tuesday." (calm, low, slow, dry deadpan voice, tiny pause before the last word), accurate lip-sync.
 BACKGROUND MOTION: revolving door turning, people tapping badges, elevator numbers changing.
 CAMERA: very slow push-in. DURATION: ~2.2 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ## Titulky (SRT – import do CapCut)

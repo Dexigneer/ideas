@@ -40,7 +40,7 @@ ACTION: MAE, without scrubs, in a sweater, runs across the park to JUNE.
 DIALOGUE: MAE says "Junie! In DAYLIGHT!" (soft, tired, raspy night-shift voice), accurate lip-sync.
 BACKGROUND MOTION: ducks swimming, leaves falling, people jogging past.
 CAMERA: static, very slow drift. DURATION: ~1.9 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 2 · 1,9–3,8 s · Close-up · L12
@@ -55,7 +55,7 @@ ACTION: JUNE notices MAE has no dark circles.
 DIALOGUE: JUNE says "You look… RESTED." (fast, expressive young woman's voice, stressing the CAPS words), accurate lip-sync.
 BACKGROUND MOTION: ducks swimming, leaves falling, people jogging past.
 CAMERA: slow push-in. DURATION: ~1.9 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 3 · 3,8–7,1 s · Close-up · L12
@@ -70,7 +70,7 @@ ACTION: MAE hugs her tight.
 DIALOGUE: MAE says "Seven hours. Every day. Because of you." (soft, tired, raspy night-shift voice), accurate lip-sync.
 BACKGROUND MOTION: ducks swimming, leaves falling, people jogging past.
 CAMERA: slow push-in. DURATION: ~3.3 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 4 · 7,1–10,0 s · Two-shot · L12
@@ -85,7 +85,7 @@ ACTION: the sisters sit on the bench, ducks swimming.
 DIALOGUE: JUNE says "When did we last do this?" (fast, expressive young woman's voice, stressing the CAPS words), accurate lip-sync.
 BACKGROUND MOTION: ducks swimming, leaves falling, people jogging past.
 CAMERA: static. DURATION: ~2.9 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 5 · 10,0–12,6 s · Close-up · L12
@@ -100,7 +100,7 @@ ACTION: MAE quietly.
 DIALOGUE: MAE says "Your birthday. Three years ago." (soft, tired, raspy night-shift voice), accurate lip-sync.
 BACKGROUND MOTION: ducks swimming, leaves falling, people jogging past.
 CAMERA: slow push-in. DURATION: ~2.6 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 6 · 12,6–14,8 s · Close-up · L12
@@ -115,7 +115,7 @@ ACTION: JUNE squeezes her hand.
 DIALOGUE: JUNE says "Never again that long." (fast, expressive young woman's voice, stressing the CAPS words), accurate lip-sync.
 BACKGROUND MOTION: ducks swimming, leaves falling, people jogging past.
 CAMERA: slow push-in. DURATION: ~2.2 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 7 · 14,8–16,4 s · Medium close-up · L12
@@ -130,7 +130,7 @@ ACTION: VAN watches from far across the pond, smiles, and walks away.
 DIALOGUE: none.
 BACKGROUND MOTION: ducks swimming, leaves falling, people jogging past.
 CAMERA: static. DURATION: ~1.6 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 8 · 16,4–17,8 s · Extreme close-up · L12
@@ -145,7 +145,7 @@ ACTION: MAE looks into the lens, then rests her head on JUNE's shoulder.
 DIALOGUE: MAE says "Promise?" (soft, tired, raspy night-shift voice), accurate lip-sync.
 BACKGROUND MOTION: ducks swimming, leaves falling, people jogging past.
 CAMERA: very slow push-in. DURATION: ~1.4 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ## Titulky (SRT – import do CapCut)

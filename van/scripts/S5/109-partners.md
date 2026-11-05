@@ -40,7 +40,7 @@ ACTION: JUNE visits MAE at the nurses' station at night, holding two coffees.
 DIALOGUE: JUNE says "Mae. Build the next one WITH me." (fast, expressive young woman's voice, stressing the CAPS words), accurate lip-sync.
 BACKGROUND MOTION: monitor lights blinking, a gurney rolling past, flickering corridor light.
 CAMERA: static, very slow drift. DURATION: ~3.3 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 2 · 3,3–5,9 s · Close-up · L09
@@ -55,7 +55,7 @@ ACTION: MAE laughs.
 DIALOGUE: MAE says "Me? I'm just a nurse." (soft, tired, raspy night-shift voice), accurate lip-sync.
 BACKGROUND MOTION: monitor lights blinking, a gurney rolling past, flickering corridor light.
 CAMERA: slow push-in. DURATION: ~2.6 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 3 · 5,9–9,3 s · Close-up · L09
@@ -70,7 +70,7 @@ ACTION: JUNE.
 DIALOGUE: JUNE says "You know what new grads FEAR. I know how to build it." (fast, expressive young woman's voice, stressing the CAPS words), accurate lip-sync.
 BACKGROUND MOTION: monitor lights blinking, a gurney rolling past, flickering corridor light.
 CAMERA: slow push-in. DURATION: ~3.4 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 4 · 9,3–10,9 s · Insert detail shot · L09
@@ -84,7 +84,8 @@ ACTION: a paper: "NEW GRAD SURVIVAL KIT – by June & Mae".
 DIALOGUE: none.
 BACKGROUND MOTION: monitor lights blinking, a gurney rolling past, flickering corridor light.
 CAMERA: static. DURATION: ~1.6 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+PROP TEXT: render these words crisp and legible on the prop/screen: "NEW GRAD SURVIVAL KIT – by June & Mae".
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 5 · 10,9–12,8 s · Close-up · L09
@@ -99,7 +100,7 @@ ACTION: MAE raises an eyebrow.
 DIALOGUE: MAE says "Half of everything?" (soft, tired, raspy night-shift voice), accurate lip-sync.
 BACKGROUND MOTION: monitor lights blinking, a gurney rolling past, flickering corridor light.
 CAMERA: slow push-in. DURATION: ~1.9 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 6 · 12,8–14,2 s · Close-up · L09
@@ -114,7 +115,7 @@ ACTION: JUNE nods firmly.
 DIALOGUE: JUNE says "HALF." (fast, expressive young woman's voice, stressing the CAPS words), accurate lip-sync.
 BACKGROUND MOTION: monitor lights blinking, a gurney rolling past, flickering corridor light.
 CAMERA: slow push-in. DURATION: ~1.4 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 7 · 14,2–16,8 s · Close-up · L09
@@ -129,7 +130,7 @@ ACTION: MAE grabs the pen and swaps the names, grinning.
 DIALOGUE: MAE says "Then it's "Mae and June"." (soft, tired, raspy night-shift voice), accurate lip-sync.
 BACKGROUND MOTION: monitor lights blinking, a gurney rolling past, flickering corridor light.
 CAMERA: slow push-in. DURATION: ~2.6 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 8 · 16,8–18,2 s · Extreme close-up · L09
@@ -144,7 +145,7 @@ ACTION: JUNE looks into the lens, laughing.
 DIALOGUE: JUNE says "Deal." (fast, expressive young woman's voice, stressing the CAPS words), accurate lip-sync.
 BACKGROUND MOTION: monitor lights blinking, a gurney rolling past, flickering corridor light.
 CAMERA: very slow push-in. DURATION: ~1.4 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ## Titulky (SRT – import do CapCut)

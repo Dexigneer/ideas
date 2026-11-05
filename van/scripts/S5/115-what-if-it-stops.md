@@ -36,7 +36,7 @@ ACTION: JUNE and VAN at the rooftop railing at night, city neon.
 DIALOGUE: JUNE says "What if it all STOPS?" (fast, expressive young woman's voice, stressing the CAPS words), accurate lip-sync.
 BACKGROUND MOTION: city lights twinkling, slow drifting clouds, steam from vents, light rain.
 CAMERA: static, very slow drift. DURATION: ~2.6 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 2 · 2,6–5,3 s · Medium close-up · L05
@@ -51,7 +51,7 @@ ACTION: VAN.
 DIALOGUE: VAN says "Then you build another." (calm, low, slow, dry deadpan voice, tiny pause before the last word), accurate lip-sync.
 BACKGROUND MOTION: city lights twinkling, slow drifting clouds, steam from vents, light rain.
 CAMERA: static. DURATION: ~2.7 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 3 · 5,3–8,0 s · Close-up · L05
@@ -66,7 +66,7 @@ ACTION: VAN looks at her.
 DIALOGUE: VAN says "You know how now." (calm, low, slow, dry deadpan voice, tiny pause before the last word), accurate lip-sync.
 BACKGROUND MOTION: city lights twinkling, slow drifting clouds, steam from vents, light rain.
 CAMERA: slow push-in. DURATION: ~2.7 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 4 · 8,0–10,2 s · Extreme close-up · L05
@@ -81,7 +81,7 @@ ACTION: VAN looks into the lens.
 DIALOGUE: VAN says "Skills don't stop." (calm, low, slow, dry deadpan voice, tiny pause before the last word), accurate lip-sync.
 BACKGROUND MOTION: city lights twinkling, slow drifting clouds, steam from vents, light rain.
 CAMERA: very slow push-in. DURATION: ~2.2 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ## Titulky (SRT – import do CapCut)

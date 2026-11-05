@@ -40,7 +40,7 @@ ACTION: clones stand around the table, JUNE shifts her weight, legs tired.
 DIALOGUE: NPC COWORKERS says "Quick update from me…" (flat, cheerful, robotic NPC voice with identical intonation), accurate lip-sync.
 BACKGROUND MOTION: projector dust in the light beam, ceiling fan, slides changing.
 CAMERA: static, very slow drift. DURATION: ~2.2 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 2 · 2,2–3,8 s · Insert detail shot · L11
@@ -54,7 +54,8 @@ ACTION: the whiteboard says "STAND-UP – 5 MIN"; the wall clock shows 50 minute
 DIALOGUE: none.
 BACKGROUND MOTION: projector dust in the light beam, ceiling fan, slides changing.
 CAMERA: static. DURATION: ~1.6 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+PROP TEXT: render these words crisp and legible on the prop/screen: "STAND-UP – 5 MIN".
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 3 · 3,8–6,0 s · Close-up · L11
@@ -69,7 +70,7 @@ ACTION: JUNE whispers.
 DIALOGUE: JUNE says "My legs are SHAKING." (fast, expressive young woman's voice, stressing the CAPS words), accurate lip-sync.
 BACKGROUND MOTION: projector dust in the light beam, ceiling fan, slides changing.
 CAMERA: slow push-in. DURATION: ~2.2 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 4 · 6,0–8,2 s · Wide establishing shot · L11
@@ -84,7 +85,7 @@ ACTION: another identical clone raises his hand.
 DIALOGUE: NPC COWORKERS says "Just ONE more thing…" (flat, cheerful, robotic NPC voice with identical intonation), accurate lip-sync.
 BACKGROUND MOTION: projector dust in the light beam, ceiling fan, slides changing.
 CAMERA: static, very slow drift. DURATION: ~2.2 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 5 · 8,2–10,4 s · Close-up · L11
@@ -99,7 +100,7 @@ ACTION: JUNE.
 DIALOGUE: JUNE says "It's been FIFTY minutes." (fast, expressive young woman's voice, stressing the CAPS words), accurate lip-sync.
 BACKGROUND MOTION: projector dust in the light beam, ceiling fan, slides changing.
 CAMERA: slow push-in. DURATION: ~2.2 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 6 · 10,4–12,0 s · Medium close-up · L11
@@ -114,7 +115,7 @@ ACTION: VAN calmly pulls out a rolling chair and sits down, mug in hand.
 DIALOGUE: none.
 BACKGROUND MOTION: projector dust in the light beam, ceiling fan, slides changing.
 CAMERA: static. DURATION: ~1.6 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 7 · 12,0–14,2 s · Close-up · L11
@@ -129,7 +130,7 @@ ACTION: JUNE.
 DIALOGUE: JUNE says "You can't just SIT." (fast, expressive young woman's voice, stressing the CAPS words), accurate lip-sync.
 BACKGROUND MOTION: projector dust in the light beam, ceiling fan, slides changing.
 CAMERA: slow push-in. DURATION: ~2.2 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 8 · 14,2–16,0 s · Extreme close-up · L11
@@ -144,7 +145,7 @@ ACTION: VAN looks into the lens.
 DIALOGUE: VAN says "Watch me." (calm, low, slow, dry deadpan voice, tiny pause before the last word), accurate lip-sync.
 BACKGROUND MOTION: projector dust in the light beam, ceiling fan, slides changing.
 CAMERA: very slow push-in. DURATION: ~1.8 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ## Titulky (SRT – import do CapCut)

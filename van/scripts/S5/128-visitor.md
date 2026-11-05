@@ -40,7 +40,7 @@ ACTION: JUNE at the reception desk, relaxed, in her own clothes.
 DIALOGUE: JUNE says "Hi! I'm here to visit." (fast, expressive young woman's voice, stressing the CAPS words), accurate lip-sync.
 BACKGROUND MOTION: revolving door turning, people tapping badges, elevator numbers changing.
 CAMERA: static, very slow drift. DURATION: ~2.6 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 2 · 2,6–5,2 s · Close-up · L04
@@ -55,7 +55,7 @@ ACTION: the clone receptionist shakes his head robotically.
 DIALOGUE: NPC COWORKERS says "We don't PRINT visitor badges." (flat, cheerful, robotic NPC voice with identical intonation), accurate lip-sync.
 BACKGROUND MOTION: revolving door turning, people tapping badges, elevator numbers changing.
 CAMERA: slow push-in. DURATION: ~2.6 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 3 · 5,2–7,4 s · Close-up · L04
@@ -70,7 +70,7 @@ ACTION: JUNE smiles.
 DIALOGUE: JUNE says "I've heard that before." (fast, expressive young woman's voice, stressing the CAPS words), accurate lip-sync.
 BACKGROUND MOTION: revolving door turning, people tapping badges, elevator numbers changing.
 CAMERA: slow push-in. DURATION: ~2.2 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 4 · 7,4–8,8 s · Medium close-up · L04
@@ -85,7 +85,7 @@ ACTION: VAN appears and hands her a white badge on a green lanyard.
 DIALOGUE: VAN says "Here." (calm, low, slow, dry deadpan voice, tiny pause before the last word), accurate lip-sync.
 BACKGROUND MOTION: revolving door turning, people tapping badges, elevator numbers changing.
 CAMERA: static. DURATION: ~1.4 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 5 · 8,8–10,4 s · Insert detail shot · L04
@@ -99,7 +99,8 @@ ACTION: the badge reads "VISITOR".
 DIALOGUE: none.
 BACKGROUND MOTION: revolving door turning, people tapping badges, elevator numbers changing.
 CAMERA: static. DURATION: ~1.6 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+PROP TEXT: render these words crisp and legible on the prop/screen: "VISITOR".
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 6 · 10,4–12,0 s · Insert detail shot · L04
@@ -113,7 +114,8 @@ ACTION: JUNE flips it; on the back a handwritten letter "V.".
 DIALOGUE: none.
 BACKGROUND MOTION: revolving door turning, people tapping badges, elevator numbers changing.
 CAMERA: static. DURATION: ~1.6 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+PROP TEXT: render these words crisp and legible on the prop/screen: "V.".
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 7 · 12,0–13,9 s · Close-up · L04
@@ -128,7 +130,7 @@ ACTION: JUNE, eyes wet.
 DIALOGUE: JUNE says "You MADE this?" (fast, expressive young woman's voice, stressing the CAPS words), accurate lip-sync.
 BACKGROUND MOTION: revolving door turning, people tapping badges, elevator numbers changing.
 CAMERA: slow push-in. DURATION: ~1.9 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 8 · 13,9–16,1 s · Extreme close-up · L04
@@ -143,7 +145,7 @@ ACTION: VAN looks into the lens.
 DIALOGUE: VAN says "Someone made mine." (calm, low, slow, dry deadpan voice, tiny pause before the last word), accurate lip-sync.
 BACKGROUND MOTION: revolving door turning, people tapping badges, elevator numbers changing.
 CAMERA: very slow push-in. DURATION: ~2.2 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ## Titulky (SRT – import do CapCut)

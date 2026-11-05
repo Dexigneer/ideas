@@ -41,7 +41,7 @@ ACTION: OLLIE walks through the lobby carrying a cardboard box, clones wave chee
 DIALOGUE: NPC COWORKERS says "Happy Friday, Ollie!" (flat, cheerful, robotic NPC voice with identical intonation), accurate lip-sync.
 BACKGROUND MOTION: revolving door turning, people tapping badges, elevator numbers changing.
 CAMERA: static, very slow drift. DURATION: ~1.9 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 2 · 1,9–3,5 s · Insert detail shot · L04
@@ -55,7 +55,7 @@ ACTION: inside the box: a framed photo, a mug, a banana bread tin, the gold watc
 DIALOGUE: none.
 BACKGROUND MOTION: revolving door turning, people tapping badges, elevator numbers changing.
 CAMERA: static. DURATION: ~1.6 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 3 · 3,5–5,0 s · Close-up · L04
@@ -70,7 +70,7 @@ ACTION: OLLIE forces a polite smile.
 DIALOGUE: OLLIE says "Happy Friday." (warm, gentle, slightly tired older man's voice), accurate lip-sync.
 BACKGROUND MOTION: revolving door turning, people tapping badges, elevator numbers changing.
 CAMERA: slow push-in. DURATION: ~1.5 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 4 · 5,0–7,6 s · Medium close-up · L04
@@ -85,7 +85,7 @@ ACTION: JUNE runs out of the elevator.
 DIALOGUE: JUNE says "Ollie?! Where are you GOING?" (fast, expressive young woman's voice, stressing the CAPS words), accurate lip-sync.
 BACKGROUND MOTION: revolving door turning, people tapping badges, elevator numbers changing.
 CAMERA: static. DURATION: ~2.6 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 5 · 7,6–10,5 s · Close-up · L04
@@ -100,7 +100,7 @@ ACTION: OLLIE stops at the turnstile; the badge reader blinks red.
 DIALOGUE: OLLIE says "Family doesn't need me anymore, sweetheart." (warm, gentle, slightly tired older man's voice), accurate lip-sync.
 BACKGROUND MOTION: revolving door turning, people tapping badges, elevator numbers changing.
 CAMERA: slow push-in. DURATION: ~2.9 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 6 · 10,5–12,4 s · Close-up · L04
@@ -115,7 +115,7 @@ ACTION: JUNE's eyes fill with tears.
 DIALOGUE: JUNE says "That's NOT fair." (fast, expressive young woman's voice, stressing the CAPS words), accurate lip-sync.
 BACKGROUND MOTION: revolving door turning, people tapping badges, elevator numbers changing.
 CAMERA: slow push-in. DURATION: ~1.9 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 7 · 12,4–14,6 s · Medium close-up · L04
@@ -130,7 +130,7 @@ ACTION: VAN takes the box from OLLIE's arms gently.
 DIALOGUE: VAN says "It never was." (calm, low, slow, dry deadpan voice, tiny pause before the last word), accurate lip-sync.
 BACKGROUND MOTION: revolving door turning, people tapping badges, elevator numbers changing.
 CAMERA: static. DURATION: ~2.2 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 8 · 14,6–16,2 s · Wide establishing shot · L04
@@ -145,7 +145,7 @@ ACTION: VAN and OLLIE walk out through the revolving door into warm daylight.
 DIALOGUE: none.
 BACKGROUND MOTION: revolving door turning, people tapping badges, elevator numbers changing.
 CAMERA: static, very slow drift. DURATION: ~1.6 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 9 · 16,2–17,7 s · Extreme close-up · L04
@@ -160,7 +160,7 @@ ACTION: JUNE looks into the lens, alone in the cold lobby.
 DIALOGUE: JUNE says "Who's next?" (fast, expressive young woman's voice, stressing the CAPS words), accurate lip-sync.
 BACKGROUND MOTION: revolving door turning, people tapping badges, elevator numbers changing.
 CAMERA: very slow push-in. DURATION: ~1.5 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ## Titulky (SRT – import do CapCut)

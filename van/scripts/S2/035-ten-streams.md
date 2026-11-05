@@ -41,7 +41,7 @@ ACTION: REX in the parking garage, ring light on, filming himself.
 DIALOGUE: REX says "TEN streams of income, baby!" (over-hyped guru voice, shouting, fake laugh), accurate lip-sync.
 BACKGROUND MOTION: ring light flicker, dripping water, a car passing in the background.
 CAMERA: static, very slow drift. DURATION: ~2.6 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 2 · 2,6–5,9 s · Medium close-up · L08
@@ -56,7 +56,7 @@ ACTION: REX points the selfie stick at JUNE and VAN passing by.
 DIALOGUE: REX says "You two want IN? Ninety-nine down!" (over-hyped guru voice, shouting, fake laugh), accurate lip-sync.
 BACKGROUND MOTION: ring light flicker, dripping water, a car passing in the background.
 CAMERA: static. DURATION: ~3.3 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 3 · 5,9–7,7 s · Medium close-up · L08
@@ -71,7 +71,7 @@ ACTION: VAN stops, mug in hand.
 DIALOGUE: VAN says "Name one." (calm, low, slow, dry deadpan voice, tiny pause before the last word), accurate lip-sync.
 BACKGROUND MOTION: ring light flicker, dripping water, a car passing in the background.
 CAMERA: static. DURATION: ~1.8 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 4 · 7,7–9,9 s · Close-up · L08
@@ -86,7 +86,7 @@ ACTION: REX grins.
 DIALOGUE: REX says "Uh… selling the COURSE." (over-hyped guru voice, shouting, fake laugh), accurate lip-sync.
 BACKGROUND MOTION: ring light flicker, dripping water, a car passing in the background.
 CAMERA: slow push-in. DURATION: ~2.2 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 5 · 9,9–11,7 s · Medium close-up · L08
@@ -101,7 +101,7 @@ ACTION: VAN.
 DIALOGUE: VAN says "That's one." (calm, low, slow, dry deadpan voice, tiny pause before the last word), accurate lip-sync.
 BACKGROUND MOTION: ring light flicker, dripping water, a car passing in the background.
 CAMERA: static. DURATION: ~1.8 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 6 · 11,7–14,6 s · Close-up · L08
@@ -116,7 +116,7 @@ ACTION: REX sweats.
 DIALOGUE: REX says "And… the course about the COURSE!" (over-hyped guru voice, shouting, fake laugh), accurate lip-sync.
 BACKGROUND MOTION: ring light flicker, dripping water, a car passing in the background.
 CAMERA: slow push-in. DURATION: ~2.9 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 7 · 14,6–16,2 s · Insert detail shot · L08
@@ -130,7 +130,7 @@ ACTION: REX's phone screen shows a bank balance in red.
 DIALOGUE: none.
 BACKGROUND MOTION: ring light flicker, dripping water, a car passing in the background.
 CAMERA: static. DURATION: ~1.6 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 8 · 16,2–18,4 s · Close-up · L08
@@ -145,7 +145,7 @@ ACTION: JUNE whispers.
 DIALOGUE: JUNE says "That's the SAME stream." (fast, expressive young woman's voice, stressing the CAPS words), accurate lip-sync.
 BACKGROUND MOTION: ring light flicker, dripping water, a car passing in the background.
 CAMERA: slow push-in. DURATION: ~2.2 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 9 · 18,4–20,6 s · Extreme close-up · L08
@@ -160,7 +160,7 @@ ACTION: VAN looks into the lens.
 DIALOGUE: VAN says "In a circle." (calm, low, slow, dry deadpan voice, tiny pause before the last word), accurate lip-sync.
 BACKGROUND MOTION: ring light flicker, dripping water, a car passing in the background.
 CAMERA: very slow push-in. DURATION: ~2.2 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ## Titulky (SRT – import do CapCut)

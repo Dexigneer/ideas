@@ -43,7 +43,7 @@ ACTION: VAN hands JUNE a marker in front of the whiteboard.
 DIALOGUE: VAN says "Draw your income." (calm, low, slow, dry deadpan voice, tiny pause before the last word), accurate lip-sync.
 BACKGROUND MOTION: projector dust in the light beam, ceiling fan, slides changing.
 CAMERA: static. DURATION: ~2.2 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 2 · 2,2–4,4 s · Insert detail shot · L11
@@ -58,7 +58,7 @@ ACTION: JUNE draws a flat staircase line.
 DIALOGUE: JUNE says "Hours worked… money earned." (fast, expressive young woman's voice, stressing the CAPS words), accurate lip-sync.
 BACKGROUND MOTION: projector dust in the light beam, ceiling fan, slides changing.
 CAMERA: static. DURATION: ~2.2 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 3 · 4,4–7,0 s · Close-up · L11
@@ -73,7 +73,7 @@ ACTION: JUNE taps the end of her line.
 DIALOGUE: JUNE says "It stops when I stop." (fast, expressive young woman's voice, stressing the CAPS words), accurate lip-sync.
 BACKGROUND MOTION: projector dust in the light beam, ceiling fan, slides changing.
 CAMERA: slow push-in. DURATION: ~2.6 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 4 · 7,0–9,2 s · Medium close-up · L11
@@ -88,7 +88,7 @@ ACTION: VAN takes the marker.
 DIALOGUE: VAN says "Now a product." (calm, low, slow, dry deadpan voice, tiny pause before the last word), accurate lip-sync.
 BACKGROUND MOTION: projector dust in the light beam, ceiling fan, slides changing.
 CAMERA: static. DURATION: ~2.2 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 5 · 9,2–11,4 s · Insert detail shot · L11
@@ -103,7 +103,7 @@ ACTION: VAN draws one big step up.
 AUDIO: VAN is heard off-screen (calm, low, slow, dry deadpan voice, tiny pause before the last word): "Build it once."
 BACKGROUND MOTION: projector dust in the light beam, ceiling fan, slides changing.
 CAMERA: static. DURATION: ~2.2 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 6 · 11,4–14,8 s · Insert detail shot · L11
@@ -118,7 +118,7 @@ ACTION: the line keeps rising in small steps.
 AUDIO: VAN is heard off-screen (calm, low, slow, dry deadpan voice, tiny pause before the last word): "Sell it Monday. Sell it Sunday."
 BACKGROUND MOTION: projector dust in the light beam, ceiling fan, slides changing.
 CAMERA: static. DURATION: ~3.4 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 7 · 14,8–18,0 s · Insert detail shot · L11
@@ -133,7 +133,7 @@ ACTION: the line runs off the whiteboard onto the wall.
 AUDIO: VAN is heard off-screen (calm, low, slow, dry deadpan voice, tiny pause before the last word): "Sell it while you sleep."
 BACKGROUND MOTION: projector dust in the light beam, ceiling fan, slides changing.
 CAMERA: static. DURATION: ~3.2 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 8 · 18,0–19,9 s · Close-up · L11
@@ -148,7 +148,7 @@ ACTION: JUNE follows the line onto the wall.
 DIALOGUE: JUNE says "It doesn't STOP?!" (fast, expressive young woman's voice, stressing the CAPS words), accurate lip-sync.
 BACKGROUND MOTION: projector dust in the light beam, ceiling fan, slides changing.
 CAMERA: slow push-in. DURATION: ~1.9 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 9 · 19,9–21,7 s · Extreme close-up · L11
@@ -163,7 +163,7 @@ ACTION: VAN looks into the lens, caps the marker.
 DIALOGUE: VAN says "That's leverage." (calm, low, slow, dry deadpan voice, tiny pause before the last word), accurate lip-sync.
 BACKGROUND MOTION: projector dust in the light beam, ceiling fan, slides changing.
 CAMERA: very slow push-in. DURATION: ~1.8 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ## Titulky (SRT – import do CapCut)

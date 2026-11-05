@@ -40,7 +40,7 @@ ACTION: OLLIE holds his phone at arm's length.
 DIALOGUE: OLLIE says "Hello, internet. I'm Ollie." (warm, gentle, slightly tired older man's voice), accurate lip-sync.
 BACKGROUND MOTION: ducks swimming, leaves falling, people jogging past.
 CAMERA: static, very slow drift. DURATION: ~2.2 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 2 · 2,2–3,8 s · Insert detail shot · L12
@@ -54,7 +54,7 @@ ACTION: the phone screen shows OLLIE upside down.
 DIALOGUE: none.
 BACKGROUND MOTION: ducks swimming, leaves falling, people jogging past.
 CAMERA: static. DURATION: ~1.6 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 3 · 3,8–6,0 s · Close-up · L12
@@ -69,7 +69,7 @@ ACTION: JUNE giggles.
 DIALOGUE: JUNE says "Ollie, it's UPSIDE down." (fast, expressive young woman's voice, stressing the CAPS words), accurate lip-sync.
 BACKGROUND MOTION: ducks swimming, leaves falling, people jogging past.
 CAMERA: slow push-in. DURATION: ~2.2 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 4 · 6,0–7,9 s · Close-up · L12
@@ -84,7 +84,7 @@ ACTION: OLLIE flips the phone.
 DIALOGUE: OLLIE says "Hello, internet. Again." (warm, gentle, slightly tired older man's voice), accurate lip-sync.
 BACKGROUND MOTION: ducks swimming, leaves falling, people jogging past.
 CAMERA: slow push-in. DURATION: ~1.9 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 5 · 7,9–9,5 s · Insert detail shot · L12
@@ -98,7 +98,7 @@ ACTION: now the camera faces the sky.
 DIALOGUE: none.
 BACKGROUND MOTION: ducks swimming, leaves falling, people jogging past.
 CAMERA: static. DURATION: ~1.6 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 6 · 9,5–11,7 s · Close-up · L12
@@ -113,7 +113,7 @@ ACTION: JUNE laughing.
 DIALOGUE: JUNE says "That's the SKY, Ollie." (fast, expressive young woman's voice, stressing the CAPS words), accurate lip-sync.
 BACKGROUND MOTION: ducks swimming, leaves falling, people jogging past.
 CAMERA: slow push-in. DURATION: ~2.2 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 7 · 11,7–13,6 s · Wide establishing shot · L12
@@ -128,7 +128,7 @@ ACTION: OLLIE finally films himself; a duck walks into frame next to him.
 DIALOGUE: OLLIE says "Third time lucky." (warm, gentle, slightly tired older man's voice), accurate lip-sync.
 BACKGROUND MOTION: ducks swimming, leaves falling, people jogging past.
 CAMERA: static, very slow drift. DURATION: ~1.9 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 8 · 13,6–15,1 s · Extreme close-up · L12
@@ -143,7 +143,7 @@ ACTION: OLLIE looks into the lens, delighted.
 DIALOGUE: OLLIE says "Hello, ducks." (warm, gentle, slightly tired older man's voice), accurate lip-sync.
 BACKGROUND MOTION: ducks swimming, leaves falling, people jogging past.
 CAMERA: very slow push-in. DURATION: ~1.5 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ## Titulky (SRT – import do CapCut)

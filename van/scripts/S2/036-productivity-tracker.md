@@ -41,7 +41,7 @@ ACTION: a red recording dot appears above every monitor.
 AUDIO: PA SPEAKER is heard off-screen (distorted office loudspeaker announcement, speaker not visible): "New software tracks your PRODUCTIVITY. Smile!"
 BACKGROUND MOTION: rain streaks on windows, clone coworkers typing, copier spitting paper, second hand on the clock.
 CAMERA: static, very slow drift. DURATION: ~2.9 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 2 · 2,9–4,5 s · Insert detail shot · L03
@@ -55,7 +55,8 @@ ACTION: the manager's monitor: a live chart titled "MOUSE MOVEMENT" with employe
 DIALOGUE: none.
 BACKGROUND MOTION: blind shadows sliding slowly, papers stirred by a desk fan.
 CAMERA: static. DURATION: ~1.6 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+PROP TEXT: render these words crisp and legible on the prop/screen: "MOUSE MOVEMENT".
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 3 · 4,5–6,1 s · Medium close-up · L01
@@ -70,7 +71,7 @@ ACTION: JUNE eats a sandwich at her desk at 12:15 while sketching her planner on
 DIALOGUE: none.
 BACKGROUND MOTION: rain streaks on windows, clone coworkers typing, copier spitting paper, second hand on the clock.
 CAMERA: static. DURATION: ~1.6 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 4 · 6,1–9,4 s · Close-up · L01
@@ -86,7 +87,7 @@ DIALOGUE: MANAGEMENT says "Your mouse hasn't moved in FIFTEEN minutes." (loud, c
 RULE: MANAGEMENT's head must never be visible - crop at the neck.
 BACKGROUND MOTION: rain streaks on windows, clone coworkers typing, copier spitting paper, second hand on the clock.
 CAMERA: slow push-in. DURATION: ~3.3 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 5 · 9,4–11,6 s · Close-up · L01
@@ -101,7 +102,7 @@ ACTION: JUNE holds up the sandwich.
 DIALOGUE: JUNE says "It's my LUNCH break." (fast, expressive young woman's voice, stressing the CAPS words), accurate lip-sync.
 BACKGROUND MOTION: rain streaks on windows, clone coworkers typing, copier spitting paper, second hand on the clock.
 CAMERA: slow push-in. DURATION: ~2.2 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 6 · 11,6–13,8 s · Close-up · L01
@@ -117,7 +118,7 @@ DIALOGUE: MANAGEMENT says "Lunch is a PRIVILEGE." (loud, clipped corporate voice
 RULE: MANAGEMENT's head must never be visible - crop at the neck.
 BACKGROUND MOTION: rain streaks on windows, clone coworkers typing, copier spitting paper, second hand on the clock.
 CAMERA: slow push-in. DURATION: ~2.2 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 7 · 13,8–16,0 s · Medium close-up · L01
@@ -132,7 +133,7 @@ ACTION: VAN from the next desk, not looking up.
 DIALOGUE: VAN says "Lunch is hers." (calm, low, slow, dry deadpan voice, tiny pause before the last word), accurate lip-sync.
 BACKGROUND MOTION: rain streaks on windows, clone coworkers typing, copier spitting paper, second hand on the clock.
 CAMERA: static. DURATION: ~2.2 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 8 · 16,0–17,9 s · Close-up · L01
@@ -147,7 +148,7 @@ ACTION: JUNE whispers as MANAGEMENT walks away without a word.
 DIALOGUE: JUNE says "He just… LEFT?" (fast, expressive young woman's voice, stressing the CAPS words), accurate lip-sync.
 BACKGROUND MOTION: rain streaks on windows, clone coworkers typing, copier spitting paper, second hand on the clock.
 CAMERA: slow push-in. DURATION: ~1.9 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 9 · 17,9–20,1 s · Extreme close-up · L01
@@ -162,7 +163,7 @@ ACTION: VAN looks into the lens.
 DIALOGUE: VAN says "Build at lunch." (calm, low, slow, dry deadpan voice, tiny pause before the last word), accurate lip-sync.
 BACKGROUND MOTION: rain streaks on windows, clone coworkers typing, copier spitting paper, second hand on the clock.
 CAMERA: very slow push-in. DURATION: ~2.2 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ## Titulky (SRT – import do CapCut)

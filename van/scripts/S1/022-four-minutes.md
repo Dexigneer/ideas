@@ -42,7 +42,7 @@ ACTION: OLLIE sits alone at the long conference table, the speakerphone in front
 DIALOGUE: none.
 BACKGROUND MOTION: projector dust in the light beam, ceiling fan, slides changing.
 CAMERA: static, very slow drift. DURATION: ~1.6 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 2 · 1,6–4,5 s · Insert detail shot · L11
@@ -57,7 +57,7 @@ ACTION: the speakerphone glows, wall clock at 4:55.
 AUDIO: PA SPEAKER is heard off-screen (distorted office loudspeaker announcement, speaker not visible): "Hi Oliver. This will be quick."
 BACKGROUND MOTION: projector dust in the light beam, ceiling fan, slides changing.
 CAMERA: static. DURATION: ~2.9 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 3 · 4,5–7,8 s · Close-up · L11
@@ -72,7 +72,7 @@ ACTION: OLLIE smiles nervously, adjusting his glasses.
 DIALOGUE: OLLIE says "Quick? I've been here twenty-four years." (warm, gentle, slightly tired older man's voice), accurate lip-sync.
 BACKGROUND MOTION: projector dust in the light beam, ceiling fan, slides changing.
 CAMERA: slow push-in. DURATION: ~3.3 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 4 · 7,8–10,7 s · Insert detail shot · L11
@@ -87,7 +87,7 @@ ACTION: the speakerphone light blinks.
 AUDIO: PA SPEAKER is heard off-screen (distorted office loudspeaker announcement, speaker not visible): "Your role is ELIMINATED. Effective TODAY."
 BACKGROUND MOTION: projector dust in the light beam, ceiling fan, slides changing.
 CAMERA: static. DURATION: ~2.9 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 5 · 10,7–13,6 s · Close-up · L11
@@ -102,7 +102,7 @@ ACTION: OLLIE's voice breaks, his hands tremble on the table.
 DIALOGUE: OLLIE says "But… I baked bread on Monday." (warm, gentle, slightly tired older man's voice), accurate lip-sync.
 BACKGROUND MOTION: projector dust in the light beam, ceiling fan, slides changing.
 CAMERA: slow push-in. DURATION: ~2.9 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 6 · 13,6–16,5 s · Insert detail shot · L11
@@ -117,7 +117,7 @@ ACTION: a click, then the dial tone.
 AUDIO: PA SPEAKER is heard off-screen (distorted office loudspeaker announcement, speaker not visible): "Please return your BADGE. Thanks, Oliver."
 BACKGROUND MOTION: projector dust in the light beam, ceiling fan, slides changing.
 CAMERA: static. DURATION: ~2.9 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 7 · 16,5–18,1 s · Insert detail shot · L11
@@ -132,7 +132,7 @@ ACTION: OLLIE's gold watch on his trembling wrist shows 4:59.
 DIALOGUE: none.
 BACKGROUND MOTION: projector dust in the light beam, ceiling fan, slides changing.
 CAMERA: static. DURATION: ~1.6 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 8 · 18,1–19,7 s · Medium shot · L11
@@ -147,7 +147,7 @@ ACTION: the door opens, VAN stands in the doorway, out of breath, too late.
 DIALOGUE: none.
 BACKGROUND MOTION: projector dust in the light beam, ceiling fan, slides changing.
 CAMERA: static. DURATION: ~1.6 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 9 · 19,7–21,6 s · Close-up · L11
@@ -162,7 +162,7 @@ ACTION: OLLIE looks up with wet eyes.
 DIALOGUE: OLLIE says "Four minutes, Van." (warm, gentle, slightly tired older man's voice), accurate lip-sync.
 BACKGROUND MOTION: projector dust in the light beam, ceiling fan, slides changing.
 CAMERA: slow push-in. DURATION: ~1.9 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 10 · 21,6–23,8 s · Extreme close-up · L11
@@ -177,7 +177,7 @@ ACTION: VAN looks into the lens, his calm finally cracking.
 DIALOGUE: VAN says "I was late." (calm, low, slow, dry deadpan voice, tiny pause before the last word), accurate lip-sync.
 BACKGROUND MOTION: projector dust in the light beam, ceiling fan, slides changing.
 CAMERA: very slow push-in. DURATION: ~2.2 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ## Titulky (SRT – import do CapCut)

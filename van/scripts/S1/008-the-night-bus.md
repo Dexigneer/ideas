@@ -41,7 +41,7 @@ ACTION: JUNE sits alone in the night bus, head against the rainy window, clone c
 DIALOGUE: none.
 BACKGROUND MOTION: streetlights and neon sliding past the windows, the bus swaying gently.
 CAMERA: static, very slow drift. DURATION: ~1.6 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 2 · 1,6–4,3 s · Two-shot · L07
@@ -56,7 +56,7 @@ ACTION: VAN sits down next to her, holding his white mug.
 DIALOGUE: VAN says "Where were you today?" (calm, low, slow, dry deadpan voice, tiny pause before the last word), accurate lip-sync.
 BACKGROUND MOTION: streetlights and neon sliding past the windows, the bus swaying gently.
 CAMERA: static. DURATION: ~2.7 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 3 · 4,3–5,7 s · Close-up · L07
@@ -71,7 +71,7 @@ ACTION: JUNE doesn't look away from the window.
 DIALOGUE: JUNE says "Office." (fast, expressive young woman's voice, stressing the CAPS words), accurate lip-sync.
 BACKGROUND MOTION: streetlights and neon sliding past the windows, the bus swaying gently.
 CAMERA: slow push-in. DURATION: ~1.4 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 4 · 5,7–7,1 s · Medium close-up · L07
@@ -86,7 +86,7 @@ ACTION: VAN looks ahead.
 DIALOGUE: VAN says "Yesterday?" (calm, low, slow, dry deadpan voice, tiny pause before the last word), accurate lip-sync.
 BACKGROUND MOTION: streetlights and neon sliding past the windows, the bus swaying gently.
 CAMERA: static. DURATION: ~1.4 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 5 · 7,1–8,5 s · Close-up · L07
@@ -101,7 +101,7 @@ ACTION: JUNE's voice is smaller.
 DIALOGUE: JUNE says "Office." (fast, expressive young woman's voice, stressing the CAPS words), accurate lip-sync.
 BACKGROUND MOTION: streetlights and neon sliding past the windows, the bus swaying gently.
 CAMERA: slow push-in. DURATION: ~1.4 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 6 · 8,5–10,7 s · Medium close-up · L07
@@ -116,7 +116,7 @@ ACTION: VAN quietly.
 DIALOGUE: VAN says "Your sister's birthday?" (calm, low, slow, dry deadpan voice, tiny pause before the last word), accurate lip-sync.
 BACKGROUND MOTION: streetlights and neon sliding past the windows, the bus swaying gently.
 CAMERA: static. DURATION: ~2.2 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 7 · 10,7–12,1 s · Close-up · L07
@@ -131,7 +131,7 @@ ACTION: JUNE's eyes fill with tears, streetlights sweep across her face.
 DIALOGUE: JUNE says "…Office." (fast, expressive young woman's voice, stressing the CAPS words), accurate lip-sync.
 BACKGROUND MOTION: streetlights and neon sliding past the windows, the bus swaying gently.
 CAMERA: slow push-in. DURATION: ~1.4 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 8 · 12,1–13,7 s · Insert detail shot · L07
@@ -146,7 +146,7 @@ ACTION: JUNE's reflection in the dark window looks tired and older.
 DIALOGUE: none.
 BACKGROUND MOTION: streetlights and neon sliding past the windows, the bus swaying gently.
 CAMERA: static. DURATION: ~1.6 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 9 · 13,7–16,4 s · Extreme close-up · L07
@@ -161,7 +161,7 @@ ACTION: VAN looks into the lens; the bus stop sign outside reads OFFICE.
 DIALOGUE: VAN says "Then where's your life?" (calm, low, slow, dry deadpan voice, tiny pause before the last word), accurate lip-sync.
 BACKGROUND MOTION: streetlights and neon sliding past the windows, the bus swaying gently.
 CAMERA: very slow push-in. DURATION: ~2.7 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ## Titulky (SRT – import do CapCut)

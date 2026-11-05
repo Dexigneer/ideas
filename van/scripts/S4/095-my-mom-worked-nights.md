@@ -39,7 +39,7 @@ ACTION: JUNE reading on her phone in the night bus.
 DIALOGUE: none.
 BACKGROUND MOTION: streetlights and neon sliding past the windows, the bus swaying gently.
 CAMERA: static, very slow drift. DURATION: ~1.6 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 2 · 1,6–4,9 s · Insert detail shot · L07
@@ -53,7 +53,7 @@ ACTION: the comment on screen.
 AUDIO: PHONE VOICE is heard off-screen (voice heard through a phone speaker): "My mom worked nights my whole childhood."
 BACKGROUND MOTION: streetlights and neon sliding past the windows, the bus swaying gently.
 CAMERA: static. DURATION: ~3.3 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 3 · 4,9–7,8 s · Insert detail shot · L07
@@ -67,7 +67,7 @@ ACTION: the comment continues.
 AUDIO: PHONE VOICE is heard off-screen (voice heard through a phone speaker): "I never saw her at breakfast."
 BACKGROUND MOTION: streetlights and neon sliding past the windows, the bus swaying gently.
 CAMERA: static. DURATION: ~2.9 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 4 · 7,8–11,2 s · Insert detail shot · L07
@@ -81,7 +81,7 @@ ACTION: the comment ends.
 AUDIO: PHONE VOICE is heard off-screen (voice heard through a phone speaker): "I bought her your planner. Her son, nineteen."
 BACKGROUND MOTION: streetlights and neon sliding past the windows, the bus swaying gently.
 CAMERA: static. DURATION: ~3.4 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 5 · 11,2–12,8 s · Close-up · L07
@@ -96,7 +96,7 @@ ACTION: JUNE presses the phone to her chest, crying.
 DIALOGUE: none.
 BACKGROUND MOTION: streetlights and neon sliding past the windows, the bus swaying gently.
 CAMERA: slow push-in. DURATION: ~1.6 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 6 · 12,8–15,5 s · Two-shot · L07
@@ -111,7 +111,7 @@ ACTION: VAN beside her.
 DIALOGUE: VAN says "Still just a planner?" (calm, low, slow, dry deadpan voice, tiny pause before the last word), accurate lip-sync.
 BACKGROUND MOTION: streetlights and neon sliding past the windows, the bus swaying gently.
 CAMERA: static. DURATION: ~2.7 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ### Záber 7 · 15,5–17,0 s · Extreme close-up · L07
@@ -126,7 +126,7 @@ ACTION: JUNE looks into the lens.
 DIALOGUE: JUNE says "It's breakfast." (fast, expressive young woman's voice, stressing the CAPS words), accurate lip-sync.
 BACKGROUND MOTION: streetlights and neon sliding past the windows, the bus swaying gently.
 CAMERA: very slow push-in. DURATION: ~1.5 s.
-Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
+Keep every character exactly on-model with the reference sheets. No subtitles, no captions, no watermarks.
 ```
 
 ## Titulky (SRT – import do CapCut)
