@@ -9,7 +9,8 @@ Všetko na výrobu seriálu **„[ EXIT ]“** (PS2-style cutscény s maskotom V
 | [`scripts/README.md`](scripts/README.md) | **zoznam 130 videí** (sezóny, hooky, emócie) s odkazmi |
 | `scripts/S1 … S5/*.md` | každé video: storyboard, **prompt pre každý záber**, titulky SRT, HUD SRT, popis + hashtagy |
 | [`03-marketing-strategy.md`](03-marketing-strategy.md) | TikTok (založenie účtu, publikovanie, hidden gems) + Instagram (carousely × Reels) |
-| `data/*.txt`, `tools/render.py` | zdrojové dáta scenárov a generátor. Úpravy rob v `data/`, potom spusti `python3 tools/render.py` |
+| `web/index.html` | **interaktívny prehliadač** (jeden súbor, otvoríš v prehliadači): epizódy, tlačidlo Kopírovať pri každom zábere, sledovanie postupu. Online: https://claude.ai/artifact/46TWVUSNkUCcM9geLpmZnw |
+| `data/*.txt`, `tools/render.py` | zdrojové dáta scenárov a generátor. Úpravy rob v `data/`, potom spusti `python3 tools/render.py` a `python3 tools/build_web.py` |
 
 Pôvodný návrh postavy: [`../analysis/vantage-character-van.md`](../analysis/vantage-character-van.md).
 
