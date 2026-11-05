@@ -1,0 +1,96 @@
+#099 THE COLLAB
+type: B
+emo: odvaha osloviť iných
+edu: Spolupráca: 1) nájdi tvorcov s rovnakým publikom, nie konkurentov, 2) daj hodnotu ako prvý (bezplatná verzia pre ich publikum), 3) krátka, konkrétna správa.
+premise: June sa bojí napísať väčšej tvorkyni zo sesterskej komunity. Van jej pomôže so správou.
+clue: odpoveď príde o 3:07 – tvorkyňa je tiež nočná sestra
+loop: June napíše ďalšej tvorkyni
+caption: how I DM'd a creator 10x my size and she said yes. (copy the formula) 💌
+cta: yes
+> CU | L06 | JUNE | JUNE: She has 400K followers. Why would she answer ME? | JUNE stares at a nurse creator's profile | HUD: LEVEL 4 – COLLABS
+> MCU | L06 | VAN | VAN: Same audience, not competitor. | VAN on video call | DROP, HUD: STEP 1/3 – SAME AUDIENCE
+> MCU | L06 | VAN | VAN: Give first. | VAN | HUD: STEP 2/3 – GIVE FIRST
+> INS | L06 | — | JUNE(VO): Free planner for your followers. No strings. | JUNE types a short DM |
+> MCU | L06 | VAN | VAN: Short. Specific. Send. | VAN | HUD: STEP 3/3 – SHORT DM
+> INS | L06 | — | — | the DM is sent; the clock reads 3:07; a reply pops up: "omg I'm a night nurse too. YES." | PING, OUT
+> CU | L06 | JUNE | JUNE: She said YES. | JUNE squeals into a pillow |
+> CAM | L06 | VAN | VAN: Ask more. | VAN looks into the lens | LOOP
+
+#100 EPISODE ONE HUNDRED
+type: C
+emo: vďaka, vzťah s divákom
+premise: Stý diel. Van sa pozrie priamo na diváka a poďakuje mu, že je stále tu.
+loop: Van sa otočí späť k mestu
+caption: episode 100. if you've been here since the VISITOR badge… thank you. 🎮 where are YOU on your level?
+cta: yes
+> W | L05 | VAN | — | VAN on the rooftop at night, the neon billboards behind him display "100" | DROP, @2.4
+> MCU | L05 | VAN | VAN: Hundred episodes. | VAN turns his head slowly |
+> CU | L05 | VAN | VAN: You're still here. | VAN smiles softly |
+> CAM | L05 | VAN | VAN: What's your level? | VAN looks into the lens | OUT, LOOP
+
+#101 MAE'S DAY OFF
+type: A
+emo: teplo, sesterská láska, zmysel
+premise: Mae má prvý celý voľný deň a stretne June v parku za denného svetla. Dlho sa nevideli za svetla.
+clue: Mae nemá kruhy pod očami
+loop: Mae zaspí na June pleci
+caption: my sister and I hadn't seen each other in daylight in 8 months. ☀️
+> W | L12 | MAE JUNE | MAE: Junie! In DAYLIGHT! | MAE, without scrubs, in a sweater, runs across the park to JUNE |
+> CU | L12 | JUNE | JUNE: You look… RESTED. | JUNE notices MAE has no dark circles | DROP
+> CU | L12 | MAE | MAE: Seven hours. Every day. Because of you. | MAE hugs her tight |
+> 2S | L12 | MAE JUNE | JUNE: When did we last do this? | the sisters sit on the bench, ducks swimming |
+> CU | L12 | MAE | MAE: Your birthday. Three years ago. | MAE quietly | OUT
+> CU | L12 | JUNE | JUNE: Never again that long. | JUNE squeezes her hand |
+> MCU | L12 | VAN | — | VAN watches from far across the pond, smiles, and walks away |
+> CAM | L12 | MAE | MAE: Promise? | MAE looks into the lens, then rests her head on JUNE's shoulder | LOOP
+
+#102 RAISE YOUR PRICE
+type: B
+emo: odvaha, sebahodnota
+edu: Kedy zdvihnúť cenu: 1) predáva sa bez tvojho tlačenia, 2) recenzie sú silné, 3) pridala si hodnotu. Ohlás to vopred – je to fér a motivuje váhajúcich.
+premise: June predáva za $19 a nestíha. Van jej povie, že je čas zdvihnúť cenu.
+clue: na HUD sa cena „vylepší“ z RARE na EPIC
+loop: June pridá ďalší bonus
+caption: when to raise your price (3 signs). spoiler: you're probably late. 💰
+cta: yes
+> CU | L06 | JUNE | JUNE: Raise the price? People will HATE me. | JUNE | HUD: LEVEL 4 – PRICING UP
+> MCU | L06 | VAN | VAN: Does it sell without pushing? | VAN on video call | DROP, HUD: SIGN 1/3 – SELLS ALONE
+> CU | L06 | JUNE | JUNE: Every day. | JUNE |
+> MCU | L06 | VAN | VAN: Reviews? | VAN | HUD: SIGN 2/3 – STRONG REVIEWS
+> CU | L06 | JUNE | JUNE: Four point nine stars. | JUNE |
+> MCU | L06 | VAN | VAN: Added anything? | VAN | HUD: SIGN 3/3 – MORE VALUE
+> CU | L06 | JUNE | JUNE: The three-night version. The meal pack. | JUNE counts | OUT
+> MCU | L06 | VAN | VAN: Announce it. Then raise. | VAN | HUD: PRICE $19 → $29 – EPIC
+> CAM | L06 | VAN | VAN: Value, not guilt. | VAN looks into the lens | LOOP
+
+#103 TUESDAY
+type: A
+emo: sloboda, ktorá sa najprv cíti ako vina
+premise: June si vezme voľný deň a v utorok o 10:30 sedí v parku. Cíti sa, akoby robila niečo zakázané.
+clue: v diaľke vidieť kancelársku budovu – hodiny 10:30
+loop: June sa pozrie na hodinky – a dá si ich do vrecka
+caption: first time sitting in a park on a Tuesday morning. why does freedom feel illegal? 🌳
+> W | L12 | JUNE | — | JUNE on the park bench on a sunny Tuesday at 10:30, the office tower far in the background |
+> CU | L12 | JUNE | JUNE: Why does this feel ILLEGAL? | JUNE looks around nervously | DROP
+> 2S | L12 | VAN JUNE | VAN: First Tuesday? | VAN sits down with two coffees |
+> CU | L12 | JUNE | JUNE: Everyone's at WORK. I keep checking my phone. | JUNE |
+> MCU | L12 | VAN | VAN: Look up. | VAN nods toward the pond | OUT
+> W | L12 | — | — | ducks on the pond, a jogger, leaves falling, sunlight |
+> CU | L12 | JUNE | JUNE: It's… so QUIET. | JUNE breathes out |
+> CAM | L12 | VAN | VAN: It's yours. | VAN looks into the lens | LOOP
+
+#104 THAT'S MY SALARY
+type: A
+emo: šok, husia koža – cliffhanger sezóny
+premise: Na konci mesiaca June porovná tržby z produktu so svojou výplatou. Sú rovnaké.
+clue: dve čísla na obrazovke sú identické
+loop: obrazovka „LEVEL 4 COMPLETE – LEVEL 5 UNLOCKED“
+caption: I compared my product revenue to my salary this month. 😶 (part 2 tomorrow — results vary, this took 9 months)
+> W | L06 | JUNE PIVOT | — | JUNE at her kitchen table with two browser tabs open, PIVOT next to her |
+> INS | L06 | — | — | left tab: "PAYSLIP – NET"; right tab: "NIGHT SHIFT OS – THIS MONTH"; the numbers are identical | DROP
+> CU | L06 | JUNE | JUNE: That's… the same number. | JUNE whispers |
+> CU | L06 | JUNE | JUNE: Forty hours a week… or a planner. | JUNE looks from one tab to the other | OUT
+> MCU | L06 | VAN | VAN: What are you feeling? | VAN on video call |
+> CU | L06 | JUNE | JUNE: Scared. | JUNE honest |
+> MCU | L06 | VAN | VAN: Good. That's level five. | VAN |
+> CAM | L06 | JUNE | JUNE: Level five. | JUNE looks into the lens | HUD: LEVEL 4 COMPLETE – LEVEL 5 UNLOCKED, LOOP

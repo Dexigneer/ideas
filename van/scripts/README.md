@@ -4,7 +4,7 @@ Každý scenár má vlastný súbor: storyboard, prompt pre každý záber, titu
 Reference images: [`../01-character-sheets.md`](../01-character-sheets.md) a [`../02-location-sheets.md`](../02-location-sheets.md). Postup: [`../README.md`](../README.md).
 
 Typy: **A** = cutscéna (virál), **B** = tutorial level (vzdelávanie), **C** = idle (motivácia).
-Spolu **78** videí – A: 50, B: 22, C: 6.
+Spolu **104** videí – A: 65, B: 31, C: 8.
 
 
 ## S1 · LEVEL 1 – SYSTEM OVERRIDE
@@ -97,5 +97,36 @@ Spolu **78** videí – A: 50, B: 22, C: 6.
 | 074 | [SATURDAY](S3/074-saturday.md) | A | 18 s | „Saturday lunch? I know you're busy, son.“ | dojatie, uzdravenie Vanovej rany |
 | 075 | [BURNOUT](S3/075-burnout.md) | A | 19 s | „Are we SLEEPING on company time?!“ | varovanie, starostlivosť o seba |
 | 076 | [THE COMMAND CENTER](S3/076-the-command-center.md) | B | 19 s | „My notes are EVERYWHERE. Forty apps.“ | pokoj, kontrola |
-| 077 | [TEN PINGS](S3/077-ten-pings.md) | C | 6 s | „I stopped counting.“ | tichá radosť, hrdosť |
+| 077 | [TEN PINGS](S3/077-ten-pings.md) | C | 8 s | „I stopped counting.“ | tichá radosť, hrdosť |
 | 078 | [MY OFFICE. NOW.](S3/078-my-office-now.md) | A | 19 s | „Night Shift… O.S.?“ | šok, napätie – cliffhanger sezóny |
+
+## S4 · LEVEL 4 – TRAFFIC GENERATION
+
+| # | názov | typ | dĺžka | hook (1. replika) | emócia |
+|---|---|---|---|---|---|
+| 079 | [HIS WIFE](S4/079-his-wife.md) | A | 21 s | „I can explain. I only work on it at LUNCH.“ | prekvapenie, ľudskosť aj v „systéme“ |
+| 080 | [NOBODY KNOWS IT EXISTS](S4/080-nobody-knows-it-exists.md) | B | 19 s | „Sales STOPPED. Is the product bad?“ | jasnosť – produkt bez návštevnosti je neviditeľný |
+| 081 | [TWELVE VIEWS](S4/081-twelve-views.md) | A | 16 s | „Twenty-four hours… let's see.“ | zraniteľnosť, smiech cez slzy |
+| 082 | [THE FIRST SECOND](S4/082-the-first-second.md) | B | 22 s | „Hi guys! So today I wanted to talk about…“ | „aha“ – prečo ľudia scrollujú preč |
+| 083 | [CUT EVERY TWO SECONDS](S4/083-cut-every-two-seconds.md) | B | 19 s | „Nobody watches past five seconds.“ | hravosť – takto drží video pozornosť |
+| 084 | [CRINGE](S4/084-cringe.md) | A | 19 s | „"You ate dinner at three AM out of a VENDING machine!"“ | hanba → hrdosť |
+| 085 | [NIGHT SHIFT ULTRA](S4/085-night-shift-ultra.md) | A | 19 s | „Introducing NIGHT SHIFT ULTRA. Only $199!“ | hnev, nespravodlivosť → pokoj |
+| 086 | [ONE IDEA, TEN POSTS](S4/086-one-idea-ten-posts.md) | B | 22 s | „I'm out of IDEAS. I need a new one EVERY day.“ | úľava – nemusím stále vymýšľať nové |
+| 087 | [NO FACE NEEDED](S4/087-no-face-needed.md) | B | 17 s | „I HATE my face on camera.“ | úľava pre introvertov |
+| 088 | [POST AGAIN](S4/088-post-again.md) | C | 10 s | „Twelve views. Post again.“ | vytrvalosť |
+| 089 | [1.2 MILLION](S4/089-1-2-million.md) | A | 18 s | „Our engagement is up TWO percent.“ | eufória, chaos, „toto sa deje?!“ |
+| 090 | [GET A REAL JOB](S4/090-get-a-real-job.md) | A | 18 s | „Maybe they're RIGHT.“ | zranenie z nenávisti → obhajoba, láska |
+| 091 | [OLLIE'S PLANS](S4/091-ollie-s-plans.md) | A | 18 s | „I'll call it "Birdhouse Plans, Volume One".“ | nádej, láskavosť |
+| 092 | [UPSIDE DOWN](S4/092-upside-down.md) | A | 15 s | „Hello, internet. I'm Ollie.“ | roztomilosť, smiech, láskavosť |
+| 093 | [SHOW THE REFUNDS](S4/093-show-the-refunds.md) | A | 18 s | „Income-OFF! Live! Show your screen, bro!“ | zadosťučinenie – podvodník odhalený |
+| 094 | [BATCH SUNDAY](S4/094-batch-sunday.md) | B | 20 s | „I film EVERY night after work. I'm dying.“ | kontrola, pokoj |
+| 095 | [MY MOM WORKED NIGHTS](S4/095-my-mom-worked-nights.md) | A | 17 s | „My mom worked nights my whole childhood.“ | hlboké dojatie |
+| 096 | [THE DM](S4/096-the-dm.md) | A | 15 s | „Dave? The one who LAUGHED?“ | smiech → súcit – „aj oni chcú von“ |
+| 097 | [OWN YOUR LIST](S4/097-own-your-list.md) | B | 20 s | „My ACCOUNT. Everything's GONE.“ | bezpečie – nestavaj dom na prenajatom pozemku |
+| 098 | [THE FLOP](S4/098-the-flop.md) | A | 20 s | „It was LUCK. I'm a one-hit wonder.“ | frustrácia, pochybnosť – a nadhľad |
+| 099 | [THE COLLAB](S4/099-the-collab.md) | B | 19 s | „She has 400K followers. Why would she answer ME?“ | odvaha osloviť iných |
+| 100 | [EPISODE ONE HUNDRED](S4/100-episode-one-hundred.md) | C | 8 s | „Hundred episodes.“ | vďaka, vzťah s divákom |
+| 101 | [MAE'S DAY OFF](S4/101-mae-s-day-off.md) | A | 18 s | „Junie! In DAYLIGHT!“ | teplo, sesterská láska, zmysel |
+| 102 | [RAISE YOUR PRICE](S4/102-raise-your-price.md) | B | 22 s | „Raise the price? People will HATE me.“ | odvaha, sebahodnota |
+| 103 | [TUESDAY](S4/103-tuesday.md) | A | 16 s | „Why does this feel ILLEGAL?“ | sloboda, ktorá sa najprv cíti ako vina |
+| 104 | [THAT'S MY SALARY](S4/104-that-s-my-salary.md) | A | 17 s | „That's… the same number.“ | šok, husia koža – cliffhanger sezóny |

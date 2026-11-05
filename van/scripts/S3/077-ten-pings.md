@@ -1,6 +1,6 @@
 # #077 · TEN PINGS
 
-`S3 · LEVEL 3 – THE SALES ENGINE` · `Typ C – idle (motivácia)` · `~6 s` · `4 záberov`
+`S3 · LEVEL 3 – THE SALES ENGINE` · `Typ C – idle (motivácia)` · `~8 s` · `4 záberov`
 
 [← #076](../S3/076-the-command-center.md) · [📋 zoznam](../README.md) · [#078 →](../S3/078-my-office-now.md)
 
@@ -14,17 +14,17 @@
 
 | # | čas | záber | lok. | kto | titulok | strih / zvuk |
 |---|---|---|---|---|---|---|
-| 1 | 0,0–1,6 | W | L05 | — | *(bez repliky)* | 🎵 beat drop |
-| 2 | 1,6–3,2 | INS | L05 | — | *(bez repliky)* | 🔔 sale ping |
-| 3 | 3,2–5,1 | CU | L05 | JUNE | „I stopped counting.“ | 🔔 sale ping |
-| 4 | 5,1–6,5 | CAM | L05 | VAN | „Good.“ | 🔔 sale ping<br>🔇 hudba vypadne ~0,4 s<br>↩ tvrdý strih → loop |
-| ⏹ | 6,5–8,0 | karta | – | – | `SAVE GAME? → [ EXIT ] link in bio` | end card |
+| 1 | 0,0–2,6 | W | L05 | — | *(bez repliky)* | 🎵 beat drop |
+| 2 | 2,6–4,2 | INS | L05 | — | *(bez repliky)* | 🔔 sale ping |
+| 3 | 4,2–6,1 | CU | L05 | JUNE | „I stopped counting.“ | 🔔 sale ping |
+| 4 | 6,1–7,5 | CAM | L05 | VAN | „Good.“ | 🔔 sale ping<br>🔇 hudba vypadne ~0,4 s<br>↩ tvrdý strih → loop |
+| ⏹ | 7,5–9,0 | karta | – | – | `SAVE GAME? → [ EXIT ] link in bio` | end card |
 
 ## Prompty pre jednotlivé zábery
 
 > Ku každému promptu nahraj reference images uvedené v riadku `REFERENCES`.
 
-### Záber 1 · 0,0–1,6 s · Wide establishing shot · L05
+### Záber 1 · 0,0–2,6 s · Wide establishing shot · L05
 
 ```text
 REFERENCES: @VAN, @JUNE, @L05
@@ -35,11 +35,11 @@ IN FRAME: VAN (man ~30, short dark slightly messy hair, light stubble, calm half
 ACTION: VAN and JUNE on the rooftop at night, city neon, two mugs.
 DIALOGUE: none.
 BACKGROUND MOTION: city lights twinkling, slow drifting clouds, steam from vents, light rain.
-CAMERA: static, very slow drift. DURATION: ~1.6 s.
+CAMERA: static, very slow drift. DURATION: ~2.6 s.
 Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
 ```
 
-### Záber 2 · 1,6–3,2 s · Insert detail shot · L05
+### Záber 2 · 2,6–4,2 s · Insert detail shot · L05
 
 ```text
 REFERENCES: @L05
@@ -53,7 +53,7 @@ CAMERA: static. DURATION: ~1.6 s.
 Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
 ```
 
-### Záber 3 · 3,2–5,1 s · Close-up · L05
+### Záber 3 · 4,2–6,1 s · Close-up · L05
 
 ```text
 REFERENCES: @JUNE, @L05
@@ -68,7 +68,7 @@ CAMERA: slow push-in. DURATION: ~1.9 s.
 Keep every character exactly on-model with the reference sheets. No subtitles, no on-screen text, no watermarks.
 ```
 
-### Záber 4 · 5,1–6,5 s · Extreme close-up · L05
+### Záber 4 · 6,1–7,5 s · Extreme close-up · L05
 
 ```text
 REFERENCES: @VAN, @L05
@@ -87,11 +87,11 @@ Keep every character exactly on-model with the reference sheets. No subtitles, n
 
 ```srt
 1
-00:00:03,200 --> 00:00:05,100
+00:00:04,200 --> 00:00:06,100
 I stopped counting.
 
 2
-00:00:05,100 --> 00:00:06,500
+00:00:06,100 --> 00:00:07,500
 Good.
 ```
 

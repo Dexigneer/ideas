@@ -2,7 +2,7 @@
 
 `S3 · LEVEL 3 – THE SALES ENGINE` · `Typ A – cutscéna` · `~19 s` · `9 záberov`
 
-[← #077](../S3/077-ten-pings.md) · [📋 zoznam](../README.md)
+[← #077](../S3/077-ten-pings.md) · [📋 zoznam](../README.md) · [#079 →](../S4/079-his-wife.md)
 
 > **Premisa:** June nechá na pracovnom monitore otvorenú svoju predajnú stránku. Šéf to uvidí.  
 > **Emócia diváka:** šok, napätie – cliffhanger sezóny  

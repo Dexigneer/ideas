@@ -72,7 +72,7 @@ premise: June a Van na streche. June telefón pípne desaťkrát za večer. Ona 
 loop: ďalší ping
 caption: I stopped checking every ping. that's how I knew something changed. 🔔
 cta: yes
-> W | L05 | VAN JUNE | — | VAN and JUNE on the rooftop at night, city neon, two mugs | DROP
+> W | L05 | VAN JUNE | — | VAN and JUNE on the rooftop at night, city neon, two mugs | DROP | @2.6
 > INS | L05 | — | — | JUNE's phone face down on the railing, lighting up again and again | PING
 > CU | L05 | JUNE | JUNE: I stopped counting. | JUNE smiles, not looking at the phone | PING
 > CAM | L05 | VAN | VAN: Good. | VAN looks into the lens | PING, OUT, LOOP

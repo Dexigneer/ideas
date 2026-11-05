@@ -1,0 +1,163 @@
+#089 1.2 MILLION
+type: A
+emo: eufória, chaos, „toto sa deje?!“
+premise: June video ide virálne počas šéfovej prezentácie. Telefón nepretržite pípa. Celá miestnosť sa otočí.
+clue: na projektore šéfa je graf „ENGAGEMENT +2%“, June video má 1,2 M
+loop: ďalší ping preruší šéfa
+caption: my video hit 1.2M views during my boss's "engagement" presentation 💀🔔
+> W | L11 | MGMT NPC JUNE | MGMT: Our engagement is up TWO percent. | MANAGEMENT presents a slide "ENGAGEMENT +2%" |
+> INS | L11 | — | — | JUNE's phone on the table: notifications flooding the screen | PING, DROP
+> CU | L11 | JUNE | — | JUNE tries to silence the phone, panicking | PING
+> CU | L11 | MGMT | MGMT: Is that a PHONE?! | MANAGEMENT points the clicker | PING
+> W | L11 | NPC | NPC: It's June's video. ONE POINT TWO MILLION. | a clone shows his phone to the room, all clones lean in | OUT
+> CU | L11 | MGMT | MGMT: Million? With an M? | MANAGEMENT's clicker slowly lowers |
+> CU | L11 | JUNE | JUNE: I can… turn it OFF? | JUNE holds up the buzzing phone |
+> CAM | L11 | VAN | VAN: Don't. | VAN, sitting in the back with his mug, looks into the lens | PING, LOOP
+
+#090 GET A REAL JOB
+type: A
+emo: zranenie z nenávisti → obhajoba, láska
+premise: Pod virálnym videom pribúdajú nenávistné komentáre „get a real job“. Mae odpíše.
+clue: Mae odpovedá zo služobného telefónu o 3:07
+loop: príde ďalší hejt a ďalšia sestra sa zastane
+caption: "get a real job" — my sister the nurse replied at 3 AM. read her comment. 🩺
+> INS | L06 | — | — | comments: "get a real job", "lol a planner", "scam" | DROP
+> CU | L06 | JUNE | JUNE: Maybe they're RIGHT. | JUNE in bed in the dark, phone lighting her face |
+> W | L09 | MAE | — | MAE at the nurses' station at 3:07 AM, typing furiously on her phone |
+> INS | L09 | — | MAE(VO): I HAVE a real job. Twelve-hour nights. | MAE's comment appears in the thread |
+> INS | L09 | — | MAE(VO): This planner is why I'm still doing it. | the comment continues | OUT
+> INS | L06 | — | — | MAE's comment: 4,812 likes; replies "same", "nurse here, same" |
+> CU | L06 | JUNE | JUNE: She's DEFENDING me. At work. | JUNE crying, smiling |
+> CAM | L09 | MAE | MAE: Nobody bullies my sister. | MAE looks into the lens | LOOP
+
+#091 OLLIE'S PLANS
+type: A
+emo: nádej, láskavosť
+premise: June učí Ollieho v parku urobiť z jeho plánov digitálny produkt. Ollie píše jedným prstom.
+clue: Ollie si pomenuje produkt „Birdhouse Plans Vol. 1“ – June sa zasmeje (callback na #044)
+loop: kačka si sadne na laptop
+caption: teaching a 52-year-old laid-off accountant to sell his birdhouse plans. he types with one finger. 🐦
+> W | L12 | OLLIE JUNE | — | OLLIE and JUNE on the park bench, an old laptop between them, ducks nearby |
+> CU | L12 | OLLIE | OLLIE: I'll call it "Birdhouse Plans, Volume One". | OLLIE types slowly with one finger | DROP
+> CU | L12 | JUNE | JUNE: What do people GET, Ollie? | JUNE smiles knowingly |
+> CU | L12 | OLLIE | OLLIE: …A birdhouse their grandkids build WITH them. | OLLIE pauses, eyes softening |
+> CU | L12 | JUNE | JUNE: THAT'S the name. | JUNE points | OUT
+> INS | L12 | — | — | the screen: "Build It With Grandpa – 12 easy birdhouse plans" |
+> MCU | L12 | VAN | VAN: He learns fast. | VAN on the next bench, feeding ducks |
+> CAM | L12 | OLLIE | OLLIE: Good teacher. | OLLIE looks into the lens, winks | LOOP
+
+#092 UPSIDE DOWN
+type: A
+emo: roztomilosť, smiech, láskavosť
+premise: Ollie natáča svoje prvé video. Telefón drží hore nohami. Trikrát.
+clue: na treťom pokuse je vo videu aj kačka
+loop: Ollie znova otočí telefón
+caption: Ollie filmed his first video. it took 3 tries. we love him. 🐥
+> W | L12 | OLLIE JUNE | OLLIE: Hello, internet. I'm Ollie. | OLLIE holds his phone at arm's length |
+> INS | L12 | — | — | the phone screen shows OLLIE upside down | DROP
+> CU | L12 | JUNE | JUNE: Ollie, it's UPSIDE down. | JUNE giggles |
+> CU | L12 | OLLIE | OLLIE: Hello, internet. Again. | OLLIE flips the phone |
+> INS | L12 | — | — | now the camera faces the sky |
+> CU | L12 | JUNE | JUNE: That's the SKY, Ollie. | JUNE laughing | OUT
+> W | L12 | OLLIE | OLLIE: Third time lucky. | OLLIE finally films himself; a duck walks into frame next to him |
+> CAM | L12 | OLLIE | OLLIE: Hello, ducks. | OLLIE looks into the lens, delighted | LOOP
+
+#093 SHOW THE REFUNDS
+type: A
+emo: zadosťučinenie – podvodník odhalený
+premise: Rex vyzve Vana na „income-off“ pred kamerou. Van sa opýta to isté, čo v #011.
+clue: na Rexovom notebooku je otvorená stránka „REFUND REQUESTS (412)“
+loop: Rex začne nové live
+caption: guru challenged him to an "income-off" live. he asked one question. (callback to ep. 11)
+> W | L08 | REX VAN | REX: Income-OFF! Live! Show your screen, bro! | REX points his selfie stick at VAN in the garage |
+> CU | L08 | REX | REX: I made SIX figures this month! | REX flashes a screenshot | DROP
+> MCU | L08 | VAN | VAN: Show the refunds. | VAN sips calmly |
+> CU | L08 | REX | REX: Refunds are… PRIVATE. | REX sweats |
+> INS | L08 | — | — | REX's laptop behind him: "REFUND REQUESTS (412)" | OUT
+> W | L08 | NPC | NPC: Four hundred TWELVE?! | clone viewers in the background gasp in sync |
+> CU | L08 | REX | REX: The stream is… LAGGING. | REX ends the live |
+> CAM | L08 | VAN | VAN: Ask every guru. | VAN looks into the lens | LOOP
+
+#094 BATCH SUNDAY
+type: B
+emo: kontrola, pokoj
+edu: Batching: 1 blok v nedeľu = obsah na týždeň. 1) napíš 5 hookov, 2) natoč všetko naraz, 3) naplánuj. Cez týždeň len odpovedáš na komentáre.
+premise: June natáča každý večer po práci a je vyčerpaná. Van jej ukáže jednu nedeľnú „session“.
+clue: na HUD sa kalendár zaplní 7 dňami naraz
+loop: ďalšia nedeľa
+caption: I film a whole week of content in 2 hours on Sunday. here's the flow 🎬
+cta: yes
+> CU | L06 | JUNE | JUNE: I film EVERY night after work. I'm dying. | JUNE collapses on the couch | HUD: LEVEL 4 – BATCHING
+> MCU | L06 | VAN | VAN: One Sunday block. | VAN on video call | DROP
+> INS | L06 | — | VAN(VO): Write five hooks. | a sticky note with five hooks | HUD: STEP 1/3 – 5 HOOKS
+> INS | L06 | — | VAN(VO): Film them all at once. | JUNE filming quickly, changing sweaters | HUD: STEP 2/3 – FILM ALL
+> INS | L06 | — | VAN(VO): Schedule the week. | a calendar fills seven days at once | HUD: STEP 3/3 – SCHEDULE
+> CU | L06 | JUNE | JUNE: And on WEEKNIGHTS? | JUNE | OUT
+> MCU | L06 | VAN | VAN: Reply to comments. Rest. | VAN |
+> CAM | L06 | VAN | VAN: Two hours. Done. | VAN looks into the lens | LOOP
+
+#095 MY MOM WORKED NIGHTS
+type: A
+emo: hlboké dojatie
+premise: June prečíta komentár: niekto kúpil plánovač pre svoju mamu, ktorá celé jeho detstvo pracovala v noci.
+clue: komentár je podpísaný „– her son, 19“
+loop: June otvorí ďalší komentár
+caption: someone bought my planner for his mom. read why. I'm not okay. 🤍
+> W | L07 | JUNE | — | JUNE reading on her phone in the night bus |
+> INS | L07 | — | VOICE(VO): My mom worked nights my whole childhood. | the comment on screen | DROP
+> INS | L07 | — | VOICE(VO): I never saw her at breakfast. | the comment continues |
+> INS | L07 | — | VOICE(VO): I bought her your planner. Her son, nineteen. | the comment ends | OUT
+> CU | L07 | JUNE | — | JUNE presses the phone to her chest, crying |
+> 2S | L07 | VAN JUNE | VAN: Still just a planner? | VAN beside her |
+> CAM | L07 | JUNE | JUNE: It's breakfast. | JUNE looks into the lens | LOOP
+
+#096 THE DM
+type: A
+emo: smiech → súcit – „aj oni chcú von“
+premise: Jeden klonovaný kolega pošle June tajnú správu: „how do I start?“. Potom ďalší. Potom všetci.
+clue: všetky správy sú identické vrátane preklepu
+loop: pípne ďalšia identická správa
+caption: the coworkers who laughed at me are now in my DMs asking "how do I start?" 👀
+> INS | L01 | — | — | JUNE's phone: a DM from "Dave": "hey… how do I start? don't tell anyone" | SFX: notification
+> CU | L01 | JUNE | JUNE: Dave? The one who LAUGHED? | JUNE looks over the cubicle | DROP
+> W | L01 | NPC | — | a clone quickly looks away, whistling |
+> INS | L01 | — | — | another identical DM: "hey… how do I start? dont tell anyone" | SFX: notification
+> INS | L01 | — | — | a third identical DM, then a fourth, then a flood | SFX: notification, OUT
+> W | L01 | NPC | — | every clone in the office is staring at JUNE over their monitors, silently hopeful |
+> CU | L01 | JUNE | JUNE: They ALL want out? | JUNE whispers to VAN |
+> CAM | L01 | VAN | VAN: Everyone does. | VAN looks into the lens | LOOP
+
+#097 OWN YOUR LIST
+type: B
+emo: bezpečie – nestavaj dom na prenajatom pozemku
+edu: Sociálne siete sú prenajatá pôda. E-mailový zoznam je tvoj. Daj ľuďom bezplatnú vec za e-mail – od 1. dňa.
+premise: June konto je na deň pozastavené omylom. Spanikári. Van jej ukáže, čo jej nikto nezoberie.
+clue: na HUD „ACCOUNT: SUSPENDED“ vs „EMAIL LIST: 2,340“
+loop: June pridá do bio odkaz na bezplatný checklist
+caption: my account got suspended for 24 hours by mistake. this is why I'm glad I did this from day 1 📩
+cta: yes
+> INS | L06 | — | — | the phone: "Your account is temporarily suspended" | HUD: LEVEL 4 – OWN YOUR AUDIENCE
+> CU | L06 | JUNE | JUNE: My ACCOUNT. Everything's GONE. | JUNE panics | DROP
+> MCU | L06 | VAN | VAN: What do you own? | VAN on video call |
+> CU | L06 | JUNE | JUNE: …Own? | JUNE |
+> INS | L06 | — | — | her email dashboard: "SUBSCRIBERS: 2,340" | HUD: EMAIL LIST: 2,340 – YOURS
+> MCU | L06 | VAN | VAN: Apps are rented land. | VAN |
+> MCU | L06 | VAN | VAN: Your list is your house. | VAN | OUT
+> CU | L06 | JUNE | JUNE: So I can still SELL? Today? | JUNE |
+> CAM | L06 | VAN | VAN: One email. | VAN looks into the lens | LOOP
+
+#098 THE FLOP
+type: A
+emo: frustrácia, pochybnosť – a nadhľad
+premise: Po virále má ďalšie video 200 zhliadnutí. June si myslí, že to bola náhoda.
+clue: na stene sticky note „1.2M“ a vedľa „200“
+loop: June natočí ďalšie video
+caption: after going viral my next video got 200 views. here's what nobody tells you. 📉
+> INS | L06 | — | — | the stats: "200 views" next to a pinned "1.2M" video | DROP
+> CU | L06 | JUNE | JUNE: It was LUCK. I'm a one-hit wonder. | JUNE throws herself on the bed |
+> MCU | L06 | VAN | VAN: How many have you posted? | VAN on video call |
+> CU | L06 | JUNE | JUNE: Forty-one. | JUNE muffled by a pillow |
+> MCU | L06 | VAN | VAN: Forty flops. One hit. | VAN | OUT
+> CU | L06 | JUNE | JUNE: That's a TERRIBLE ratio. | JUNE |
+> MCU | L06 | VAN | VAN: That's the normal ratio. | VAN |
+> CAM | L06 | VAN | VAN: Post forty more. | VAN looks into the lens | LOOP

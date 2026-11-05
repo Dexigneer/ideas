@@ -1,0 +1,167 @@
+#079 HIS WIFE
+type: A
+emo: prekvapenie, ľudskosť aj v „systéme“
+premise: June čaká v šéfovej kancelárii na vyhadzov. Šéf zavrie dvere a potichu sa opýta, či to funguje. Jeho žena je nočná sestra.
+clue: na stole šéfa je otočená fotka – žena v tyrkysových scrubs
+loop: šéf otvorí dvere a znova kričí „BACK TO WORK“
+caption: I thought I was getting fired. then my boss closed the door and asked me this. 🫢
+> W | L03 | MGMT JUNE | — | JUNE sits stiffly in the manager office; MANAGEMENT closes the blinds | DROP
+> CU | L03 | JUNE | JUNE: I can explain. I only work on it at LUNCH. | JUNE talks fast |
+> CU | L03 | MGMT | MGMT: Sit. | MANAGEMENT's hand gestures to the chair |
+> INS | L03 | — | — | on the desk, a framed photo turned slightly: a tired woman in teal hospital scrubs |
+> CU | L03 | MGMT | MGMT: My wife works nights. Eleven years. | MANAGEMENT's hand rests on the photo frame; for once his voice is quiet | OUT
+> CU | L03 | MGMT | MGMT: Does it… actually WORK? | MANAGEMENT leans forward, hands clasped |
+> CU | L03 | JUNE | JUNE: She'll sleep seven hours. | JUNE stunned |
+> CU | L03 | MGMT | MGMT: Send me the link. And BACK TO WORK. | MANAGEMENT opens the blinds again |
+> CAM | L03 | JUNE | JUNE: Did that happen? | JUNE looks into the lens | LOOP
+
+#080 NOBODY KNOWS IT EXISTS
+type: B
+emo: jasnosť – produkt bez návštevnosti je neviditeľný
+edu: 3 zdroje návštevnosti pre začiatočníka: 1) krátke videá, 2) komunity, kde je tvoja nika, 3) spolupráce. Nemusíš byť všade, stačí 1 hlavný.
+premise: Predaje sa zastavia. Van vysvetlí, že obchod v púšti nikto nenájde.
+clue: na HUD je mapa – obchod v púšti a tri cesty k nemu
+loop: June vyberie jednu cestu
+caption: a great product nobody sees = a store in the desert. build 1 road first 🛣️
+cta: yes
+> CU | L06 | JUNE | JUNE: Sales STOPPED. Is the product bad? | JUNE stares at a flat chart | HUD: LEVEL 4 – TRAFFIC
+> MCU | L06 | VAN | VAN: Is anyone seeing it? | VAN on video call | DROP
+> INS | L06 | — | — | a game-style map: a tiny shop alone in a huge empty desert | HUD: VISITORS: 3
+> MCU | L06 | VAN | VAN: Build roads. Three kinds. | VAN |
+> INS | L06 | — | VAN(VO): Short videos. | a road appears on the map | HUD: ROAD 1/3 – SHORT VIDEO
+> INS | L06 | — | VAN(VO): Communities. | a second road | HUD: ROAD 2/3 – COMMUNITIES
+> INS | L06 | — | VAN(VO): Collabs. | a third road | HUD: ROAD 3/3 – COLLABS
+> CU | L06 | JUNE | JUNE: ALL three? At ONCE? | JUNE panics | OUT
+> CAM | L06 | VAN | VAN: Pick one road. | VAN looks into the lens | LOOP
+
+#081 TWELVE VIEWS
+type: A
+emo: zraniteľnosť, smiech cez slzy
+premise: June zverejní prvé video. Po 24 hodinách má 12 zhliadnutí. Zistí, kto ich spravil.
+clue: jedno zhliadnutie je z jej laptopu – Pivot na klávesnici
+loop: počítadlo prejde z 12 na 13
+caption: my first video got 12 views. 1 was my mom. 1 was my cat. 🫠 post anyway.
+> CU | L06 | JUNE | JUNE: Twenty-four hours… let's see. | JUNE opens the app with closed eyes |
+> INS | L06 | — | — | the video stats: "12 views" | DROP
+> CU | L06 | JUNE | JUNE: TWELVE. | JUNE's face drops |
+> INS | L06 | — | — | the view list: "Mom", "Mae", "Mom", "Mom" |
+> CU | L06 | JUNE | JUNE: Mom watched it FOUR times. | JUNE laughs weakly | OUT
+> INS | L06 | PIVOT | — | PIVOT sitting on the laptop, the video replaying on screen |
+> MCU | L06 | VAN | VAN: Everyone starts at twelve. | VAN on video call |
+> CAM | L06 | VAN | VAN: Post the next. | VAN looks into the lens | LOOP
+
+#082 THE FIRST SECOND
+type: B
+emo: „aha“ – prečo ľudia scrollujú preč
+edu: Hook v prvej sekunde: 1) začni uprostred problému, 2) povedz „you“, 3) konkrétny detail. Žiadne „Hi guys, today I…“.
+premise: June začína videá „Hi guys, so today…“. Van jej ukáže, ako ľudia odchádzajú v prvej sekunde.
+clue: na HUD retenčná krivka padá v 1. sekunde
+loop: June natočí nový začiatok
+caption: you lose them in second one. 3 rules for your first sentence ⏱️
+cta: yes
+> CU | L06 | JUNE | JUNE: Hi guys! So today I wanted to talk about… | JUNE waves at her phone camera | HUD: LEVEL 4 – HOOKS
+> INS | L06 | — | — | a retention graph crashing to 10% after one second | HUD: RETENTION 1S: 10%
+> MCU | L06 | VAN | VAN: They left already. | VAN on video call | DROP
+> MCU | L06 | VAN | VAN: Start inside the problem. | VAN | HUD: RULE 1/3 – MID-PROBLEM
+> MCU | L06 | VAN | VAN: Say "you". | VAN | HUD: RULE 2/3 – SAY YOU
+> MCU | L06 | VAN | VAN: Add one weird detail. | VAN | HUD: RULE 3/3 – SPECIFIC DETAIL
+> CU | L06 | JUNE | JUNE: You ate dinner at 3 AM out of a VENDING machine. | JUNE films again, intense | OUT
+> INS | L06 | — | — | the retention graph stays high | HUD: RETENTION 1S: 78%
+> CAM | L06 | VAN | VAN: Now they stay. | VAN looks into the lens | LOOP
+
+#083 CUT EVERY TWO SECONDS
+type: B
+emo: hravosť – takto drží video pozornosť
+edu: Retencia: 1 myšlienka = 1 záber (~2 s), nový obraz každé 2 s, pointa na konci, žiadne outro.
+premise: June má 60-sekundové video jedným záberom. Van ho „prestrihá“ ako hru.
+clue: tento diel sám strihá každé 2 sekundy (meta)
+loop: posledný záber = prvý záber
+caption: why your videos feel slow: you're not cutting. (this video cuts every 2 seconds 👀)
+cta: yes
+> INS | L06 | — | — | a timeline with one single 60-second clip | HUD: LEVEL 4 – RETENTION
+> CU | L06 | JUNE | JUNE: Nobody watches past five seconds. | JUNE |
+> MCU | L06 | VAN | VAN: One idea. One shot. | VAN on video call | DROP, HUD: 1 IDEA = 1 SHOT
+> INS | L06 | — | — | the timeline gets cut into many 2-second pieces | HUD: NEW IMAGE EVERY 2S
+> MCU | L06 | VAN | VAN: Best line last. | VAN | HUD: PAYOFF AT THE END
+> MCU | L06 | VAN | VAN: Then cut. No outro. | VAN | HUD: NO OUTRO
+> CU | L06 | JUNE | JUNE: Did you notice THIS video cuts every two seconds? | JUNE looks at the viewer, surprised | OUT
+> CAM | L06 | VAN | VAN: You did. | VAN looks into the lens | LOOP
+
+#084 CRINGE
+type: A
+emo: hanba → hrdosť
+premise: Kolegovia nájdu June video a v kuchynke ho nahlas napodobňujú. June chce zmiznúť.
+clue: video na ich telefóne má 31 000 zhliadnutí
+loop: ďalší kolega pustí video nahlas
+caption: my coworkers found my TikTok and reenacted it in the break room 😭 (look at the view count tho)
+> W | L02 | NPC | NPC: "You ate dinner at three AM out of a VENDING machine!" | a clone mimics JUNE's video in a high voice, the others laugh |
+> CU | L02 | JUNE | — | JUNE in the doorway, red-faced, wants to disappear | DROP
+> CU | L02 | JUNE | JUNE: Van. They found my VIDEOS. | JUNE whispers, hiding behind VAN |
+> MCU | L02 | VAN | VAN: Check the views. | VAN nods at the clone's phone |
+> INS | L02 | — | — | the clone's phone: JUNE's video, "31.4K views" | OUT
+> CU | L02 | JUNE | JUNE: Thirty-one THOUSAND? | JUNE's glasses slide down |
+> MCU | L02 | VAN | VAN: They're laughing. Nurses are buying. | VAN |
+> CAM | L02 | VAN | VAN: Cringe pays rent. | VAN looks into the lens | LOOP
+
+#085 NIGHT SHIFT ULTRA
+type: A
+emo: hnev, nespravodlivosť → pokoj
+premise: Rex skopíruje June produkt, nazve ho „Night Shift ULTRA“ a predáva ho za $199.
+clue: na Rexovom produkte je ešte June meno v päte dokumentu
+loop: Rex skopíruje ďalší produkt
+caption: a guru copied my product and charged 10x. then someone noticed the footer. 💀
+> W | L08 | REX | REX: Introducing NIGHT SHIFT ULTRA. Only $199! | REX films himself next to the rental supercar |
+> CU | L06 | JUNE | JUNE: That's MY planner. He STOLE it! | JUNE watches on her laptop, furious | DROP
+> MCU | L06 | VAN | VAN: Zoom in. The footer. | VAN on video call |
+> INS | L06 | — | — | REX's product page; the tiny footer reads "© June – Night Shift OS" |
+> CU | L06 | JUNE | JUNE: He didn't even delete my NAME. | JUNE bursts out laughing | OUT
+> INS | L06 | — | — | comments under REX's video: "this is June's planner lol", "the footer 💀" |
+> MCU | L06 | VAN | VAN: Copies can't care. | VAN |
+> CAM | L06 | VAN | VAN: Keep caring. | VAN looks into the lens | LOOP
+
+#086 ONE IDEA, TEN POSTS
+type: B
+emo: úľava – nemusím stále vymýšľať nové
+edu: Multiplikácia: 1 myšlienka → video, carousel, citát, story, e-mail, otázka do komunity… Jeden nápad, desať formátov.
+premise: June je vyčerpaná z vymýšľania. Van jej ukáže, ako z jednej myšlienky urobiť desať postov.
+clue: HUD počítadlo postov rastie 1 → 10 ako „duplikácia“ v hre
+loop: z desiateho postu vznikne nový nápad
+caption: stop inventing new content every day. turn 1 idea into 10 posts like this ♻️
+cta: yes
+> CU | L06 | JUNE | JUNE: I'm out of IDEAS. I need a new one EVERY day. | JUNE slumps | HUD: LEVEL 4 – MULTIPLY
+> MCU | L06 | VAN | VAN: Best video so far? | VAN on video call | DROP
+> CU | L06 | JUNE | JUNE: The vending machine one. | JUNE | HUD: POSTS: 1
+> INS | L06 | — | VAN(VO): Make it a carousel. | a carousel appears | HUD: POSTS: 2
+> INS | L06 | — | VAN(VO): A quote. A story. An email. | three more formats appear | HUD: POSTS: 5
+> INS | L06 | — | VAN(VO): Ask the comments a question. | five more appear | HUD: POSTS: 10
+> CU | L06 | JUNE | JUNE: One idea… TEN posts? | JUNE | OUT
+> CAM | L06 | VAN | VAN: Remix. Don't reinvent. | VAN looks into the lens | LOOP
+
+#087 NO FACE NEEDED
+type: B
+emo: úľava pre introvertov
+edu: Faceless obsah: ruky + produkt, obrazovka s textom, avatar/postava, hlas cez obraz. Ide o užitočnosť, nie o tvár.
+premise: June sa hanbí ukazovať tvár. Van jej ukáže tri spôsoby, ako tvoriť bez tváre. (Meta: Van sám je avatar.)
+clue: Van sa na konci pozrie do kamery – sám je „faceless“ značka v PS2 avatarovi
+loop: June natočí video len rukami
+caption: you don't need to show your face. (says the guy who's literally a PS2 character) 🎮
+cta: yes
+> CU | L06 | JUNE | JUNE: I HATE my face on camera. | JUNE hides behind her laptop | HUD: LEVEL 4 – FACELESS
+> MCU | L06 | VAN | VAN: Then don't show it. | VAN on video call | DROP
+> INS | L06 | — | VAN(VO): Hands and the product. | JUNE's hands flipping through the printed planner | HUD: OPTION 1/3 – HANDS
+> INS | L06 | — | VAN(VO): Screen and text. | a phone screen recording with big captions | HUD: OPTION 2/3 – SCREEN
+> INS | L06 | — | VAN(VO): Or a character. | a small PS2-style avatar of JUNE on the screen | HUD: OPTION 3/3 – AVATAR
+> CU | L06 | JUNE | JUNE: Does that even WORK? | JUNE | OUT
+> CAM | L06 | VAN | VAN: You tell me. | VAN looks into the lens and raises an eyebrow | LOOP
+
+#088 POST AGAIN
+type: C
+emo: vytrvalosť
+premise: Van na streche, tri vety o tom, prečo sa nevzdávať po slabých videách.
+loop: neón bliká ako počítadlo zhliadnutí
+caption: the video that changes everything is usually the one after you wanted to quit. 📱
+cta: yes
+> W | L05 | VAN | — | VAN on the rooftop, neon billboards flickering like view counters | DROP | @2.4
+> MCU | L05 | VAN | VAN: Twelve views. Post again. | VAN |
+> CU | L05 | VAN | VAN: Two hundred. Post again. | VAN sips |
+> CAM | L05 | VAN | VAN: Then it hits. | VAN looks into the lens | OUT, LOOP
