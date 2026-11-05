@@ -185,6 +185,14 @@ Nobody knows it exists.
 Now you sell.
 ```
 
+## HUD texty (SRT – druhá stopa titulkov, hore v rohu, herné písmo)
+
+```srt
+1
+00:00:17,900 --> 00:00:20,100
+LEVEL 3 – THE SALES ENGINE
+```
+
 ## Popis + hashtagy
 
 ```text

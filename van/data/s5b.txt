@@ -1,0 +1,124 @@
+#115 WHAT IF IT STOPS?
+type: C
+emo: strach z neistoty → pokoj
+premise: June na streche v noci: „Čo ak to prestane?“ Van odpovie tromi vetami.
+loop: June sa nadýchne a pozrie na mesto
+caption: "what if it stops working?" — the answer that calmed me down. 🌃
+cta: yes
+> W | L05 | VAN JUNE | JUNE: What if it all STOPS? | JUNE and VAN at the rooftop railing at night, city neon | DROP
+> MCU | L05 | VAN | VAN: Then you build another. | VAN |
+> CU | L05 | VAN | VAN: You know how now. | VAN looks at her |
+> CAM | L05 | VAN | VAN: Skills don't stop. | VAN looks into the lens | OUT, LOOP
+
+#116 MOM
+type: A
+emo: generačný konflikt, láska, pochopenie
+premise: Mama volá June: „Nevyhadzuj stabilnú prácu.“ June jej povie o Olliem.
+clue: na chladničke je magnetka „STABLE JOB = HAPPY LIFE“ od mamy
+loop: mama zavolá znova: „Send me the link.“
+caption: my mom begged me not to leave my "stable job". then I told her about Ollie. 📞
+> CU | L06 | JUNE | — | JUNE answers the phone in her kitchen; a fridge magnet reads "STABLE JOB = HAPPY LIFE" | SFX: phone ring
+> CU | L06 | JUNE | VOICE(VO): Honey. Don't throw away a STABLE job. | JUNE listens, her mother's worried voice through the phone | DROP
+> CU | L06 | JUNE | JUNE: Mom. Do you remember Ollie? Banana bread Ollie? | JUNE gently |
+> CU | L06 | JUNE | VOICE(VO): Of course. Twenty years there. So STABLE. | JUNE listens |
+> CU | L06 | JUNE | JUNE: Twenty-four. Fired in four minutes. | JUNE quietly | OUT
+> CU | L06 | JUNE | VOICE(VO): …Oh, sweetheart. | a long silence on the line |
+> CU | L06 | JUNE | JUNE: I'm not leaving stable, Mom. | JUNE, tears in her eyes |
+> CAM | L06 | JUNE | JUNE: I'm building it. | JUNE looks into the lens | LOOP
+
+#117 THE LETTER
+type: A
+emo: nervozita, odhodlanie
+premise: June píše výpoveď. Prvá verzia je nahnevaná, druhá sa ospravedlňuje, tretia je pokojná.
+clue: tretia verzia má len tri vety
+loop: Pivot sedí na vytlačenom liste
+caption: writing my resignation letter. version 1 was… not professional. 📝
+> INS | L06 | — | JUNE(VO): Dear Management. You FOUR-MINUTE COWARDS… | an angry letter typed in caps | DROP
+> CU | L06 | JUNE | JUNE: Too much. | JUNE deletes it | SFX: delete
+> INS | L06 | — | JUNE(VO): I'm SO sorry, I feel terrible, please forgive… | an apologetic letter |
+> CU | L06 | JUNE | JUNE: Too little. | JUNE deletes it | SFX: delete
+> MCU | L06 | VAN | VAN: Just the truth. Short. | VAN on video call | OUT
+> INS | L06 | — | JUNE(VO): I'm resigning. Thank you. Two weeks. | a calm three-sentence letter |
+> CU | L06 | JUNE | JUNE: Three sentences? | JUNE |
+> CAM | L06 | VAN | VAN: That's enough. | VAN looks into the lens; PIVOT sits on the printed letter | LOOP
+
+#118 MORE SHELVES
+type: B
+emo: „aha“ – rovnaký produkt, viac miest
+edu: Jeden produkt, viac „políc“: 1) vlastný obchod, 2) marketplace, kde už tvoji zákazníci nakupujú, 3) balíky s partnermi (bundle). Predávaš to isté, len vidí viac ľudí.
+premise: June chce robiť nový produkt. Van jej povie: daj ten istý na viac políc.
+clue: HUD ukazuje jeden produkt klonovaný na tri regály ako v obchode v hre
+loop: June nájde štvrtú policu
+caption: before you build a new product, put the one you have on more shelves 🛍️
+cta: yes
+> CU | L06 | JUNE | JUNE: Should I build a NEW product? | JUNE | HUD: LEVEL 5 – MORE SHELVES
+> MCU | L06 | VAN | VAN: Is the old one everywhere? | VAN on video call | DROP
+> INS | L06 | — | VAN(VO): Your own store. | a game shop shelf with the planner | HUD: SHELF 1/3 – YOUR STORE
+> INS | L06 | — | VAN(VO): Where nurses already shop. | a second shelf in a big marketplace | HUD: SHELF 2/3 – MARKETPLACE
+> INS | L06 | — | VAN(VO): In partner bundles. | a third shelf: a bundle box with other nurse creators | HUD: SHELF 3/3 – BUNDLES
+> CU | L06 | JUNE | JUNE: Same product… THREE times the eyes. | JUNE | OUT
+> CAM | L06 | VAN | VAN: Build less. Place more. | VAN looks into the lens | LOOP
+
+#119 OLLIE'S WATCH
+type: A
+emo: tiché, hlboké uzavretie
+premise: Ollie odloží zlaté hodinky „za 20 rokov vernosti“ do šuplíka. Už nepotrebuje vedieť, koľko je hodín.
+clue: v šuplíku leží aj stará kartička EMPLOYEE s Ollieho fotkou
+loop: šuplík sa zatvorí
+caption: Ollie took off the watch they gave him for 20 years of loyalty. 🕰️
+> W | L10 | OLLIE | — | OLLIE at a small woodworking table set up in the sunny loft, sawdust, birdhouses on the shelves, opening a drawer |
+> INS | L10 | — | — | inside the drawer: his old "EMPLOYEE" badge with a younger photo of himself | DROP
+> CU | L10 | OLLIE | — | OLLIE unclasps the gold watch from his wrist |
+> CU | L10 | OLLIE | OLLIE: Twenty years of loyalty. | OLLIE looks at the watch |
+> 2S | L10 | VAN OLLIE | VAN: Keeping it? | VAN leans in the doorway with his mug | OUT
+> CU | L10 | OLLIE | OLLIE: I don't need the time anymore. | OLLIE places the watch on top of the old badge |
+> INS | L10 | — | — | the drawer slides shut | SFX: drawer closing
+> CAM | L10 | OLLIE | OLLIE: I have it. | OLLIE looks into the lens, bare wrist, smiling | LOOP
+
+#120 TWO WEEKS
+type: A
+emo: triumf, slobodný nádych
+premise: June položí výpoveď šéfovi na stôl. Klonovaní kolegovia za sklom zatajia dych.
+clue: všetci NPC držia v rukách telefóny – nahrávajú
+loop: šéf povie „PIZZA PARTY?“
+caption: I handed in my notice. the whole office was filming through the glass 😭🎬
+> W | L03 | MGMT JUNE | — | JUNE places a single sheet of paper on MANAGEMENT's desk | DROP | @2.4
+> CU | L03 | MGMT | MGMT: What's THIS? | MANAGEMENT picks up the letter |
+> CU | L03 | JUNE | JUNE: Two weeks' notice. | JUNE calm |
+> W | L01 | NPC | — | outside the glass wall, every clone is pressed against the glass, filming on their phones |
+> CU | L03 | MGMT | MGMT: What about a PIZZA PARTY? | MANAGEMENT desperate | OUT
+> CU | L03 | JUNE | JUNE: Keep the slice. | JUNE smiles |
+> W | L01 | NPC | NPC: OHHHHH! | the clones explode in unison behind the glass |
+> CAM | L03 | VAN | VAN: Nice. | VAN, by the door, looks into the lens and raises his mug | LOOP
+
+#121 THE LAST NIGHT BUS
+type: A
+emo: melanchólia premenená na pokoj
+premise: Posledná jazda nočným autobusom z práce. June sa prvýkrát pozerá na mesto, nie do telefónu.
+clue: zastávka OFFICE sa vzďaľuje
+loop: autobus odíde z OFFICE bez nej
+caption: my last night bus home from that job. first time I looked out the window. 🌃
+> W | L07 | JUNE | — | JUNE in the night bus, phone in her pocket, looking out at the neon city | DROP
+> 2S | L07 | VAN JUNE | VAN: Last ride? | VAN sits beside her |
+> CU | L07 | JUNE | JUNE: Three years on this bus. I never LOOKED outside. | JUNE |
+> INS | L07 | — | — | through the window: the city lights, a bridge, the river reflecting neon |
+> CU | L07 | JUNE | JUNE: It's beautiful. | JUNE whispers | OUT
+> MCU | L07 | VAN | VAN: Always was. | VAN |
+> INS | L07 | — | — | the stop sign "OFFICE" slides away behind the bus |
+> CAM | L07 | JUNE | JUNE: Bye, Office. | JUNE looks into the lens | LOOP
+
+#122 THE NEW HIRE
+type: A
+emo: zrkadlo – June vidí samu seba
+premise: June zaučuje svojho nástupcu. Je nervózny, prepracovaný od prvého dňa a pýta sa, či je to tu fajn.
+clue: nováčik si dá na zápästie lacné digitálne hodinky – rovnaké ako June mala
+loop: nováčik sa pozrie na hodiny – 4:59
+caption: training my replacement. he asked "is it nice here?" and I saw myself 3 years ago. 🪞
+> W | L01 | JUNE KID | KID: Hi! I'm the new— I'm your REPLACEMENT. | the NEW HIRE stands at JUNE's desk clutching an onboarding folder |
+> CU | L01 | JUNE | — | JUNE looks at him; he wears the same cheap digital watch she used to wear | DROP
+> CU | L01 | KID | KID: Is it… nice here? | KID whispers |
+> CU | L01 | JUNE | JUNE: There's a pizza party. Sometimes. | JUNE, kind but honest |
+> W | L01 | MGMT KID | MGMT: New guy! You'll ALSO take June's accounts. And Oliver's. | MANAGEMENT drops two boxes on him | OUT
+> CU | L01 | KID | KID: Is that… normal? | KID looks at JUNE, scared |
+> MCU | L01 | VAN | — | VAN watches from his empty desk, then looks at JUNE |
+> CAM | L01 | JUNE | JUNE: It was. | JUNE looks into the lens | LOOP

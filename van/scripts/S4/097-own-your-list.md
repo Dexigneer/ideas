@@ -196,6 +196,18 @@ So I can still SELL? Today?
 One email.
 ```
 
+## HUD texty (SRT – druhá stopa titulkov, hore v rohu, herné písmo)
+
+```srt
+1
+00:00:00,000 --> 00:00:01,600
+LEVEL 4 – OWN YOUR AUDIENCE
+
+2
+00:00:07,900 --> 00:00:09,500
+EMAIL LIST: 2
+```
+
 ## Popis + hashtagy
 
 ```text

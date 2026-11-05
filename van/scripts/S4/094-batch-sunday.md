@@ -183,6 +183,26 @@ Reply to comments. Rest.
 Two hours. Done.
 ```
 
+## HUD texty (SRT – druhá stopa titulkov, hore v rohu, herné písmo)
+
+```srt
+1
+00:00:00,000 --> 00:00:03,400
+LEVEL 4 – BATCHING
+
+2
+00:00:05,600 --> 00:00:07,800
+STEP 1/3 – 5 HOOKS
+
+3
+00:00:07,800 --> 00:00:11,000
+STEP 2/3 – FILM ALL
+
+4
+00:00:11,000 --> 00:00:13,200
+STEP 3/3 – SCHEDULE
+```
+
 ## Popis + hashtagy
 
 ```text

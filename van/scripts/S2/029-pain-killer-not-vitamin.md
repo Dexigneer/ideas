@@ -186,6 +186,26 @@ I'd pay for that TONIGHT.
 Now it's medicine.
 ```
 
+## HUD texty (SRT – druhá stopa titulkov, hore v rohu, herné písmo)
+
+```srt
+1
+00:00:00,000 --> 00:00:02,900
+LEVEL 2 – PAIN-KILLERS
+
+2
+00:00:05,600 --> 00:00:07,800
+VITAMIN = NICE TO HAVE
+
+3
+00:00:07,800 --> 00:00:11,200
+PAIN-KILLER = HURTS TODAY
+
+4
+00:00:13,400 --> 00:00:16,000
+3 PAINS – 1 SOLUTION
+```
+
 ## Popis + hashtagy
 
 ```text

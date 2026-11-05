@@ -183,6 +183,30 @@ One idea… TEN posts?
 Remix. Don't reinvent.
 ```
 
+## HUD texty (SRT – druhá stopa titulkov, hore v rohu, herné písmo)
+
+```srt
+1
+00:00:00,000 --> 00:00:03,400
+LEVEL 4 – MULTIPLY
+
+2
+00:00:06,100 --> 00:00:08,300
+POSTS: 1
+
+3
+00:00:08,300 --> 00:00:11,000
+POSTS: 2
+
+4
+00:00:11,000 --> 00:00:14,400
+POSTS: 5
+
+5
+00:00:14,400 --> 00:00:17,600
+POSTS: 10
+```
+
 ## Popis + hashtagy
 
 ```text

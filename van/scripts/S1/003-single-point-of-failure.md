@@ -243,6 +243,30 @@ Then what's safe?!
 Many doors.
 ```
 
+## HUD texty (SRT – druhá stopa titulkov, hore v rohu, herné písmo)
+
+```srt
+1
+00:00:00,000 --> 00:00:02,900
+LEVEL 1 – SYSTEM OVERRIDE
+
+2
+00:00:05,100 --> 00:00:06,500
+WEAK POINT 1/3 – ONE BOSS
+
+3
+00:00:08,700 --> 00:00:10,100
+WEAK POINT 2/3 – ONE PAYCHECK
+
+4
+00:00:13,300 --> 00:00:14,900
+WEAK POINT 3/3 – ONE DECISION
+
+5
+00:00:23,300 --> 00:00:25,100
+OBJECTIVE – BUILD A SECOND DOOR
+```
+
 ## Popis + hashtagy
 
 ```text

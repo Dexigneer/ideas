@@ -180,6 +180,26 @@ She said YES.
 Ask more.
 ```
 
+## HUD texty (SRT – druhá stopa titulkov, hore v rohu, herné písmo)
+
+```srt
+1
+00:00:00,000 --> 00:00:03,400
+LEVEL 4 – COLLABS
+
+2
+00:00:03,400 --> 00:00:06,100
+STEP 1/3 – SAME AUDIENCE
+
+3
+00:00:06,100 --> 00:00:07,900
+STEP 2/3 – GIVE FIRST
+
+4
+00:00:11,200 --> 00:00:13,400
+STEP 3/3 – SHORT DM
+```
+
 ## Popis + hashtagy
 
 ```text

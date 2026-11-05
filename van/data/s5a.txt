@@ -1,0 +1,165 @@
+#105 QUIT TOMORROW?
+type: A
+emo: túžba vs. rozum, napätie
+premise: June chce dať výpoveď hneď ráno. Van ju zastaví jednou otázkou.
+clue: na stole leží výpoveď napísaná na servítke
+loop: June servítku zloží a dá do vrecka
+caption: my product matched my salary for ONE month. I wanted to quit the next morning. he stopped me. ✋
+> W | L02 | JUNE VAN | JUNE: I'm quitting. TOMORROW. Nine AM. | JUNE slams a napkin with "I QUIT" written on it onto the break room table |
+> MCU | L02 | VAN | VAN: One good month? | VAN sips | DROP
+> CU | L02 | JUNE | JUNE: It matched my SALARY. | JUNE |
+> MCU | L02 | VAN | VAN: Do it three months. | VAN holds up three fingers |
+> CU | L02 | JUNE | JUNE: THREE?! I can't stand this place three more DAYS. | JUNE | OUT
+> MCU | L02 | VAN | VAN: Leave once. Never come back. | VAN calm |
+> CU | L02 | JUNE | JUNE: …You came back. | JUNE squints |
+> CAM | L02 | VAN | VAN: As a visitor. | VAN looks into the lens, taps his badge | LOOP
+
+#106 TEN DOLLARS A DAY
+type: B
+emo: odvaha testovať, bez hazardu
+edu: Platená reklama bezpečne: 1) začni s malým denným rozpočtom, 2) testuj 3 kreatívy (hooky z organiky, ktoré už fungovali), 3) vypni porazených, škáluj víťaza.
+premise: June chce minúť $1 000 na reklamu naraz. Van ju naučí testovať po troške.
+clue: na HUD tri „kreatívy“ ako postavy v hre – dve padnú, jedna prežije
+loop: víťaz dostane ďalší deň rozpočtu
+caption: don't throw $1000 at ads. do this with $10/day first. 🎯
+cta: yes
+> CU | L06 | JUNE | JUNE: A THOUSAND dollars on ads. Let's GO. | JUNE hovers over a "Boost" button | HUD: LEVEL 5 – PAID ADS
+> MCU | L06 | VAN | VAN: Ten a day. First. | VAN on video call | DROP, HUD: STEP 1/3 – SMALL BUDGET
+> MCU | L06 | VAN | VAN: Test three hooks that already worked. | VAN | HUD: STEP 2/3 – 3 PROVEN HOOKS
+> INS | L06 | — | — | three ad cards as game characters: two lose health and fall, one keeps glowing |
+> MCU | L06 | VAN | VAN: Kill losers. Feed the winner. | VAN | HUD: STEP 3/3 – SCALE THE WINNER
+> CU | L06 | JUNE | JUNE: So ads don't MAKE a winner… | JUNE | OUT
+> CAM | L06 | VAN | VAN: They amplify one. | VAN looks into the lens | LOOP
+
+#107 TWO HUNDRED DOLLARS GONE
+type: A
+emo: bolesť z chyby → lekcia
+premise: June nepočúvla a minula $200 na reklamu s novým, netestovaným videom. Nula predajov.
+clue: reklamné video je to, ktoré malo organicky 200 zhliadnutí (#098)
+loop: June klikne „duplicate winning ad“
+caption: I spent $200 on ads and made $0. the mistake was obvious in hindsight 🔥💸
+> INS | L06 | — | — | the ads dashboard: "SPENT: $200 – SALES: 0" | SFX: error beep
+> CU | L06 | JUNE | JUNE: Two HUNDRED dollars. ZERO sales. | JUNE stares in horror | DROP
+> MCU | L06 | VAN | VAN: Which video did you use? | VAN on video call |
+> CU | L06 | JUNE | JUNE: The new one. I LIKED it. | JUNE |
+> MCU | L06 | VAN | VAN: How did it do organically? | VAN |
+> CU | L06 | JUNE | JUNE: …Two hundred views. | JUNE closes her eyes | OUT
+> MCU | L06 | VAN | VAN: Ads amplify. Even flops. | VAN |
+> CAM | L06 | VAN | VAN: Expensive lesson. Cheap now. | VAN looks into the lens | LOOP
+
+#108 THE LADDER
+type: B
+emo: vízia – ako rásť bez nových zákazníkov
+edu: Ascension ladder: bezplatná vec → lacný produkt → väčší balík → prémium (napr. komunita). Každý krok rieši ďalšiu bolesť toho istého človeka.
+premise: Van nakreslí June rebrík. Jej zákazníčky sa pýtajú „čo ďalej?“ – a ona nemá čo ponúknuť.
+clue: rebrík na tabuli vedie k dverám s nápisom EXIT
+loop: June pridá ďalšiu priečku
+caption: your customers are asking "what's next?" and you have nothing to offer. build the ladder 🪜
+cta: yes
+> CU | L06 | JUNE | JUNE: Buyers keep asking "what's NEXT?" | JUNE reads emails | HUD: LEVEL 5 – ASCENSION LADDER
+> MCU | L11 | VAN | VAN: Build a ladder. | VAN at the whiteboard drawing steps | DROP
+> INS | L11 | — | VAN(VO): Free checklist. | step one on the whiteboard | HUD: RUNG 1 – FREE
+> INS | L11 | — | VAN(VO): The planner. | step two | HUD: RUNG 2 – $29
+> INS | L11 | — | VAN(VO): A bigger kit. | step three | HUD: RUNG 3 – BUNDLE
+> INS | L11 | — | VAN(VO): A community. | step four, leading to a drawn door with an EXIT sign | HUD: RUNG 4 – PREMIUM
+> CU | L11 | JUNE | JUNE: Same person. Next PAIN. | JUNE | OUT
+> CAM | L11 | VAN | VAN: Climb with them. | VAN looks into the lens | LOOP
+
+#109 PARTNERS
+type: A
+emo: sesterská hrdosť, spolupráca
+premise: June ponúkne Mae, nech spolu vytvoria väčší balík pre nové sestry. Mae ako odborníčka, June ako systém.
+clue: na papieri sú dve mená: „June & Mae“
+loop: Mae prepíše poradie mien
+caption: I asked my nurse sister to build the next product with me. her answer 🥹
+> W | L09 | MAE JUNE | JUNE: Mae. Build the next one WITH me. | JUNE visits MAE at the nurses' station at night, holding two coffees |
+> CU | L09 | MAE | MAE: Me? I'm just a nurse. | MAE laughs | DROP
+> CU | L09 | JUNE | JUNE: You know what new grads FEAR. I know how to build it. | JUNE |
+> INS | L09 | — | — | a paper: "NEW GRAD SURVIVAL KIT – by June & Mae" |
+> CU | L09 | MAE | MAE: Half of everything? | MAE raises an eyebrow | OUT
+> CU | L09 | JUNE | JUNE: HALF. | JUNE nods firmly |
+> CU | L09 | MAE | MAE: Then it's "Mae and June". | MAE grabs the pen and swaps the names, grinning |
+> CAM | L09 | JUNE | JUNE: Deal. | JUNE looks into the lens, laughing | LOOP
+
+#110 OLLIE'S FIRST PING
+type: A
+emo: najväčšie dojatie sezóny
+premise: Ollie sedí v parku. Telefón pípne. Prvý predaj jeho plánov. Kupujúca pošle fotku dieťaťa s búdkou.
+clue: zvuk pingu je ten istý ako Vanov a June
+loop: ping znova
+caption: Ollie got laid off after 24 years. today he got his first sale. 🐦🔔 (we're not crying, you are)
+> W | L12 | OLLIE | — | OLLIE on his park bench feeding ducks, phone beside him |
+> INS | L12 | — | — | the phone lights up: "NEW SALE – Build It With Grandpa – $15" | PING, DROP
+> CU | L12 | OLLIE | OLLIE: …June? What does this MEAN? | OLLIE calls JUNE, confused |
+> CU | L01 | JUNE | JUNE: Ollie. Someone BOUGHT your plans. | JUNE at her desk, standing up |
+> INS | L12 | — | — | a message with a photo: a little girl and her grandpa holding a finished birdhouse | OUT
+> CU | L12 | OLLIE | — | OLLIE takes off his glasses, tears running into his moustache |
+> 2S | L12 | VAN OLLIE | VAN: Twenty-four years. | VAN sits down next to him |
+> CAM | L12 | OLLIE | OLLIE: And one birdhouse. | OLLIE laughs through tears into the lens | PING, LOOP
+
+#111 THE RUNWAY
+type: B
+emo: bezpečie, zodpovednosť
+edu: Bezpečný odchod: 1) 3+ mesiace stabilných predajov, 2) rezerva na 6 mesiacov výdavkov, 3) systém, ktorý beží bez teba. Až potom výpoveď.
+premise: June sa pýta, kedy je „dosť“. Van jej dá tri podmienky ako checklist pred štartom lietadla.
+clue: na HUD kontrolky pred vzletom sa rozsvietia zelenou postupne
+loop: posledná kontrolka bliká žlto
+caption: don't quit your job until these 3 lights are green. (pre-flight checklist) ✈️
+cta: yes
+> CU | L05 | JUNE | JUNE: How do I KNOW it's time? | JUNE on the rooftop with VAN | HUD: LEVEL 5 – THE RUNWAY
+> MCU | L05 | VAN | VAN: Pre-flight check. | VAN | DROP
+> MCU | L05 | VAN | VAN: Three steady months of sales. | VAN | HUD: CHECK 1/3 – 3 STEADY MONTHS ✅
+> MCU | L05 | VAN | VAN: Six months saved. | VAN | HUD: CHECK 2/3 – 6 MONTHS SAVED ✅
+> MCU | L05 | VAN | VAN: Systems that run without you. | VAN | HUD: CHECK 3/3 – SYSTEMS ⚠️
+> CU | L05 | JUNE | JUNE: Two green. One yellow. | JUNE | OUT
+> CAM | L05 | VAN | VAN: Almost cleared. | VAN looks into the lens | LOOP
+
+#112 THE PROMOTION
+type: A
+emo: pokušenie, váhanie
+premise: Šéf zrazu ponúkne June povýšenie na „Senior Operations Lead“. Vlastná kancelária, +8 %.
+clue: na menovke kancelárie je ešte prelepené meno „OLIVER“
+loop: šéf pridá ďalšie percento
+caption: the moment you're ready to leave, they suddenly offer you a promotion. every time. 🪤
+> W | L03 | MGMT JUNE | MGMT: June. Sit. I have GREAT news. | MANAGEMENT gestures to the chair, a box of donuts on the desk |
+> CU | L03 | MGMT | MGMT: Senior Operations LEAD. Your own OFFICE. | MANAGEMENT slides a new nameplate across the desk | DROP
+> CU | L03 | JUNE | JUNE: An office? | JUNE surprised, tempted |
+> CU | L03 | MGMT | MGMT: Eight percent RAISE. | MANAGEMENT taps the paper |
+> INS | L03 | — | — | the office door nameplate: "JUNE" stuck over an older nameplate that still shows "OLIVER" | OUT
+> CU | L03 | JUNE | JUNE: …This was Ollie's office. | JUNE quietly |
+> CU | L03 | MGMT | MGMT: He won't be needing it. | MANAGEMENT laughs |
+> CAM | L03 | JUNE | JUNE: Neither will I. | JUNE looks into the lens | LOOP
+
+#113 WE'RE A FAMILY
+type: A
+emo: zadosťučinenie, oslobodenie
+premise: Šéf zvýši ponuku a použije „sme rodina“. June mu odpovie Vanovou vetou z #020.
+clue: na stene visí poster „TEAMWORK“ ešte s Ollieho fotkou
+loop: šéf znova povie „we're a FAMILY“
+caption: "we're a family" — then why do families do 4 minute layoff calls? 🙂
+> CU | L03 | MGMT | MGMT: Twelve percent. FINAL offer. | MANAGEMENT writes a new number |
+> CU | L03 | JUNE | JUNE: No, thank you. | JUNE calm, sitting straight | DROP
+> CU | L03 | MGMT | MGMT: June. We're a FAMILY here. | MANAGEMENT puts a hand on his chest |
+> INS | L03 | — | — | the "TEAMWORK" poster on the wall still shows OLLIE smiling in the group photo |
+> CU | L03 | JUNE | JUNE: Ollie was family. | JUNE | OUT
+> CU | L03 | MGMT | MGMT: That was a BUSINESS decision. | MANAGEMENT |
+> CU | L03 | JUNE | JUNE: Exactly. | JUNE stands up |
+> CAM | L03 | JUNE | JUNE: So is this. | JUNE looks into the lens | LOOP
+
+#114 YOUR AI TEAM
+type: B
+emo: úľava – nemusím všetko robiť sama
+edu: Škálovanie s AI: vlastné Claude Skills ako tím – 1) odpovede na otázky zákazníkov, 2) návrhy obsahu podľa tvojho štýlu, 3) nápady a výskum nových produktov. Ty schvaľuješ.
+premise: June odpovedá na 100 e-mailov denne. Van jej ukáže svoj „AI tím“.
+clue: na HUD sa objavia tri „party members“ ako v RPG
+loop: June pridá štvrtého člena tímu
+caption: I was answering 100 emails a day alone. then I built a team that never sleeps 🤖 (you still approve everything)
+cta: yes
+> W | L06 | JUNE | JUNE: One HUNDRED emails a day. I can't scale ME. | JUNE buried in laptop windows | HUD: LEVEL 5 – AI TEAM
+> MCU | L06 | VAN | VAN: Then don't. Build a party. | VAN on video call | DROP
+> INS | L06 | — | VAN(VO): One answers customer questions. | an RPG-style party member card "SUPPORT" appears | HUD: MEMBER 1/3 – SUPPORT
+> INS | L06 | — | VAN(VO): One drafts content in your voice. | card "CONTENT" | HUD: MEMBER 2/3 – CONTENT
+> INS | L06 | — | VAN(VO): One researches the next product. | card "RESEARCH" | HUD: MEMBER 3/3 – RESEARCH
+> CU | L06 | JUNE | JUNE: And I just… APPROVE? | JUNE | OUT
+> MCU | L06 | VAN | VAN: You lead. They draft. | VAN |
+> CAM | L06 | VAN | VAN: Party assembled. | VAN looks into the lens | LOOP

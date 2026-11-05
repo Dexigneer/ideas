@@ -221,6 +221,30 @@ Mae's shifts. I built her a sleep plan.
 That's a product.
 ```
 
+## HUD texty (SRT – druhá stopa titulkov, hore v rohu, herné písmo)
+
+```srt
+1
+00:00:00,000 --> 00:00:03,300
+LEVEL 1 – FIND YOUR EDGE
+
+2
+00:00:06,000 --> 00:00:09,400
+1/3 WHAT PEOPLE ASK
+
+3
+00:00:12,000 --> 00:00:15,400
+2/3 EASY FOR YOU
+
+4
+00:00:18,000 --> 00:00:21,200
+3/3 ALREADY SOLVED
+
+5
+00:00:26,200 --> 00:00:28,400
+SKILL FOUND – ORGANIZING
+```
+
 ## Popis + hashtagy
 
 ```text

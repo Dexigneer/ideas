@@ -176,6 +176,14 @@ So?
 Teach me.
 ```
 
+## HUD texty (SRT – druhá stopa titulkov, hore v rohu, herné písmo)
+
+```srt
+1
+00:00:13,400 --> 00:00:14,900
+LEVEL 1 COMPLETE – LEVEL 2 UNLOCKED
+```
+
 ## Popis + hashtagy
 
 ```text

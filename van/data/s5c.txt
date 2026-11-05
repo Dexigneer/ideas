@@ -1,0 +1,126 @@
+#123 THE STICKY NOTES
+type: A
+emo: nostalgia, odovzdanie štafety
+premise: June čistí stôl. Z celej steny lepiacich papierikov nechá nováčikovi jeden.
+clue: na papieriku je „ASK ME ANYTHING – J.“ a telefónne číslo
+loop: nováčik si papierik nalepí na monitor
+caption: cleared my desk after 3 years. left one sticky note for the new guy. 📝
+> W | L01 | JUNE | — | JUNE peels color-coded sticky notes off her cubicle wall into a small box | DROP
+> INS | L01 | — | — | an old sticky note: "MAE – SLEEP 1PM, EAT 2AM" in faded ink |
+> CU | L01 | JUNE | JUNE: This is where it STARTED. | JUNE smiles at the note |
+> MCU | L01 | KID | KID: Can I ask you something? Later? | the NEW HIRE nervously watches from the next desk |
+> INS | L01 | — | — | JUNE writes a new sticky note: "ASK ME ANYTHING – J." with a phone number | OUT
+> CU | L01 | JUNE | JUNE: Anytime. Really. | JUNE sticks it on his monitor |
+> MCU | L01 | VAN | — | VAN watches from his old desk, quietly proud |
+> CAM | L01 | VAN | VAN: Pass it on. | VAN looks into the lens | LOOP
+
+#124 THE SCALING CHECKLIST
+type: B
+emo: jasnosť – čo robiť po odchode
+edu: Po odchode z 9-5 kontroluj každý mesiac 3 veci: 1) čísla (predaje, náklady, rezerva), 2) systém (čo beží bez teba), 3) ďalší krok na rebríku. Odchod nie je koniec, je to začiatok práce na sebe.
+premise: Posledný večer pred odchodom. Van dá June posledný checklist.
+clue: HUD vyzerá ako záverečný „quest log“ hry
+loop: June zaškrtne prvú položku
+caption: the 3-item checklist I'll check every month after leaving my 9-5 ✅
+cta: yes
+> CU | L05 | JUNE | JUNE: Tomorrow I'm free. Then what? | JUNE on the rooftop | HUD: LEVEL 5 – FINAL CHECKLIST
+> MCU | L05 | VAN | VAN: Three checks. Every month. | VAN | DROP
+> MCU | L05 | VAN | VAN: Your numbers. | VAN | HUD: CHECK 1/3 – NUMBERS
+> MCU | L05 | VAN | VAN: Your systems. | VAN | HUD: CHECK 2/3 – SYSTEMS
+> MCU | L05 | VAN | VAN: Your next rung. | VAN | HUD: CHECK 3/3 – NEXT RUNG
+> CU | L05 | JUNE | JUNE: That's it? | JUNE | OUT
+> MCU | L05 | VAN | VAN: And rest. Seriously. | VAN | HUD: BONUS – REST
+> CAM | L05 | VAN | VAN: Freedom needs maintenance. | VAN looks into the lens | LOOP
+
+#125 BEST, DAVE
+type: A
+emo: smiech so slzami
+premise: Kolegovia dajú June rozlúčkovú pohľadnicu. Všetky podpisy sú „Best, Dave“. Až na jeden.
+clue: posledný podpis je ručne: „how do I start? – Dave“
+loop: ďalší Dave pripíše podpis
+caption: my farewell card from the office. every signature is "Best, Dave." except one. 💌
+> W | L02 | NPC JUNE | NPC: We'll MISS you, June! | clones hand JUNE a big farewell card in the break room |
+> INS | L02 | — | — | the card: forty identical signatures "Best, Dave" | DROP
+> CU | L02 | JUNE | JUNE: You're ALL Dave? | JUNE laughs |
+> W | L02 | NPC | NPC: We're ALL Dave. | the clones answer in unison |
+> INS | L02 | — | — | at the bottom, one tiny handwritten line: "how do I start? – Dave" | OUT
+> CU | L02 | JUNE | — | JUNE looks up; one clone quietly nods at her, hopeful |
+> CU | L02 | JUNE | JUNE: Level one, Dave. | JUNE whispers to him |
+> CAM | L02 | VAN | VAN: Another one. | VAN looks into the lens, smiling | LOOP
+
+#126 THROUGH THE EXIT
+type: A
+emo: oslobodenie, husia koža
+premise: Posledný deň. June neodíde cez lobby a turnikety. Odíde cez dvere so zelenou ceduľou EXIT, ktorá bola v každom diele.
+clue: ceduľa EXIT z každého dielu – teraz konečne cez ňu niekto prejde
+loop: dvere sa za ňou zavrú, ceduľa zabliká
+caption: 120+ episodes. that green EXIT sign was in every single one. today she walked through it. 🟩🏃
+> W | L01 | JUNE NPC | — | JUNE walks through the office with a small box, clones stand up from their desks one by one |
+> INS | L01 | JUNE | — | JUNE puts her blue "EMPLOYEE" badge on her empty desk | DROP
+> CU | L01 | JUNE | — | JUNE stops in front of the stairwell door under the glowing green EXIT sign |
+> MCU | L01 | VAN | VAN: Not the lobby? | VAN behind her with his mug |
+> CU | L01 | JUNE | JUNE: It was here the WHOLE time. | JUNE looks up at the sign | OUT
+> W | L01 | JUNE | — | JUNE pushes the door open; warm golden sunlight floods into the grey office |
+> INS | L01 | — | — | the wall clock, stuck at 4:59 since episode one, finally ticks to 5:00 | SFX: clock tick
+> CAM | L01 | JUNE | JUNE: Bye. | JUNE turns back, looks into the lens and steps into the light | LOOP
+
+#127 TUESDAY, AGAIN
+type: C
+emo: pokoj – sloboda už nie je zakázaná
+premise: June v parku v utorok o 10:30. Tentoraz bez viny. Bez hodiniek.
+loop: kačky prepláva cez obraz
+caption: tuesday, 10:30 am. no guilt this time. 🌳
+cta: yes
+> W | L12 | JUNE | — | JUNE on the park bench on a sunny Tuesday, a coffee, a notebook, no watch | DROP | @2.6
+> CU | L12 | JUNE | JUNE: No watch. No guilt. | JUNE breathes in the sun |
+> INS | L12 | — | — | ducks gliding across the golden pond |
+> CAM | L12 | JUNE | JUNE: Just Tuesday. | JUNE looks into the lens | OUT, LOOP
+
+#128 VISITOR
+type: A
+emo: kruh sa uzatvára, hrdosť
+premise: June sa vráti do kancelárie navštíviť Ollieho bývalý tím. Recepcia nemá návštevnícke kartičky. Van jej podá jednu.
+clue: na zadnej strane jej kartičky je napísané „V.“
+loop: callback na diel #001 a #012
+caption: she came back to the office. as a VISITOR. (episode 1 makes sense now 🥲)
+> W | L04 | JUNE NPC | JUNE: Hi! I'm here to visit. | JUNE at the reception desk, relaxed, in her own clothes |
+> CU | L04 | NPC | NPC: We don't PRINT visitor badges. | the clone receptionist shakes his head robotically | DROP
+> CU | L04 | JUNE | JUNE: I've heard that before. | JUNE smiles |
+> MCU | L04 | VAN JUNE | VAN: Here. | VAN appears and hands her a white badge on a green lanyard |
+> INS | L04 | — | — | the badge reads "VISITOR" | OUT
+> INS | L04 | — | — | JUNE flips it; on the back a handwritten letter "V." |
+> CU | L04 | JUNE | JUNE: You MADE this? | JUNE, eyes wet |
+> CAM | L04 | VAN | VAN: Someone made mine. | VAN looks into the lens | LOOP
+
+#129 O.
+type: A
+emo: najhlbšie dojatie – odhalenie tajomstva
+premise: V parku June konečne zistí, kto napísal „O.“ na Vanovu kartičku. Bol to Ollie, v posledný Vanov deň vo firme.
+clue: Ollie má rovnaké pero, aké použil na kartičku (vyrezávané drevo)
+loop: Ollie podá Vanovi banánový chlebík
+caption: "who's O.?" — we asked in episode 12. here's the answer. 🥹 (Ollie stayed so Van could leave)
+> W | L12 | VAN JUNE OLLIE | JUNE: Van. Who's "O."? | JUNE holds up VAN's badge on the park bench; OLLIE carves wood next to them |
+> CU | L12 | OLLIE | OLLIE: Me, sweetheart. | OLLIE doesn't look up from carving | DROP
+> CU | L12 | JUNE | JUNE: YOU made his badge? | JUNE turns, shocked |
+> CU | L12 | OLLIE | OLLIE: His last day. I wrote "come visit". | OLLIE smiles at VAN |
+> CU | L12 | JUNE | JUNE: Why didn't YOU leave too? | JUNE softly | OUT
+> CU | L12 | OLLIE | OLLIE: I thought somebody had to stay. | OLLIE's eyes glisten |
+> MCU | L12 | VAN | VAN: So I came back. | VAN quietly |
+> CU | L12 | OLLIE | OLLIE: For me? | OLLIE stops carving |
+> CAM | L12 | VAN | VAN: Every visit. | VAN looks into the lens | LOOP
+
+#130 LEVEL ONE
+type: A
+emo: kruh sa uzatvára – nádej pre ďalšiu „June“, finále série
+premise: 4:59. June prišla na návštevu. Nováčik sedí za jej starým stolom a plače. Opýta sa, ako sa dostala von. June odpovie ako kedysi Van.
+clue: nováčik má na monitore June papierik „ASK ME ANYTHING – J.“
+loop: dokonalý loop na #001 – hodiny 4:59, nový začiatok
+caption: the finale. 4:59 pm. a new "June" at the old desk. 🎮 (start again from episode 1)
+> W | L01 | KID | — | the NEW HIRE at JUNE's old desk at 4:59, head in his hands, boxes of folders everywhere |
+> MCU | L01 | JUNE KID | JUNE: Rough day? | JUNE leans on the cubicle wall wearing her VISITOR badge, holding a white mug | DROP
+> CU | L01 | KID | KID: How did you get OUT? | the NEW HIRE looks up, eyes red |
+> INS | L01 | — | — | JUNE's sticky note "ASK ME ANYTHING – J." still on his monitor |
+> CU | L01 | JUNE | JUNE: What do people ask you for? | JUNE sits on the edge of his desk, calm | OUT
+> CU | L01 | KID | KID: …Spreadsheets? | KID sniffles |
+> W | L01 | VAN | — | VAN in the stairwell doorway under the green EXIT sign, smiles, turns, leaves |
+> CAM | L01 | JUNE | JUNE: Level one. | JUNE looks into the lens, slow blink, tiny smile | PING, LOOP

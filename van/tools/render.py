@@ -226,6 +226,8 @@ def validate(ep):
         sp = sc["speaker"].replace("(VO)", "").strip()
         if sp and sp not in CHARS:
             warns.append(f"scene {i}: unknown speaker {sp}")
+        if sp and "(VO)" not in sc["speaker"] and sp not in ("PA",) and sp not in sc["chars"]:
+            warns.append(f"scene {i}: speaker {sp} not in frame (use {sp}(VO))")
         if sp == "VAN":
             if "!" in sc["text"]:
                 warns.append(f"scene {i}: VAN uses '!'")
@@ -367,7 +369,15 @@ def render(ep, prev, nxt):
             n += 1
     if L[-1] == "":
         L.pop()
-    L += ["```", "", "## Popis + hashtagy", "", "```text",
+    L += ["```", ""]
+    huds = [(c[4:].strip(), a, b) for s, (a, b) in zip(ep["scenes"], times) for c in s["cues"] if c.startswith("HUD:")]
+    if huds:
+        L += ["## HUD texty (SRT – druhá stopa titulkov, hore v rohu, herné písmo)", "", "```srt"]
+        for k, (h, a, b) in enumerate(huds, 1):
+            L += [str(k), f"{srt_t(a)} --> {srt_t(b)}", h, ""]
+        L.pop()
+        L += ["```", ""]
+    L += ["## Popis + hashtagy", "", "```text",
           f"{ep['caption']}", "", HASHTAGS[ep["type"]] + " #vanexit", "```", ""]
     return "\n".join(L)
 

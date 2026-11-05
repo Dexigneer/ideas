@@ -225,6 +225,30 @@ Wait. People would PAY for this?
 They already ask.
 ```
 
+## HUD texty (SRT – druhá stopa titulkov, hore v rohu, herné písmo)
+
+```srt
+1
+00:00:00,000 --> 00:00:02,600
+LEVEL 1 – PRODUCT TYPES
+
+2
+00:00:05,300 --> 00:00:07,100
+1/3 UTILITY – A TOOL PEOPLE USE
+
+3
+00:00:09,000 --> 00:00:11,200
+2/3 ROADMAP – STEPS PEOPLE FOLLOW
+
+4
+00:00:13,100 --> 00:00:16,300
+3/3 KNOWLEDGE – WHAT YOU KNOW
+
+5
+00:00:22,600 --> 00:00:24,800
+OBJECTIVE UPDATED
+```
+
 ## Popis + hashtagy
 
 ```text

@@ -198,6 +198,30 @@ Oh. Now I'D buy it.
 Sell the after.
 ```
 
+## HUD texty (SRT – druhá stopa titulkov, hore v rohu, herné písmo)
+
+```srt
+1
+00:00:00,000 --> 00:00:01,600
+LEVEL 3 – COPYWRITING
+
+2
+00:00:06,400 --> 00:00:09,600
+FEATURE → SO THAT → OUTCOME
+
+3
+00:00:09,600 --> 00:00:13,000
+CRAFT 1/3
+
+4
+00:00:13,000 --> 00:00:16,400
+CRAFT 2/3
+
+5
+00:00:16,400 --> 00:00:19,800
+CRAFT 3/3
+```
+
 ## Popis + hashtagy
 
 ```text

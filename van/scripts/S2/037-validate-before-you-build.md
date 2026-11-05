@@ -206,6 +206,30 @@ Likes lie. Payments don't.
 Forty-eight hours.
 ```
 
+## HUD texty (SRT – druhá stopa titulkov, hore v rohu, herné písmo)
+
+```srt
+1
+00:00:00,000 --> 00:00:02,900
+LEVEL 2 – VALIDATION
+
+2
+00:00:06,100 --> 00:00:08,700
+TIMER 48:00:00
+
+3
+00:00:08,700 --> 00:00:11,400
+STEP 1/3 – ASK 10 PEOPLE
+
+4
+00:00:11,400 --> 00:00:14,100
+STEP 2/3 – SHOW A SAMPLE
+
+5
+00:00:14,100 --> 00:00:16,800
+STEP 3/3 – PRE-SELL
+```
+
 ## Popis + hashtagy
 
 ```text

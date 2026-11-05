@@ -206,6 +206,26 @@ Version two.
 Done beats perfect.
 ```
 
+## HUD texty (SRT – druhá stopa titulkov, hore v rohu, herné písmo)
+
+```srt
+1
+00:00:00,000 --> 00:00:02,600
+PAGES: 47
+
+2
+00:00:04,800 --> 00:00:07,000
+PAGES: 214
+
+3
+00:00:09,200 --> 00:00:11,100
+CORE PAINS: 3
+
+4
+00:00:17,600 --> 00:00:19,400
+CUT 211 PAGES
+```
+
 ## Popis + hashtagy
 
 ```text

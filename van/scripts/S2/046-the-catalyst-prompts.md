@@ -183,6 +183,34 @@ You still edit everything.
 AI drafts. You decide.
 ```
 
+## HUD texty (SRT – druhá stopa titulkov, hore v rohu, herné písmo)
+
+```srt
+1
+00:00:00,000 --> 00:00:03,300
+LEVEL 2 – THE CATALYST
+
+2
+00:00:03,300 --> 00:00:05,500
+TIME LEFT 48H
+
+3
+00:00:05,500 --> 00:00:08,900
+PROMPT 1/3 – PAINS
+
+4
+00:00:08,900 --> 00:00:12,300
+PROMPT 2/3 – OUTLINE
+
+5
+00:00:12,300 --> 00:00:15,700
+PROMPT 3/3 – SALES PAGE
+
+6
+00:00:15,700 --> 00:00:17,900
+TIME LEFT 47H
+```
+
 ## Popis + hashtagy
 
 ```text

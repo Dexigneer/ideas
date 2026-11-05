@@ -226,6 +226,34 @@ It looks… EXPENSIVE now.
 Clear sells.
 ```
 
+## HUD texty (SRT – druhá stopa titulkov, hore v rohu, herné písmo)
+
+```srt
+1
+00:00:00,000 --> 00:00:01,600
+LEVEL 3 – STOREFRONT
+
+2
+00:00:04,300 --> 00:00:05,700
+BUTTONS: 9
+
+3
+00:00:05,700 --> 00:00:07,900
+RULE 1/3 – HEADLINE = RESULT
+
+4
+00:00:09,500 --> 00:00:11,700
+RULE 2/3 – SHOW THE INSIDE
+
+5
+00:00:13,300 --> 00:00:15,100
+RULE 3/3 – ONE BUTTON
+
+6
+00:00:15,100 --> 00:00:16,700
+BUTTONS: 1
+```
+
 ## Popis + hashtagy
 
 ```text

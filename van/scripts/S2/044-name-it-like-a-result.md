@@ -181,6 +181,22 @@ Oh. It sounds REAL now.
 Name the result.
 ```
 
+## HUD texty (SRT – druhá stopa titulkov, hore v rohu, herné písmo)
+
+```srt
+1
+00:00:00,000 --> 00:00:02,900
+NAME LVL 1 – PLANNER VOL. 1
+
+2
+00:00:05,600 --> 00:00:08,200
+NAME LVL 2 – NIGHT NURSE PLANNER
+
+3
+00:00:10,900 --> 00:00:13,500
+NAME LVL 3 – RESULT FOUND
+```
+
 ## Popis + hashtagy
 
 ```text

@@ -2,7 +2,7 @@
 
 `S4 · LEVEL 4 – TRAFFIC GENERATION` · `Typ A – cutscéna` · `~17 s` · `8 záberov`
 
-[← #103](../S4/103-tuesday.md) · [📋 zoznam](../README.md)
+[← #103](../S4/103-tuesday.md) · [📋 zoznam](../README.md) · [#105 →](../S5/105-quit-tomorrow.md)
 
 > **Premisa:** Na konci mesiaca June porovná tržby z produktu so svojou výplatou. Sú rovnaké.  
 > **Emócia diváka:** šok, husia koža – cliffhanger sezóny  
@@ -173,6 +173,14 @@ Good. That's level five.
 6
 00:00:15,500 --> 00:00:17,000
 Level five.
+```
+
+## HUD texty (SRT – druhá stopa titulkov, hore v rohu, herné písmo)
+
+```srt
+1
+00:00:15,500 --> 00:00:17,000
+LEVEL 4 COMPLETE – LEVEL 5 UNLOCKED
 ```
 
 ## Popis + hashtagy

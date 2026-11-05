@@ -190,6 +190,14 @@ Why is he calling NOW?!
 Your choice.
 ```
 
+## HUD texty (SRT – druhá stopa titulkov, hore v rohu, herné písmo)
+
+```srt
+1
+00:00:16,600 --> 00:00:18,400
+LEVEL 2 COMPLETE – LEVEL 3 UNLOCKED
+```
+
 ## Popis + hashtagy
 
 ```text

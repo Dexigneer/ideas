@@ -192,6 +192,14 @@ My office. NOW.
 Level four.
 ```
 
+## HUD texty (SRT – druhá stopa titulkov, hore v rohu, herné písmo)
+
+```srt
+1
+00:00:17,200 --> 00:00:19,000
+LEVEL 3 COMPLETE – LEVEL 4 UNLOCKED
+```
+
 ## Popis + hashtagy
 
 ```text

@@ -198,6 +198,30 @@ ALL three? At ONCE?
 Pick one road.
 ```
 
+## HUD texty (SRT – druhá stopa titulkov, hore v rohu, herné písmo)
+
+```srt
+1
+00:00:00,000 --> 00:00:02,900
+LEVEL 4 – TRAFFIC
+
+2
+00:00:05,600 --> 00:00:07,200
+VISITORS: 3
+
+3
+00:00:09,900 --> 00:00:11,700
+ROAD 1/3 – SHORT VIDEO
+
+4
+00:00:11,700 --> 00:00:13,100
+ROAD 2/3 – COMMUNITIES
+
+5
+00:00:13,100 --> 00:00:14,500
+ROAD 3/3 – COLLABS
+```
+
 ## Popis + hashtagy
 
 ```text

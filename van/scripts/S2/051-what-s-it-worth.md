@@ -186,6 +186,26 @@ Nineteen?
 Price the outcome.
 ```
 
+## HUD texty (SRT – druhá stopa titulkov, hore v rohu, herné písmo)
+
+```srt
+1
+00:00:00,000 --> 00:00:02,900
+LEVEL 2 – PRICING
+
+2
+00:00:05,600 --> 00:00:07,500
+VALUE: SLEEP + FOOD + STRESS
+
+3
+00:00:10,200 --> 00:00:13,100
+COST OF PAIN: $40+/MONTH
+
+4
+00:00:15,800 --> 00:00:17,200
+PRICE: $19 – RARE
+```
+
 ## Popis + hashtagy
 
 ```text

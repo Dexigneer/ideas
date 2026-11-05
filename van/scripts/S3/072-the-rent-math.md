@@ -206,6 +206,26 @@ That's not a dream. That's a PLAN.
 Math beats hope.
 ```
 
+## HUD texty (SRT – druhá stopa titulkov, hore v rohu, herné písmo)
+
+```srt
+1
+00:00:00,000 --> 00:00:03,300
+LEVEL 3 – THE MATH
+
+2
+00:00:06,000 --> 00:00:07,500
+GOAL: RENT
+
+3
+00:00:10,200 --> 00:00:13,600
+63 SALES / MONTH
+
+4
+00:00:15,400 --> 00:00:17,600
+2 SALES / DAY
+```
+
 ## Popis + hashtagy
 
 ```text

@@ -196,6 +196,34 @@ You ate dinner at 3 AM out of a VENDING machine.
 Now they stay.
 ```
 
+## HUD texty (SRT – druhá stopa titulkov, hore v rohu, herné písmo)
+
+```srt
+1
+00:00:00,000 --> 00:00:03,400
+LEVEL 4 – HOOKS
+
+2
+00:00:03,400 --> 00:00:05,000
+RETENTION 1S: 10%
+
+3
+00:00:07,200 --> 00:00:09,900
+RULE 1/3 – MID-PROBLEM
+
+4
+00:00:09,900 --> 00:00:11,700
+RULE 2/3 – SAY YOU
+
+5
+00:00:11,700 --> 00:00:14,400
+RULE 3/3 – SPECIFIC DETAIL
+
+6
+00:00:17,800 --> 00:00:19,400
+RETENTION 1S: 78%
+```
+
 ## Popis + hashtagy
 
 ```text

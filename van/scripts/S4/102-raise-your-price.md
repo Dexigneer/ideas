@@ -206,6 +206,30 @@ Announce it. Then raise.
 Value, not guilt.
 ```
 
+## HUD texty (SRT – druhá stopa titulkov, hore v rohu, herné písmo)
+
+```srt
+1
+00:00:00,000 --> 00:00:03,300
+LEVEL 4 – PRICING UP
+
+2
+00:00:03,300 --> 00:00:06,500
+SIGN 1/3 – SELLS ALONE
+
+3
+00:00:08,000 --> 00:00:09,400
+SIGN 2/3 – STRONG REVIEWS
+
+4
+00:00:11,600 --> 00:00:13,400
+SIGN 3/3 – MORE VALUE
+
+5
+00:00:16,700 --> 00:00:19,400
+PRICE $19 → $29 – EPIC
+```
+
 ## Popis + hashtagy
 
 ```text

@@ -178,6 +178,34 @@ And they send… by THEMSELVES?
 Go to sleep.
 ```
 
+## HUD texty (SRT – druhá stopa titulkov, hore v rohu, herné písmo)
+
+```srt
+1
+00:00:00,000 --> 00:00:03,400
+LEVEL 3 – ONBOARDING
+
+2
+00:00:00,000 --> 00:00:03,400
+INBOX 47
+
+3
+00:00:06,100 --> 00:00:08,300
+EMAIL 1/3 – WELCOME
+
+4
+00:00:08,300 --> 00:00:11,000
+EMAIL 2/3 – QUICK WIN
+
+5
+00:00:11,000 --> 00:00:13,200
+EMAIL 3/3 – FEEDBACK
+
+6
+00:00:15,800 --> 00:00:17,400
+INBOX 0
+```
+
 ## Popis + hashtagy
 
 ```text

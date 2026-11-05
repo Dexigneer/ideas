@@ -4,7 +4,7 @@ Každý scenár má vlastný súbor: storyboard, prompt pre každý záber, titu
 Reference images: [`../01-character-sheets.md`](../01-character-sheets.md) a [`../02-location-sheets.md`](../02-location-sheets.md). Postup: [`../README.md`](../README.md).
 
 Typy: **A** = cutscéna (virál), **B** = tutorial level (vzdelávanie), **C** = idle (motivácia).
-Spolu **104** videí – A: 65, B: 31, C: 8.
+Spolu **130** videí – A: 83, B: 37, C: 10.
 
 
 ## S1 · LEVEL 1 – SYSTEM OVERRIDE
@@ -130,3 +130,34 @@ Spolu **104** videí – A: 65, B: 31, C: 8.
 | 102 | [RAISE YOUR PRICE](S4/102-raise-your-price.md) | B | 22 s | „Raise the price? People will HATE me.“ | odvaha, sebahodnota |
 | 103 | [TUESDAY](S4/103-tuesday.md) | A | 16 s | „Why does this feel ILLEGAL?“ | sloboda, ktorá sa najprv cíti ako vina |
 | 104 | [THAT'S MY SALARY](S4/104-that-s-my-salary.md) | A | 17 s | „That's… the same number.“ | šok, husia koža – cliffhanger sezóny |
+
+## S5 · LEVEL 5 – SCALING & ASCENSION
+
+| # | názov | typ | dĺžka | hook (1. replika) | emócia |
+|---|---|---|---|---|---|
+| 105 | [QUIT TOMORROW?](S5/105-quit-tomorrow.md) | A | 20 s | „I'm quitting. TOMORROW. Nine AM.“ | túžba vs. rozum, napätie |
+| 106 | [TEN DOLLARS A DAY](S5/106-ten-dollars-a-day.md) | B | 19 s | „A THOUSAND dollars on ads. Let's GO.“ | odvaha testovať, bez hazardu |
+| 107 | [TWO HUNDRED DOLLARS GONE](S5/107-two-hundred-dollars-gone.md) | A | 21 s | „Two HUNDRED dollars. ZERO sales.“ | bolesť z chyby → lekcia |
+| 108 | [THE LADDER](S5/108-the-ladder.md) | B | 17 s | „Buyers keep asking "what's NEXT?"“ | vízia – ako rásť bez nových zákazníkov |
+| 109 | [PARTNERS](S5/109-partners.md) | A | 18 s | „Mae. Build the next one WITH me.“ | sesterská hrdosť, spolupráca |
+| 110 | [OLLIE'S FIRST PING](S5/110-ollie-s-first-ping.md) | A | 16 s | „…June? What does this MEAN?“ | najväčšie dojatie sezóny |
+| 111 | [THE RUNWAY](S5/111-the-runway.md) | B | 18 s | „How do I KNOW it's time?“ | bezpečie, zodpovednosť |
+| 112 | [THE PROMOTION](S5/112-the-promotion.md) | A | 18 s | „June. Sit. I have GREAT news.“ | pokušenie, váhanie |
+| 113 | [WE'RE A FAMILY](S5/113-we-re-a-family.md) | A | 16 s | „Twelve percent. FINAL offer.“ | zadosťučinenie, oslobodenie |
+| 114 | [YOUR AI TEAM](S5/114-your-ai-team.md) | B | 23 s | „One HUNDRED emails a day. I can't scale ME.“ | úľava – nemusím všetko robiť sama |
+| 115 | [WHAT IF IT STOPS?](S5/115-what-if-it-stops.md) | C | 10 s | „What if it all STOPS?“ | strach z neistoty → pokoj |
+| 116 | [MOM](S5/116-mom.md) | A | 20 s | „Honey. Don't throw away a STABLE job.“ | generačný konflikt, láska, pochopenie |
+| 117 | [THE LETTER](S5/117-the-letter.md) | A | 18 s | „Dear Management. You FOUR-MINUTE COWARDS…“ | nervozita, odhodlanie |
+| 118 | [MORE SHELVES](S5/118-more-shelves.md) | B | 19 s | „Should I build a NEW product?“ | „aha“ – rovnaký produkt, viac miest |
+| 119 | [OLLIE'S WATCH](S5/119-ollie-s-watch.md) | A | 15 s | „Twenty years of loyalty.“ | tiché, hlboké uzavretie |
+| 120 | [TWO WEEKS](S5/120-two-weeks.md) | A | 15 s | „What's THIS?“ | triumf, slobodný nádych |
+| 121 | [THE LAST NIGHT BUS](S5/121-the-last-night-bus.md) | A | 15 s | „Last ride?“ | melanchólia premenená na pokoj |
+| 122 | [THE NEW HIRE](S5/122-the-new-hire.md) | A | 18 s | „Hi! I'm the new— I'm your REPLACEMENT.“ | zrkadlo – June vidí samu seba |
+| 123 | [THE STICKY NOTES](S5/123-the-sticky-notes.md) | A | 16 s | „This is where it STARTED.“ | nostalgia, odovzdanie štafety |
+| 124 | [THE SCALING CHECKLIST](S5/124-the-scaling-checklist.md) | B | 17 s | „Tomorrow I'm free. Then what?“ | jasnosť – čo robiť po odchode |
+| 125 | [BEST, DAVE](S5/125-best-dave.md) | A | 14 s | „We'll MISS you, June!“ | smiech so slzami |
+| 126 | [THROUGH THE EXIT](S5/126-through-the-exit.md) | A | 14 s | „Not the lobby?“ | oslobodenie, husia koža |
+| 127 | [TUESDAY, AGAIN](S5/127-tuesday-again.md) | C | 8 s | „No watch. No guilt.“ | pokoj – sloboda už nie je zakázaná |
+| 128 | [VISITOR](S5/128-visitor.md) | A | 16 s | „Hi! I'm here to visit.“ | kruh sa uzatvára, hrdosť |
+| 129 | [O.](S5/129-o.md) | A | 20 s | „Van. Who's "O."?“ | najhlbšie dojatie – odhalenie tajomstva |
+| 130 | [LEVEL ONE](S5/130-level-one.md) | A | 15 s | „Rough day?“ | kruh sa uzatvára – nádej pre ďalšiu „June“, finále série |

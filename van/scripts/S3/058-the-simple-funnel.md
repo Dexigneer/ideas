@@ -183,6 +183,26 @@ Taste. Talk. Buy.
 Simple works.
 ```
 
+## HUD texty (SRT – druhá stopa titulkov, hore v rohu, herné písmo)
+
+```srt
+1
+00:00:00,000 --> 00:00:03,300
+LEVEL 3 – FUNNEL
+
+2
+00:00:05,500 --> 00:00:07,300
+STEP 1/3 – FREE SAMPLE
+
+3
+00:00:09,900 --> 00:00:12,100
+STEP 2/3 – EMAIL
+
+4
+00:00:12,100 --> 00:00:14,800
+STEP 3/3 – THE PRODUCT
+```
+
 ## Popis + hashtagy
 
 ```text

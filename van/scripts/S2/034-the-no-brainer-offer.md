@@ -182,6 +182,30 @@ It's not a PDF anymore. It's a KIT.
 Now it's obvious.
 ```
 
+## HUD texty (SRT – druhá stopa titulkov, hore v rohu, herné písmo)
+
+```srt
+1
+00:00:00,000 --> 00:00:02,600
+LEVEL 2 – THE OFFER
+
+2
+00:00:04,800 --> 00:00:08,000
+ITEM 1 – CORE PLANNER
+
+3
+00:00:08,000 --> 00:00:11,200
+ITEM 2 – SWAP SCRIPTS
+
+4
+00:00:11,200 --> 00:00:14,600
+ITEM 3 – MEAL LIST
+
+5
+00:00:14,600 --> 00:00:16,800
+ITEM 4 – GUARANTEE
+```
+
 ## Popis + hashtagy
 
 ```text

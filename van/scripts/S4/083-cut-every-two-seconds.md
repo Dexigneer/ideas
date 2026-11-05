@@ -176,6 +176,30 @@ Did you notice THIS video cuts every two seconds?
 You did.
 ```
 
+## HUD texty (SRT – druhá stopa titulkov, hore v rohu, herné písmo)
+
+```srt
+1
+00:00:00,000 --> 00:00:01,600
+LEVEL 4 – RETENTION
+
+2
+00:00:04,200 --> 00:00:06,900
+1 IDEA = 1 SHOT
+
+3
+00:00:06,900 --> 00:00:08,500
+NEW IMAGE EVERY 2S
+
+4
+00:00:08,500 --> 00:00:10,700
+PAYOFF AT THE END
+
+5
+00:00:10,700 --> 00:00:13,400
+NO OUTRO
+```
+
 ## Popis + hashtagy
 
 ```text

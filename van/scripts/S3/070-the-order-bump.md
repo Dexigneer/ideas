@@ -181,6 +181,22 @@ Helpful, not pushy.
 Cookie?
 ```
 
+## HUD texty (SRT – druhá stopa titulkov, hore v rohu, herné písmo)
+
+```srt
+1
+00:00:00,000 --> 00:00:01,400
+LEVEL 3 – ORDER BUMP
+
+2
+00:00:04,600 --> 00:00:06,100
+COFFEE + COOKIE
+
+3
+00:00:08,800 --> 00:00:12,000
+AVG ORDER $19 → $26
+```
+
 ## Popis + hashtagy
 
 ```text

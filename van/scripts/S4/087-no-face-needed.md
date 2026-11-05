@@ -163,6 +163,26 @@ Does that even WORK?
 You tell me.
 ```
 
+## HUD texty (SRT – druhá stopa titulkov, hore v rohu, herné písmo)
+
+```srt
+1
+00:00:00,000 --> 00:00:02,900
+LEVEL 4 – FACELESS
+
+2
+00:00:05,600 --> 00:00:08,300
+OPTION 1/3 – HANDS
+
+3
+00:00:08,300 --> 00:00:10,500
+OPTION 2/3 – SCREEN
+
+4
+00:00:10,500 --> 00:00:12,700
+OPTION 3/3 – AVATAR
+```
+
 ## Popis + hashtagy
 
 ```text

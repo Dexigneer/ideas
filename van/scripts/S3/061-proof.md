@@ -201,6 +201,26 @@ Should I make some up?
 Never. Only real.
 ```
 
+## HUD texty (SRT – druhá stopa titulkov, hore v rohu, herné písmo)
+
+```srt
+1
+00:00:00,000 --> 00:00:03,300
+LEVEL 3 – SOCIAL PROOF
+
+2
+00:00:07,900 --> 00:00:10,600
+PROOF 1/3 – REAL QUOTE
+
+3
+00:00:10,600 --> 00:00:13,800
+PROOF 2/3 – BEFORE / AFTER
+
+4
+00:00:13,800 --> 00:00:16,500
+PROOF 3/3 – REAL PHOTO
+```
+
 ## Popis + hashtagy
 
 ```text

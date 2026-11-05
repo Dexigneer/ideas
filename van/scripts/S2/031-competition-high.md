@@ -176,6 +176,26 @@ Same pain. Emptier room.
 Walk in.
 ```
 
+## HUD texty (SRT – druhá stopa titulkov, hore v rohu, herné písmo)
+
+```srt
+1
+00:00:00,000 --> 00:00:03,400
+LEVEL 2 – COMPETITION
+
+2
+00:00:05,600 --> 00:00:08,100
+SCAN 1/3 – COMPETITION HIGH
+
+3
+00:00:09,600 --> 00:00:12,600
+SCAN 2/3 – NEW ANGLE
+
+4
+00:00:12,600 --> 00:00:14,500
+SCAN 3/3 – GAP FOUND
+```
+
 ## Popis + hashtagy
 
 ```text

@@ -206,6 +206,30 @@ It doesn't STOP?!
 That's leverage.
 ```
 
+## HUD texty (SRT – druhá stopa titulkov, hore v rohu, herné písmo)
+
+```srt
+1
+00:00:00,000 --> 00:00:02,200
+LEVEL 1 – LEVERAGE
+
+2
+00:00:04,400 --> 00:00:07,000
+TRADING HOURS = CAPPED
+
+3
+00:00:09,200 --> 00:00:11,400
+1/3 BUILD ONCE
+
+4
+00:00:11,400 --> 00:00:14,800
+2/3 SELL AGAIN
+
+5
+00:00:14,800 --> 00:00:18,000
+3/3 LEVERAGE
+```
+
 ## Popis + hashtagy
 
 ```text

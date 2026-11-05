@@ -227,6 +227,30 @@ A team that never sleeps.
 Hire it first.
 ```
 
+## HUD texty (SRT – druhá stopa titulkov, hore v rohu, herné písmo)
+
+```srt
+1
+00:00:00,000 --> 00:00:03,400
+LEVEL 1 – AI AS INFRASTRUCTURE
+
+2
+00:00:10,600 --> 00:00:13,300
+1/3 RESEARCH
+
+3
+00:00:13,300 --> 00:00:16,000
+2/3 DRAFT
+
+4
+00:00:16,000 --> 00:00:19,200
+3/3 SELL
+
+5
+00:00:25,000 --> 00:00:27,200
+TOOL UNLOCKED – AI
+```
+
 ## Popis + hashtagy
 
 ```text

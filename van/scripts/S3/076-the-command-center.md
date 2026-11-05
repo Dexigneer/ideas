@@ -181,6 +181,26 @@ Three blocks… not every NIGHT?
 Systems, not willpower.
 ```
 
+## HUD texty (SRT – druhá stopa titulkov, hore v rohu, herné písmo)
+
+```srt
+1
+00:00:00,000 --> 00:00:02,900
+LEVEL 3 – SYSTEMS
+
+2
+00:00:06,700 --> 00:00:09,400
+MON – NUMBERS & GOALS
+
+3
+00:00:09,400 --> 00:00:12,100
+TUE-THU – 3 BUILD BLOCKS
+
+4
+00:00:12,100 --> 00:00:13,900
+FRI – REVIEW
+```
+
 ## Popis + hashtagy
 
 ```text
