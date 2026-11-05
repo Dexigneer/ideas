@@ -1,0 +1,95 @@
+#073 RENT PAID
+type: A
+emo: hrdosť, úľava, slzy šťastia
+premise: Prvý mesiac, keď produkt zaplatí celý nájom. June pošle platbu a Pivot zhodí pohár zo stola.
+clue: list „FINAL NOTICE“ z dielu #010 June roztrhne
+loop: Pivot zhodí ďalší pohár
+caption: the month my little planner paid my whole rent. 🏠 (results vary — it took 5 months of work)
+> W | L06 | JUNE PIVOT | — | JUNE at her kitchen table, phone in hand, PIVOT on the table |
+> INS | L06 | — | — | phone: "Rent payment sent – paid from: NIGHT SHIFT OS" | DROP
+> CU | L06 | JUNE | JUNE: The PLANNER paid my rent. | JUNE whispers |
+> INS | L06 | — | — | JUNE tears the old "FINAL NOTICE" letter in half |
+> CU | L06 | JUNE | JUNE: Not my boss. Not my HOURS. | JUNE laughing and crying | OUT
+> MCU | L06 | VAN | VAN: How does it feel? | VAN on video call |
+> CU | L06 | JUNE | JUNE: Like I can BREATHE. | JUNE hugs PIVOT |
+> INS | L06 | PIVOT | — | PIVOT pushes a glass off the table in celebration | SFX: glass shatter
+> CAM | L06 | VAN | VAN: Next level. | VAN looks into the lens | LOOP
+
+#074 SATURDAY
+type: A
+emo: dojatie, uzdravenie Vanovej rany
+premise: Van volá otcovi. Prvýkrát po rokoch má sobotu celú voľnú.
+clue: na stole je nová fotka – Van na stoličke, ktorá bola kedysi prázdna
+loop: otec znova zavolá: „Next Saturday too?“
+caption: "you're always free now." the best thing my dad ever said to me. 🪑
+> W | L10 | VAN | — | VAN in his sunny loft, phone to his ear, watering a plant |
+> CU | L10 | DAD | DAD(VO): Saturday lunch? I know you're busy, son. | VAN listens | DROP
+> MCU | L10 | VAN | VAN: I'm free. | VAN smiles softly |
+> CU | L10 | DAD | DAD(VO): You said that last week too. | VAN listens |
+> MCU | L10 | VAN | VAN: I'm always free now. | VAN quietly | OUT
+> CU | L10 | DAD | DAD(VO): …Then I'll save your chair. | VAN listens, his eyes glisten |
+> INS | L10 | — | — | a new framed photo next to the old one: the same family, the chair no longer empty, VAN sitting in it |
+> CAM | L10 | VAN | VAN: Saved. | VAN looks into the lens | LOOP
+
+#075 BURNOUT
+type: A
+emo: varovanie, starostlivosť o seba
+premise: June robí dva joby naraz a zaspí za stolom. Šéf ju zobudí krikom. Van jej povie, že beh je maratón.
+clue: na monitore je otvorený jej produkt aj firemná tabuľka naraz
+loop: June znova zaspí
+caption: building a business while working full time is a marathon. not a sprint. please sleep. 😴
+> W | L01 | JUNE | — | JUNE asleep on her keyboard, two windows open: a company spreadsheet and her product dashboard |
+> CU | L01 | MGMT | MGMT: Are we SLEEPING on company time?! | MANAGEMENT slams his clipboard on the desk | DROP
+> CU | L01 | JUNE | JUNE: No! I'm— I'm FINE. | JUNE jolts awake, keyboard marks on her cheek |
+> W | L02 | VAN JUNE | VAN: When did you sleep? | VAN in the break room, handing her water, not coffee |
+> CU | L02 | JUNE | JUNE: Tuesday? I've been doing BOTH. | JUNE shaking | OUT
+> MCU | L02 | VAN | VAN: Burned out builders build nothing. | VAN serious |
+> CU | L02 | JUNE | JUNE: So I STOP? | JUNE |
+> CAM | L02 | VAN | VAN: Pace. Not stop. | VAN looks into the lens | LOOP
+
+#076 THE COMMAND CENTER
+type: B
+emo: pokoj, kontrola
+edu: Týždenný systém v jednom priestore (ad[vantage]OS v Notione): 1) pondelok – ciele a čísla, 2) 3 bloky tvorby, 3) piatok – revízia. Malé bloky namiesto nocí.
+premise: June má poznámky na 40 miestach. Van jej ukáže svoje „command center“ a jednoduchý týždenný rytmus.
+clue: na obrazovke je dashboard v štýle hernej mapy
+loop: June zaškrtne prvý blok
+caption: my whole business runs on one dashboard and 3 weekly blocks. here's the rhythm 🗂️
+cta: yes
+> W | L06 | JUNE | JUNE: My notes are EVERYWHERE. Forty apps. | JUNE surrounded by sticky notes, three notebooks, two phones | HUD: LEVEL 3 – SYSTEMS
+> MCU | L06 | VAN | VAN: One command center. | VAN on video call shares his screen | DROP
+> INS | L06 | — | — | a clean dashboard styled like a game map: PRODUCT LAB, CONTENT ENGINE, LEADS, GOALS |
+> MCU | L06 | VAN | VAN: Monday, check the numbers. | VAN | HUD: MON – NUMBERS & GOALS
+> MCU | L06 | VAN | VAN: Three blocks to build. | VAN | HUD: TUE-THU – 3 BUILD BLOCKS
+> MCU | L06 | VAN | VAN: Friday, review. | VAN | HUD: FRI – REVIEW
+> CU | L06 | JUNE | JUNE: Three blocks… not every NIGHT? | JUNE relieved | OUT
+> CAM | L06 | VAN | VAN: Systems, not willpower. | VAN looks into the lens | LOOP
+
+#077 TEN PINGS
+type: C
+emo: tichá radosť, hrdosť
+premise: June a Van na streche. June telefón pípne desaťkrát za večer. Ona sa usmieva a nepozerá.
+loop: ďalší ping
+caption: I stopped checking every ping. that's how I knew something changed. 🔔
+cta: yes
+> W | L05 | VAN JUNE | — | VAN and JUNE on the rooftop at night, city neon, two mugs | DROP
+> INS | L05 | — | — | JUNE's phone face down on the railing, lighting up again and again | PING
+> CU | L05 | JUNE | JUNE: I stopped counting. | JUNE smiles, not looking at the phone | PING
+> CAM | L05 | VAN | VAN: Good. | VAN looks into the lens | PING, OUT, LOOP
+
+#078 MY OFFICE. NOW.
+type: A
+emo: šok, napätie – cliffhanger sezóny
+premise: June nechá na pracovnom monitore otvorenú svoju predajnú stránku. Šéf to uvidí.
+clue: na stránke svieti „47 sold this week“
+loop: obrazovka „LEVEL 3 COMPLETE – LEVEL 4 UNLOCKED“
+caption: my boss saw my side business on my work screen. 😳 (part 2 tomorrow)
+> W | L01 | JUNE | — | JUNE steps away from her desk; her monitor still shows her sales page "Night Shift OS – 47 sold this week" |
+> OTS | L01 | MGMT | — | MANAGEMENT stops behind her chair, leaning toward the screen | DROP
+> CU | L01 | MGMT | MGMT: Night Shift… O.S.? | MANAGEMENT reads slowly |
+> MCU | L01 | JUNE | — | JUNE returns with coffee and freezes mid-step |
+> CU | L01 | MGMT | MGMT: Is THIS what you do on COMPANY time? | MANAGEMENT taps the screen | OUT
+> CU | L01 | JUNE | JUNE: It's… it's not what it LOOKS like. | JUNE pale |
+> CU | L01 | MGMT | MGMT: My office. NOW. | MANAGEMENT walks away |
+> MCU | L01 | VAN | — | VAN watches from his empty desk, unreadable |
+> CAM | L01 | VAN | VAN: Level four. | VAN looks into the lens | HUD: LEVEL 3 COMPLETE – LEVEL 4 UNLOCKED, LOOP

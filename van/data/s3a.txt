@@ -1,0 +1,170 @@
+#053 PUBLISHED
+type: A
+emo: odvaha → ticho → realita
+premise: June odmietne šéfov hovor o polnoci a stlačí PUBLISH. Čaká na ping. Nič.
+clue: počítadlo predajov ukazuje 0 a vedľa neho bliká kurzor
+loop: June znova obnoví stránku – 0
+caption: I hit publish. I waited for the ping. it didn't come. (yet.)
+> INS | L06 | — | — | the phone shows "MANAGEMENT calling…"; JUNE's thumb presses DECLINE | DROP
+> INS | L06 | — | — | JUNE's finger clicks the green PUBLISH button; confetti animation on screen | SFX: click
+> CU | L06 | JUNE | JUNE: I did it. I actually DID it. | JUNE laughs, hands on her head |
+> CU | L06 | JUNE | JUNE: Okay. Now the sales come… right? | JUNE stares at the phone |
+> INS | L06 | — | — | a dashboard: "SALES: 0" | OUT
+> MCU | L06 | PIVOT | — | PIVOT yawns |
+> CU | L06 | JUNE | JUNE: Van? Why is it ZERO? | JUNE refreshes again |
+> MCU | L06 | VAN | VAN: Nobody knows it exists. | VAN on video call |
+> CAM | L06 | VAN | VAN: Now you sell. | VAN looks into the lens | HUD: LEVEL 3 – THE SALES ENGINE, LOOP
+
+#054 THE STOREFRONT
+type: B
+emo: jasnosť – jednoduchosť predáva
+edu: Predajná stránka v 3 prvkoch: 1) nadpis = výsledok, 2) ukáž, čo je vnútri (obrázky), 3) jedno tlačidlo. Žiadny chaos.
+premise: June má na stránke 9 tlačidiel a 4 farby. Van ju zjednoduší na tri veci.
+clue: na HUD sa počet tlačidiel znižuje 9 → 1
+loop: June zmaže ešte jednu vetu
+caption: your sales page has 9 buttons. it needs 1. (3 rules) 🛒
+cta: yes
+> INS | L06 | — | — | a messy sales page: nine buttons, four fonts, flashing colors | HUD: LEVEL 3 – STOREFRONT
+> MCU | L06 | VAN | VAN: Where do I click? | VAN on video call, squinting | DROP
+> CU | L06 | JUNE | JUNE: EVERYWHERE? | JUNE proudly | HUD: BUTTONS: 9
+> MCU | L06 | VAN | VAN: Headline. The result. | VAN | HUD: RULE 1/3 – HEADLINE = RESULT
+> INS | L06 | — | — | headline changes to "Sleep 7 hours on night shift" |
+> MCU | L06 | VAN | VAN: Show what's inside. | VAN | HUD: RULE 2/3 – SHOW THE INSIDE
+> INS | L06 | — | — | three clean preview images of the planner appear |
+> MCU | L06 | VAN | VAN: One button. | VAN | HUD: RULE 3/3 – ONE BUTTON
+> INS | L06 | — | — | a single green button "Get Night Shift OS – $19" | OUT, HUD: BUTTONS: 1
+> CU | L06 | JUNE | JUNE: It looks… EXPENSIVE now. | JUNE impressed |
+> CAM | L06 | VAN | VAN: Clear sells. | VAN looks into the lens | LOOP
+
+#055 DAY 3: ZERO
+type: A
+emo: sklamanie, osamelosť – a potom nádej
+premise: Tretí deň, nula predajov. June v nočnom autobuse chce všetko zmazať. Van jej povie, ako dlho čakal on.
+clue: v odraze okna vidieť Vanov telefón – „SALES: 1, DAY 41“
+loop: autobus zastaví na zastávke OFFICE
+caption: day 3. zero sales. I almost deleted everything. then he told me his number. 🚌
+> W | L07 | JUNE | — | JUNE in the night bus, staring at her phone, rain on the window |
+> INS | L07 | — | — | phone: "DAY 3 – SALES: 0", her thumb on "DELETE STORE" | DROP
+> CU | L07 | JUNE | JUNE: Three days. ZERO. I'm deleting it. | JUNE whispers, eyes wet |
+> 2S | L07 | VAN JUNE | VAN: Mine took forty-one. | VAN sits down next to her |
+> CU | L07 | JUNE | JUNE: Forty-one DAYS?! | JUNE turns to him |
+> MCU | L07 | VAN | VAN: Of zero. | VAN nods | OUT
+> CU | L07 | JUNE | JUNE: Why didn't you QUIT? | JUNE |
+> MCU | L07 | VAN | VAN: Day forty-two. | VAN shows a tiny smile |
+> CAM | L07 | VAN | VAN: Don't delete it. | VAN looks into the lens; JUNE's thumb leaves the delete button | LOOP
+
+#056 OUTCOMES, NOT FEATURES
+type: B
+emo: „aha“ – takto sa píše predajný text
+edu: Copywriting: nepredávaj vlastnosti („30 strán, 5 šablón“), predávaj výsledok („spi 7 hodín“). Vzorec: vlastnosť → takže → výsledok.
+premise: June píše „30 pages, 5 templates“. Van ju naučí „so that“.
+clue: HUD premení každú vlastnosť na výsledok ako crafting v hre
+loop: June prepíše ďalší riadok
+caption: "30 pages, 5 templates" sells nothing. add these 2 words. ✍️
+cta: yes
+> INS | L06 | — | — | sales copy: "30 pages. 5 templates. PDF format." | HUD: LEVEL 3 – COPYWRITING
+> MCU | L06 | VAN | VAN: Nobody wants pages. | VAN on video call | DROP
+> CU | L06 | JUNE | JUNE: Then what DO they want?! | JUNE |
+> MCU | L06 | VAN | VAN: Add two words. So that. | VAN | HUD: FEATURE → SO THAT → OUTCOME
+> INS | L06 | — | JUNE(VO): Sleep template… so that you sleep seven hours. | the copy rewrites itself | HUD: CRAFT 1/3
+> INS | L06 | — | JUNE(VO): Meal list… so that you stop eating vending machine chips. | the copy rewrites itself | HUD: CRAFT 2/3
+> INS | L06 | — | JUNE(VO): Swap scripts… so that you get your weekends back. | the copy rewrites itself | HUD: CRAFT 3/3
+> CU | L06 | JUNE | JUNE: Oh. Now I'D buy it. | JUNE | OUT
+> CAM | L06 | VAN | VAN: Sell the after. | VAN looks into the lens | LOOP
+
+#057 THE 47-STEP FUNNEL
+type: A
+emo: smiech z prekomplikovaného „guru“ marketingu
+premise: Rex ukazuje svoj „lievik“ so 47 krokmi. Van nakreslí svoj: jeden.
+clue: Rexova tabuľa je taká dlhá, že presahuje z garáže na ulicu
+loop: Rex pridá krok 48
+caption: guru funnels be like: 47 steps, 12 upsells, 0 customers 🌀
+> W | L08 | REX | REX: My FUNNEL. Forty-seven STEPS. | REX unrolls a giant flowchart across the parking garage floor |
+> CU | L08 | REX | REX: Webinar, upsell, downsell, cross-sell, MEGA-sell! | REX points along the chart | DROP
+> MCU | L08 | JUNE VAN | JUNE: Do I NEED all that? | JUNE whispers to VAN |
+> MCU | L08 | VAN | VAN: How many buyers, Rex? | VAN calmly |
+> CU | L08 | REX | REX: Buyers are… a LAGGING indicator. | REX sweats | OUT
+> INS | L08 | VAN | — | VAN draws on a napkin: a single arrow "PAGE → BUY" |
+> CU | L08 | JUNE | JUNE: That's IT? | JUNE |
+> CAM | L08 | VAN | VAN: One step. | VAN looks into the lens | LOOP
+
+#058 THE SIMPLE FUNNEL
+type: B
+emo: pokoj – lievik nemusí byť zložitý
+edu: Jednoduchý lievik: 1) bezplatná vec (lead magnet), 2) e-mail, 3) platený produkt. Ľudia kupujú od tých, ktorým už raz pomohli.
+premise: June je zmätená z lievikov. Van jej to vysvetlí cez kávu: ochutnávka, rozhovor, kúpa.
+clue: na HUD tri ikonky: vzorka, obálka, nákupný košík
+loop: June ponúkne druhú ochutnávku
+caption: a funnel is just: free taste → conversation → purchase. that's it. ☕
+cta: yes
+> CU | L02 | JUNE | JUNE: Funnels confuse me. They look like SPAGHETTI. | JUNE in the break room | HUD: LEVEL 3 – FUNNEL
+> MCU | L02 | VAN | VAN: Think coffee shop. | VAN holds out a tiny paper cup | DROP
+> INS | L02 | — | VAN(VO): Free taste. | the tiny cup | HUD: STEP 1/3 – FREE SAMPLE
+> CU | L02 | JUNE | JUNE: Like a free SLEEP checklist? | JUNE |
+> INS | L02 | — | VAN(VO): Then a conversation. | an envelope icon on a phone | HUD: STEP 2/3 – EMAIL
+> INS | L02 | — | VAN(VO): Then the full cup. | VAN fills a big mug | HUD: STEP 3/3 – THE PRODUCT
+> CU | L02 | JUNE | JUNE: Taste. Talk. Buy. | JUNE counts on fingers | OUT
+> CAM | L02 | VAN | VAN: Simple works. | VAN looks into the lens | LOOP
+
+#059 HEADLINE TEST
+type: A
+emo: smiech – testovanie na NPC
+premise: June otestuje tri nadpisy na klonovaných kolegoch. Reagujú len na jeden.
+clue: NPC sa pri treťom nadpise po prvýkrát „prebudia“ – žmurknú
+loop: June zdvihne štvrtý papier
+caption: tested my headlines on my coworkers. one of them blinked for the first time in years 💀
+> W | L02 | JUNE NPC | JUNE: Okay. Headline ONE. "Night Shift Planner." | JUNE holds up a paper sign to three clones |
+> W | L02 | NPC | — | the clones stare blankly, no reaction | DROP
+> CU | L02 | JUNE | JUNE: Headline TWO. "Organize your shifts." | JUNE flips the paper |
+> W | L02 | NPC | — | the clones sip coffee in perfect sync, no reaction |
+> CU | L02 | JUNE | JUNE: THREE. "Sleep seven hours on night shift." | JUNE flips again | OUT
+> W | L02 | NPC | NPC: …Seven hours? | all three clones blink at the same time and look up with longing |
+> MCU | L02 | VAN | VAN: That one. | VAN points with his mug |
+> CAM | L02 | VAN | VAN: Pain wakes people. | VAN looks into the lens | LOOP
+
+#060 THE NURSES GROUP
+type: A
+emo: nádej, sesterská láska
+premise: Mae zdieľa June plánovač v súkromnej skupine sestier. June nevie, či to bude trápne.
+clue: skupina má 41 000 členov
+loop: pribudne ďalší komentár
+caption: my sister posted my planner in a nurses group with 41,000 members. I can't breathe. 😭
+> W | L09 | MAE | — | MAE on her break, typing on her phone at the nurses' station |
+> INS | L09 | — | — | a post in "Night Shift Nurses (41K members)": "My little sister made this and I finally sleep" | DROP
+> CU | L06 | JUNE | JUNE: Mae… you posted it WHERE?! | JUNE on the phone, horrified |
+> CU | L09 | MAE | MAE: Forty-one thousand nurses. You're welcome. | MAE grins tiredly |
+> CU | L06 | JUNE | JUNE: What if they HATE it? | JUNE hides under her blanket | OUT
+> INS | L06 | — | — | comments popping up: "WHERE do I get this", "need this yesterday", "link??" |
+> CU | L06 | JUNE | JUNE: They want the LINK. | JUNE peeks out |
+> CAM | L09 | MAE | MAE: Told you. | MAE looks into the lens | LOOP
+
+#061 PROOF
+type: B
+emo: dôvera – prečo ľudia kupujú
+edu: Social proof: 1) skutočný citát zákazníka, 2) pred/po, 3) fotka produktu v reálnom živote. Nikdy si ho nevymýšľaj.
+premise: June nemá recenzie. Van jej ukáže, že dôkazy už má – len ich musí slušne požiadať.
+clue: Mae fotka plánovača na skrinke sa stane obrázkom na stránke
+loop: príde ďalšia skutočná recenzia
+caption: no reviews yet? you probably have proof already. ask for it like this 🙏
+cta: yes
+> CU | L06 | JUNE | JUNE: Nobody trusts a page with ZERO reviews. | JUNE | HUD: LEVEL 3 – SOCIAL PROOF
+> MCU | L06 | VAN | VAN: Who already used it? | VAN on video call | DROP
+> CU | L06 | JUNE | JUNE: Mae. And Priya. | JUNE |
+> MCU | L06 | VAN | VAN: Ask for their words. | VAN | HUD: PROOF 1/3 – REAL QUOTE
+> MCU | L06 | VAN | VAN: Ask for before and after. | VAN | HUD: PROOF 2/3 – BEFORE / AFTER
+> MCU | L06 | VAN | VAN: Ask for one photo. | VAN | HUD: PROOF 3/3 – REAL PHOTO
+> INS | L06 | — | — | the sales page now shows MAE's locker photo and a quote "I slept 7 hours – Mae, RN" | OUT
+> CU | L06 | JUNE | JUNE: Should I make some up? | JUNE jokes nervously |
+> CAM | L06 | VAN | VAN: Never. Only real. | VAN looks into the lens, serious | LOOP
+
+#062 REFRESH
+type: C
+emo: netrpezlivosť – každý to pozná
+premise: June obnovuje stránku každých 5 sekúnd. Van jej vezme telefón.
+loop: June siahne po telefóne znova
+caption: refreshing your sales page every 5 seconds like it's going to help 🔄
+cta: yes
+> CU | L01 | JUNE | — | JUNE refreshes her phone under the desk again and again, eyes wide | DROP
+> INS | L01 | — | — | the phone: "SALES: 0" refreshing |
+> MCU | L01 | VAN | VAN: Watched pots. | VAN gently takes the phone and puts it face down |
+> CAM | L01 | VAN | VAN: Go make another. | VAN looks into the lens | OUT, LOOP

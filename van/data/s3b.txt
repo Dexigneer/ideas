@@ -1,0 +1,168 @@
+#063 FALSE ALARM
+type: A
+emo: napätie a smiech – trikrát sklamanie
+premise: June telefón pípne trikrát. Zakaždým si myslí, že je to predaj. Nie je.
+clue: tretia notifikácia je od mamy: „call me“
+loop: telefón pípne štvrtýkrát
+caption: every notification when you're waiting for your first sale 😩
+> CU | L01 | JUNE | — | JUNE's phone vibrates on the desk; she lunges for it | SFX: notification
+> INS | L01 | — | — | phone: "Your package is delayed" | DROP
+> CU | L01 | JUNE | JUNE: Not a sale. | JUNE slumps |
+> INS | L01 | — | — | phone: "Reminder: dentist Tuesday" | SFX: notification
+> CU | L01 | JUNE | JUNE: NOT a SALE. | JUNE groans |
+> INS | L01 | — | — | phone: "Mom: call me, are you eating?" | SFX: notification, OUT
+> CU | L01 | JUNE | JUNE: MOM. | JUNE drops her face onto the desk |
+> MCU | L01 | VAN | VAN: Call your mom. | VAN from the next desk |
+> CAM | L01 | VAN | VAN: Then wait. | VAN looks into the lens | LOOP
+
+#064 THE STAND-UP
+type: A
+emo: smiech z nekonečných porád
+premise: „Rýchly 5-minútový stand-up“ trvá 50 minút. Van si ako jediný sadne.
+clue: na tabuli „STAND-UP 5 MIN“, hodiny ukazujú, že prešlo 50 minút
+loop: niekto povie „one more thing…“
+caption: "quick 5 minute stand-up" — 50 minutes later 🧍🧍🧍
+> W | L11 | NPC JUNE | NPC: Quick update from me… | clones stand around the table, JUNE shifts her weight, legs tired |
+> INS | L11 | — | — | the whiteboard says "STAND-UP – 5 MIN"; the wall clock shows 50 minutes later | DROP
+> CU | L11 | JUNE | JUNE: My legs are SHAKING. | JUNE whispers |
+> W | L11 | NPC | NPC: Just ONE more thing… | another identical clone raises his hand |
+> CU | L11 | JUNE | JUNE: It's been FIFTY minutes. | JUNE | OUT
+> MCU | L11 | VAN | — | VAN calmly pulls out a rolling chair and sits down, mug in hand |
+> CU | L11 | JUNE | JUNE: You can't just SIT. | JUNE |
+> CAM | L11 | VAN | VAN: Watch me. | VAN looks into the lens | LOOP
+
+#065 THE FIRST PING
+type: A
+emo: eufória, slzy – najväčší moment sezóny
+premise: Uprostred šéfovej prezentácie zaznie June telefón. Prvý predaj. Utečie na schodisko a rozplače sa.
+clue: zvuk pingu je ten istý, aký má Van od 1. dielu
+loop: ping znova – druhý predaj
+caption: I got my first ever sale in the middle of my boss's presentation. 🔔😭
+> W | L11 | MGMT NPC JUNE | MGMT: And THAT is why morale is up twelve percent. | MANAGEMENT points at a pie chart, JUNE sits in the back |
+> INS | L11 | — | — | JUNE's phone lights up: "NEW SALE – Night Shift OS – $19" | PING, DROP
+> CU | L11 | JUNE | — | JUNE freezes, eyes wide, hand over her mouth |
+> CU | L11 | MGMT | MGMT: Something FUNNY, June? | MANAGEMENT's pen points at her |
+> CU | L11 | JUNE | JUNE: Bathroom. EMERGENCY. | JUNE bolts out |
+> W | L04 | JUNE | — | JUNE bursts into the stairwell under the green EXIT sign and slides down the wall | OUT
+> CU | L04 | JUNE | JUNE: Someone BOUGHT it. A stranger. | JUNE laughs and cries at the same time |
+> MCU | L04 | VAN | VAN: Hear that sound? | VAN sits on the stairs above her |
+> CAM | L04 | VAN | VAN: Now it's yours. | VAN looks into the lens | PING, LOOP
+
+#066 A NURSE IN OHIO
+type: A
+emo: hlboké dojatie – zmysel práce
+premise: June dostane e-mail od kupujúcej. Nová sestra z Ohia jej píše, že po prvý raz nemala chuť dať výpoveď.
+clue: podpis e-mailu: „– Dani, RN, 4 months on nights“
+loop: June otvorí ďalší e-mail
+caption: a nurse I've never met emailed me this. I read it 20 times. 🥹
+> W | L07 | JUNE | — | JUNE in the night bus, reading an email on her phone, streetlights passing |
+> INS | L07 | — | VOICE(VO): I almost quit nursing last week. | the email text on screen | DROP
+> CU | L07 | JUNE | — | JUNE's lips tremble |
+> INS | L07 | — | VOICE(VO): Your planner gave me my mornings back. | the email continues |
+> INS | L07 | — | VOICE(VO): Thank you. Dani, four months on nights. | the email signature | OUT
+> CU | L07 | JUNE | JUNE: I helped a NURSE. In OHIO. | JUNE whispers to herself, tears running |
+> 2S | L07 | VAN JUNE | VAN: Still small? | VAN sitting behind her, leaning forward |
+> CAM | L07 | JUNE | JUNE: Not anymore. | JUNE looks into the lens, smiling through tears | LOOP
+
+#067 THE WELCOME EMAILS
+type: B
+emo: pokoj – automatizácia
+edu: Po predaji pošli 3 e-maily: 1) vitaj + ako začať, 2) rýchla výhra do 24 h, 3) požiadaj o spätnú väzbu. AI email generátor (Vantage Suite) ich napíše za minúty.
+premise: June odpisuje každej kupujúcej ručne o 2:00 v noci. Van jej ukáže automatické uvítacie e-maily.
+clue: na HUD odpočet ručne písaných e-mailov: 47 → 0
+loop: príde ďalší predaj – e-mail odíde sám
+caption: stop answering every buyer at 2 AM. set up these 3 emails once. 📨
+cta: yes
+> CU | L06 | JUNE | JUNE: I'm answering every buyer BY HAND. At two AM. | JUNE typing, eyes red | HUD: LEVEL 3 – ONBOARDING, HUD: INBOX 47
+> MCU | L06 | VAN | VAN: Write three emails. Once. | VAN on video call | DROP
+> INS | L06 | — | VAN(VO): Welcome. Start here. | an email template generated in a retro terminal app | HUD: EMAIL 1/3 – WELCOME
+> INS | L06 | — | VAN(VO): One quick win today. | the second email appears | HUD: EMAIL 2/3 – QUICK WIN
+> INS | L06 | — | VAN(VO): How's it going? | the third email appears | HUD: EMAIL 3/3 – FEEDBACK
+> CU | L06 | JUNE | JUNE: And they send… by THEMSELVES? | JUNE |
+> INS | L06 | — | — | a new sale arrives and the welcome email sends automatically | PING, OUT, HUD: INBOX 0
+> CAM | L06 | VAN | VAN: Go to sleep. | VAN looks into the lens | LOOP
+
+#068 THE FIRST REFUND
+type: A
+emo: zranenie → rast
+premise: Príde prvá refundácia. June je zničená. Van jej povie, nech si prečíta prečo.
+clue: dôvod refundácie: „I work nights 3x a week, not 5“
+loop: June pridá „3-night version“
+caption: my first refund hurt more than my first sale felt good. then I read WHY. 💸
+> INS | L06 | — | — | phone: "REFUND REQUESTED – Night Shift OS" | SFX: error beep
+> CU | L06 | JUNE | JUNE: Someone wants their money BACK. | JUNE's face falls | DROP
+> CU | L06 | JUNE | JUNE: I'm a FRAUD. | JUNE hugs PIVOT |
+> MCU | L06 | VAN | VAN: Read the reason. | VAN on video call |
+> INS | L06 | — | — | the reason: "Great, but I work 3 nights a week, not 5" | OUT
+> CU | L06 | JUNE | JUNE: She didn't hate it. It didn't FIT. | JUNE sits up |
+> CU | L06 | JUNE | JUNE: A THREE-night version! | JUNE starts typing fast |
+> CAM | L06 | VAN | VAN: Refunds are research. | VAN looks into the lens | LOOP
+
+#069 THE BIRDHOUSE
+type: A
+emo: nádej pre Ollieho
+premise: June nájde Ollieho v parku. Ukáže jej svoje vtáčie búdky. June okamžite vidí produkt.
+clue: Ollie má v ruke ručne kreslený plán na papieri – presné rozmery
+loop: kačka si sadne na búdku
+caption: he thinks it's "just a hobby". I think it's a business. 🐦
+> W | L12 | OLLIE JUNE | JUNE: Ollie?! I've MISSED you. | JUNE runs to OLLIE on the park bench |
+> CU | L12 | OLLIE | OLLIE: Look what I've been doing with my free time. | OLLIE proudly shows a wooden birdhouse | DROP
+> INS | L12 | — | — | a hand-drawn plan on paper with exact measurements and neat handwriting |
+> CU | L12 | JUNE | JUNE: You DREW these plans? | JUNE grabs the paper |
+> CU | L12 | OLLIE | OLLIE: Forty of them. Just a hobby. | OLLIE shrugs | OUT
+> CU | L12 | JUNE | JUNE: Ollie, people would BUY these plans. | JUNE eyes wide |
+> CU | L12 | OLLIE | OLLIE: Who'd buy a drawing? | OLLIE laughs |
+> CAM | L12 | VAN | VAN: Ten thousand birdwatchers. | VAN, sitting on the next bench, looks into the lens | LOOP
+
+#070 THE ORDER BUMP
+type: B
+emo: „aha“ – viac hodnoty, viac tržby
+edu: Order bump: malý doplnok priamo v košíku (napr. $7), ktorý dáva zmysel s hlavným produktom. Nie nátlak, ale ďalší krok.
+premise: Van vysvetlí June order bump na príklade kávy a koláčika.
+clue: HUD ukazuje priemernú hodnotu objednávky $19 → $26
+loop: Van si vezme ďalší koláčik
+caption: "want a cookie with that?" — the simplest way to earn more per sale 🍪
+cta: yes
+> MCU | L02 | VAN JUNE | VAN: Coffee? | VAN hands JUNE a coffee in the break room | HUD: LEVEL 3 – ORDER BUMP
+> MCU | L02 | VAN | VAN: Want a cookie with it? | VAN holds out a cookie | DROP
+> CU | L02 | JUNE | JUNE: …Yes. Obviously. | JUNE takes it | HUD: COFFEE + COOKIE
+> MCU | L02 | VAN | VAN: That's an order bump. | VAN |
+> INS | L06 | — | — | checkout page: "Night Shift OS $19" plus a checkbox "+ 3 AM Meal Prep Pack $7" | HUD: AVG ORDER $19 → $26 | @3.2
+> CU | L02 | JUNE | JUNE: Small. Related. One CLICK. | JUNE | OUT
+> MCU | L02 | VAN | VAN: Helpful, not pushy. | VAN |
+> CAM | L02 | VAN | VAN: Cookie? | VAN looks into the lens, offering a cookie | LOOP
+
+#071 SINCE YOU'RE SO ORGANIZED
+type: A
+emo: hnev, nespravodlivosť
+premise: Šéf si všimne, že June je „zrazu taká organizovaná“, a hodí na ňu prácu dvoch ďalších ľudí.
+clue: na krabici so zložkami je meno „OLIVER“
+loop: pribudne ďalšia krabica
+caption: being good at your job just means you get more of it 📦
+> W | L01 | MGMT JUNE | MGMT: You've been SO organized lately, June. | MANAGEMENT drops a huge stack of folders on her desk |
+> CU | L01 | JUNE | JUNE: Thank you? | JUNE nervous | DROP
+> CU | L01 | MGMT | MGMT: So you'll take Oliver's ACCOUNTS too. | MANAGEMENT drops another box |
+> INS | L01 | — | — | the box is labelled "OLIVER – ACCOUNTS" |
+> CU | L01 | JUNE | JUNE: Same salary? | JUNE |
+> CU | L01 | MGMT | MGMT: Same TEAM spirit. | MANAGEMENT gives a thumbs up | OUT
+> MCU | L01 | VAN | VAN: Reward for good work. | VAN looks at the boxes |
+> CAM | L01 | VAN | VAN: More work. | VAN looks into the lens | LOOP
+
+#072 THE RENT MATH
+type: B
+emo: jasnosť – konkrétny cieľ, ktorý vyzerá dosiahnuteľne
+edu: Spätná matematika: cieľ ÷ cena = počet predajov. Rozdeľ na deň. Cieľ sa zmení z „veľkého sna“ na „2 predaje denne“.
+premise: June chce „veľa peňazí“. Van ju donúti spočítať, koľko predajov potrebuje na nájom.
+clue: na tabuli sa číslo zmení na „2 / DAY“
+loop: June prepočíta ďalší cieľ
+caption: "I want to make money online" isn't a goal. do this math instead. 🧮 (example numbers)
+cta: yes
+> CU | L11 | JUNE | JUNE: I want to make LOTS of money. | JUNE at the whiteboard | HUD: LEVEL 3 – THE MATH
+> MCU | L11 | VAN | VAN: How much is rent? | VAN | DROP
+> CU | L11 | JUNE | JUNE: Twelve hundred. | JUNE writes 1200 | HUD: GOAL: RENT
+> MCU | L11 | VAN | VAN: Divide by your price. | VAN |
+> INS | L11 | JUNE | JUNE(VO): Twelve hundred divided by nineteen… sixty-three sales. | the whiteboard: 1200 / 19 = 63 | HUD: 63 SALES / MONTH
+> MCU | L11 | VAN | VAN: Per day? | VAN |
+> CU | L11 | JUNE | JUNE: About… TWO a day? | JUNE's eyes widen | OUT, HUD: 2 SALES / DAY
+> CU | L11 | JUNE | JUNE: That's not a dream. That's a PLAN. | JUNE |
+> CAM | L11 | VAN | VAN: Math beats hope. | VAN looks into the lens | LOOP

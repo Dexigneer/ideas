@@ -132,7 +132,7 @@ SHOTS = {
 }
 
 TYPE_NAMES = {"A": "Typ A – cutscéna", "B": "Typ B – tutorial level", "C": "Typ C – idle (motivácia)"}
-TYPE_RANGES = {"A": (14, 32), "B": (18, 48), "C": (7, 18)}
+TYPE_RANGES = {"A": (14, 32), "B": (16, 48), "C": (7, 18)}
 
 SEASONS = [
     (1, 26, "S1", "LEVEL 1 – SYSTEM OVERRIDE"),

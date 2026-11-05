@@ -2,7 +2,7 @@
 
 `S2 · LEVEL 2 – ASSET FORGING` · `Typ A – cutscéna` · `~18 s` · `9 záberov`
 
-[← #051](../S2/051-what-s-it-worth.md) · [📋 zoznam](../README.md)
+[← #051](../S2/051-what-s-it-worth.md) · [📋 zoznam](../README.md) · [#053 →](../S3/053-published.md)
 
 > **Premisa:** Polnoc. Produkt je hotový. June má prst nad tlačidlom PUBLISH. Zazvoní telefón – šéf.  
 > **Emócia diváka:** napätie, strach, cliffhanger  

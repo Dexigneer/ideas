@@ -4,7 +4,7 @@ Každý scenár má vlastný súbor: storyboard, prompt pre každý záber, titu
 Reference images: [`../01-character-sheets.md`](../01-character-sheets.md) a [`../02-location-sheets.md`](../02-location-sheets.md). Postup: [`../README.md`](../README.md).
 
 Typy: **A** = cutscéna (virál), **B** = tutorial level (vzdelávanie), **C** = idle (motivácia).
-Spolu **52** videí – A: 34, B: 14, C: 4.
+Spolu **78** videí – A: 50, B: 22, C: 6.
 
 
 ## S1 · LEVEL 1 – SYSTEM OVERRIDE
@@ -68,3 +68,34 @@ Spolu **52** videí – A: 34, B: 14, C: 4.
 | 050 | [SEVEN HOURS](S2/050-seven-hours.md) | A | 17 s | „Mae? Is something WRONG?“ | dojatie – produkt naozaj pomáha |
 | 051 | [WHAT'S IT WORTH?](S2/051-what-s-it-worth.md) | B | 19 s | „Three dollars. It's just a PDF.“ | odvaha pýtať si peniaze |
 | 052 | [THE PUBLISH BUTTON](S2/052-the-publish-button.md) | A | 18 s | „What if NOBODY buys it?“ | napätie, strach, cliffhanger |
+
+## S3 · LEVEL 3 – THE SALES ENGINE
+
+| # | názov | typ | dĺžka | hook (1. replika) | emócia |
+|---|---|---|---|---|---|
+| 053 | [PUBLISHED](S3/053-published.md) | A | 20 s | „I did it. I actually DID it.“ | odvaha → ticho → realita |
+| 054 | [THE STOREFRONT](S3/054-the-storefront.md) | B | 21 s | „Where do I click?“ | jasnosť – jednoduchosť predáva |
+| 055 | [DAY 3: ZERO](S3/055-day-3-zero.md) | A | 19 s | „Three days. ZERO. I'm deleting it.“ | sklamanie, osamelosť – a potom nádej |
+| 056 | [OUTCOMES, NOT FEATURES](S3/056-outcomes-not-features.md) | B | 25 s | „Nobody wants pages.“ | „aha“ – takto sa píše predajný text |
+| 057 | [THE 47-STEP FUNNEL](S3/057-the-47-step-funnel.md) | A | 19 s | „My FUNNEL. Forty-seven STEPS.“ | smiech z prekomplikovaného „guru“ marketingu |
+| 058 | [THE SIMPLE FUNNEL](S3/058-the-simple-funnel.md) | B | 18 s | „Funnels confuse me. They look like SPAGHETTI.“ | pokoj – lievik nemusí byť zložitý |
+| 059 | [HEADLINE TEST](S3/059-headline-test.md) | A | 18 s | „Okay. Headline ONE. "Night Shift Planner."“ | smiech – testovanie na NPC |
+| 060 | [THE NURSES GROUP](S3/060-the-nurses-group.md) | A | 17 s | „Mae… you posted it WHERE?!“ | nádej, sesterská láska |
+| 061 | [PROOF](S3/061-proof.md) | B | 23 s | „Nobody trusts a page with ZERO reviews.“ | dôvera – prečo ľudia kupujú |
+| 062 | [REFRESH](S3/062-refresh.md) | C | 7 s | „Watched pots.“ | netrpezlivosť – každý to pozná |
+| 063 | [FALSE ALARM](S3/063-false-alarm.md) | A | 16 s | „Not a sale.“ | napätie a smiech – trikrát sklamanie |
+| 064 | [THE STAND-UP](S3/064-the-stand-up.md) | A | 16 s | „Quick update from me…“ | smiech z nekonečných porád |
+| 065 | [THE FIRST PING](S3/065-the-first-ping.md) | A | 19 s | „And THAT is why morale is up twelve percent.“ | eufória, slzy – najväčší moment sezóny |
+| 066 | [A NURSE IN OHIO](S3/066-a-nurse-in-ohio.md) | A | 19 s | „I almost quit nursing last week.“ | hlboké dojatie – zmysel práce |
+| 067 | [THE WELCOME EMAILS](S3/067-the-welcome-emails.md) | B | 20 s | „I'm answering every buyer BY HAND. At two AM.“ | pokoj – automatizácia |
+| 068 | [THE FIRST REFUND](S3/068-the-first-refund.md) | A | 18 s | „Someone wants their money BACK.“ | zranenie → rast |
+| 069 | [THE BIRDHOUSE](S3/069-the-birdhouse.md) | A | 20 s | „Ollie?! I've MISSED you.“ | nádej pre Ollieho |
+| 070 | [THE ORDER BUMP](S3/070-the-order-bump.md) | B | 18 s | „Coffee?“ | „aha“ – viac hodnoty, viac tržby |
+| 071 | [SINCE YOU'RE SO ORGANIZED](S3/071-since-you-re-so-organized.md) | A | 17 s | „You've been SO organized lately, June.“ | hnev, nespravodlivosť |
+| 072 | [THE RENT MATH](S3/072-the-rent-math.md) | B | 23 s | „I want to make LOTS of money.“ | jasnosť – konkrétny cieľ, ktorý vyzerá dosiahnuteľne |
+| 073 | [RENT PAID](S3/073-rent-paid.md) | A | 19 s | „The PLANNER paid my rent.“ | hrdosť, úľava, slzy šťastia |
+| 074 | [SATURDAY](S3/074-saturday.md) | A | 18 s | „Saturday lunch? I know you're busy, son.“ | dojatie, uzdravenie Vanovej rany |
+| 075 | [BURNOUT](S3/075-burnout.md) | A | 19 s | „Are we SLEEPING on company time?!“ | varovanie, starostlivosť o seba |
+| 076 | [THE COMMAND CENTER](S3/076-the-command-center.md) | B | 19 s | „My notes are EVERYWHERE. Forty apps.“ | pokoj, kontrola |
+| 077 | [TEN PINGS](S3/077-ten-pings.md) | C | 6 s | „I stopped counting.“ | tichá radosť, hrdosť |
+| 078 | [MY OFFICE. NOW.](S3/078-my-office-now.md) | A | 19 s | „Night Shift… O.S.?“ | šok, napätie – cliffhanger sezóny |
